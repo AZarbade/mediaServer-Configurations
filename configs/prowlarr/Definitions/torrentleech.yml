@@ -95,6 +95,10 @@ settings:
     type: checkbox
     label: Exclude SCENE torrents from results
     default: false
+  - name: exclude_archives
+    type: checkbox
+    label: Exclude torrents with the tag RAR from results
+    default: false
   - name: sort
     type: select
     label: Sort requested from site
@@ -148,6 +152,8 @@ search:
     # remove dashes at the beginning of keywords as they exclude search strings (see issue #3096)
     - name: re_replace
       args: ["(^|\\s)-", " "]
+    - name: append
+      args: "{{ if .Config.exclude_archives }} -tags:rar{{ else }}{{ end }}"
   rows:
     selector: torrentList
     count:
@@ -170,9 +176,9 @@ search:
     _filename:
       selector: filename
     details:
-      text: "{{ .Config.sitelink }}torrent/{{ .Result._id }}"
+      text: "/torrent/{{ .Result._id }}"
     download:
-      text: "{{ .Config.sitelink }}download/{{ .Result._id }}/{{ .Result._filename }}"
+      text: "/download/{{ .Result._id }}/{{ .Result._filename }}"
     genre:
       selector: tags
       filters:

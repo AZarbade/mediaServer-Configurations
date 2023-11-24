@@ -15,6 +15,7 @@ caps:
     - {id: 402, cat: TV, desc: "TV Series(电视剧)"}
     - {id: 405, cat: TV/Anime, desc: "Anime(动画)"}
     - {id: 411, cat: Audio, desc: "Music(音乐)"}
+    - {id: 416, cat: Books/Comics, desc: "Comic(漫画)"}
     - {id: 406, cat: Audio/Video, desc: "MV(演唱)"}
     - {id: 412, cat: PC/0day, desc: "Software(软件)"}
     - {id: 413, cat: PC/Games, desc: "Game(游戏)"}
@@ -22,6 +23,8 @@ caps:
     - {id: 404, cat: TV/Documentary, desc: "Documentaries(纪录片)"}
     - {id: 407, cat: TV/Sport, desc: "Sports(体育)"}
     - {id: 408, cat: Audio, desc: "Audio(音频)"}
+    - {id: 415, cat: Books/EBook, desc: "E-Booko(电子书/有声书)"}
+    - {id: 417, cat: Other, desc: "学习资料(Education)"}
     - {id: 409, cat: Other, desc: "Misc(其他)"}
 
   modes:
@@ -29,6 +32,7 @@ caps:
     tv-search: [q, season, ep, imdbid, doubanid]
     movie-search: [q, imdbid, doubanid]
     music-search: [q]
+    book-search: [q]
 
 settings:
   - name: username
@@ -192,4 +196,4 @@ search:
     description:
       selector: td:nth-child(2)
       remove: a, b, font, img, span
-# NexusPHP v1.8.5 2023-07-29
+# NexusPHP v1.8.8 2023-09-25

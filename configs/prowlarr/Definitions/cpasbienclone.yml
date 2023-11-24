@@ -37,7 +37,7 @@ settings:
   - name: info_8000
     type: info
     label: About cpasbienclone Categories
-    default: cpasbienclone does not return categories in its search results.</br>To add to your Apps' Torznab indexer, replace all categories with 8000(Other).
+    default: cpasbienclone does not return categories in its search results. To sync to your apps, include 8000(Other) in your Apps' Sync Categories.
   - name: multilang
     type: checkbox
     label: Replace MULTi by another language in release name
@@ -118,26 +118,10 @@ search:
       selector: div.poid
       filters:
         - name: re_replace
-          args: ["\\.(\\d)Ko", "$1X00"]
+          args: ["(\\w)o", "$1B"]
+          # keyword search returns nnnnn.n in MB but without unit indicator
         - name: re_replace
-          args: ["Ko", "000"]
-        - name: re_replace
-          args: ["\\.(\\d)Mo", "$1X00000"]
-        - name: re_replace
-          args: ["Mo", "000000"]
-        - name: re_replace
-          args: ["\\.(\\d)Go", "$1X00000000"]
-        - name: re_replace
-          args: ["Go", "000000000"]
-        - name: re_replace
-          args: ["\\.(\\d)To", "$1X00000000000"]
-        - name: re_replace
-          args: ["To", "000000000000"]
-        - name: replace
-          args: ["X", ""]
-          # this is for the search with keywords which returns sizes nnnnn.n without unit indicator.
-        - name: re_replace
-          args: ["(\\d+)\\.\\d", "$1 MB"]
+          args: ["(\\d+\\.\\d)$", "$1MB"]
     date:
       text: now
     seeders:
