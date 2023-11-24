@@ -1,0 +1,125 @@
+version: "1.0"
+
+services:
+  homepage:
+    image: ghcr.io/benphelps/homepage:latest
+    container_name: homepage
+    ports:
+      - 3000:3000
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\homepage:/app/config
+    restart: unless-stopped
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=info
+      - LOG_HTML=false
+      - CAPTCHA_SOLVER=none
+      - TZ=Asia/Kolkata
+    ports:
+      - 8191:8191
+    restart: unless-stopped 
+
+  jellyfin:
+    container_name: jellyfin
+    image: cr.hotio.dev/hotio/jellyfin
+    ports:
+      - 8096:8096
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\jellyfin:/config
+      - D:\data:/data
+    restart: unless-stopped
+
+  prowlarr:
+      container_name: prowlarr
+      image: cr.hotio.dev/hotio/prowlarr
+      ports:
+        - 9696:9696
+      environment:
+        - PUID=1000
+        - PGID=1000
+        - UMASK=002
+        - TZ=Asia/Kolkata
+      volumes:
+        - C:\Users\adwai\OneDrive\Documents\docker\configs\prowlarr:/config
+      restart: unless-stopped
+
+  qbittorrent:
+    container_name: qbittorrent
+    image: cr.hotio.dev/hotio/qbittorrent
+    ports:
+      - 8080:8080
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\qbittorrent:/config
+      - D:\data\:/data
+    restart: unless-stopped
+
+  sonarr:
+    container_name: sonarr
+    image: cr.hotio.dev/hotio/sonarr
+    ports:
+      - 8989:8989
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\sonarr:/config
+      - D:\data:/data
+    restart: unless-stopped
+
+  radarr:
+    container_name: radarr
+    image: cr.hotio.dev/hotio/radarr
+    ports:
+      - 7878:7878
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\radarr:/config
+      - D:\data:/data
+    restart: unless-stopped
+
+  jellyseerr:
+    container_name: jellyseerr
+    image: fallenbagel/jellyseerr:latest
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=Asia/Kolkata
+    ports:
+      - 5055:5055
+    volumes:
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\jellyseerr:/app/config
+      - D:\data:/data
+    restart: unless-stopped
+
+  speedtest-tracker:
+    container_name: speedtest-tracker
+    image: ghcr.io/alexjustesen/speedtest-tracker:latest
+    ports:
+      - 9090:80
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - C:\Users\adwai\OneDrive\Documents\docker\configs\speedtest:/config
+      - /etc/ssl/web:/etc/ssl/web
+    restart: unless-stopped

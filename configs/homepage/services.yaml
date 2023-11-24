@@ -1,0 +1,59 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/en/configs/services
+
+- Media:
+    - Jellyfin:
+        icon: jellyfin.svg
+        href: http://localhost:8096
+        widget:
+            type: jellyfin
+            url: http://192.168.1.101:8096
+            key: ec9e62665b154d8c95cb22cfbdf7bc18
+            enableBlocks: true # optional, defaults to false
+            enableNowPlaying: false # optional, defaults to true
+    
+    - Jellyseerr:
+        icon: jellyseerr.svg
+        href: http://localhost:5055
+        widget:
+            type: jellyseerr
+            url: http://192.168.1.101:5055
+            key: MTY5MTQ0MDM0NzY2MWFjZmQ3YTA5LTQ5OTUtNGQ3NS1hMGU5LTViZjM2YjEwODc4Yg==
+
+    - Radarr:
+        icon: radarr.svg
+        href: http://localhost:7878
+        widget:
+            type: radarr
+            url: http://192.168.1.101:7878
+            key: bb3db299c2c946a1a24a555d54af992e
+            enableQueue: false # optional, defaults to false
+
+    - Sonarr:
+        icon: sonarr.svg
+        href: http://localhost:8989
+        widget:
+            type: sonarr
+            url: http://192.168.1.101:8989
+            key: 68d63cb461584ecf8d66c2f160e3c16d
+            enableQueue: false # optional, defaults to false
+
+- Documents & Files:
+    - qBittorrent:
+        icon: qbittorrent.svg
+        href: http://localhost:8080
+        widget:
+            type: qbittorrent
+            url: http://192.168.1.101:8080
+            username: adwait
+            password: adaslkj
+
+- Utilites:
+    - Speedtest:
+        icon: librespeed.svg
+        href: http://localhost:9090
+        widget:
+            type: speedtest
+            url: http://192.168.1.101:9090
+

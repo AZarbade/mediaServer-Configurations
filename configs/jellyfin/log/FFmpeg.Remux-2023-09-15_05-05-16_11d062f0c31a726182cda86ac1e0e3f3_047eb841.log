@@ -1,0 +1,100 @@
+/videos/11d062f0-c31a-7261-82cd-a86ac1e0e3f3/hls1/main/0.ts
+
+{"Protocol":0,"Id":"11d062f0c31a726182cda86ac1e0e3f3","Path":"/data/shuss/randos/Cute teen crossdresser fuck - XVIDEOS.COM.ts","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mpegts","Size":22497584,"Name":"Cute teen crossdresser fuck - XVIDEOS.COM","IsRemote":false,"ETag":"e46b36e827ebbc3178c3161f3f194196","RunTimeTicks":3649662220,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/90000","CodecTimeBase":null,"Title":null,"VideoRange":"SDR","VideoRangeType":"SDR","VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"480p H264 SDR","NalLengthSize":"0","IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":493143,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":416,"Width":554,"AverageFrameRate":25,"RealFrameRate":25,"Profile":"Main","Type":1,"AspectRatio":"4:3","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":30,"IsAnamorphic":null},{"Codec":"aac","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/90000","CodecTimeBase":null,"Title":null,"VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"AAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"stereo","BitRate":66696,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":44100,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":559839,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":null,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -fflags +genpts -f mpegts  -i file:"/data/shuss/randos/Cute teen crossdresser fuck - XVIDEOS.COM.ts" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 copy -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type mpegts -start_number 0 -hls_segment_filename "/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b%d.ts" -hls_playlist_type vod -hls_list_size 0 -y "/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b.m3u8"
+
+
+ffmpeg version 5.1.3-Jellyfin Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.4.0-1ubuntu1~22.04)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-libs=-lfftw3f --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-libdrm --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libsvtav1 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-opencl --enable-vaapi --enable-amf --enable-libmfx --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      57. 28.100 / 57. 28.100
+  libavcodec     59. 37.100 / 59. 37.100
+  libavformat    59. 27.100 / 59. 27.100
+  libavdevice    59.  7.100 / 59.  7.100
+  libavfilter     8. 44.100 /  8. 44.100
+  libswscale      6.  7.100 /  6.  7.100
+  libswresample   4.  7.100 /  4.  7.100
+  libpostproc    56.  6.100 / 56.  6.100
+Input #0, mpegts, from 'file:/data/shuss/randos/Cute teen crossdresser fuck - XVIDEOS.COM.ts':
+  Duration: 00:06:04.97, start: 1.400000, bitrate: 493 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(progressive), 554x416 [SAR 1:1 DAR 277:208], 25 fps, 25 tbr, 90k tbn
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 66 kb/s
+Output #0, hls, to '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b.m3u8':
+  Metadata:
+    encoder         : Lavf59.27.100
+  Stream #0:0: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(progressive), 554x416 [SAR 1:1 DAR 277:208], q=2-31, 25 fps, 25 tbr, 90k tbn
+  Stream #0:1: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 66 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=-1.0 size=N/A time=-00:00:00.08 bitrate=N/A speed=N/A    
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b0.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b1.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b2.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b3.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b4.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b5.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b6.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b7.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b8.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b9.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b10.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b11.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b12.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b13.ts' for writing
+frame= 2222 fps=729 q=-1.0 size=N/A time=00:01:28.75 bitrate=N/A speed=29.1x    
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b14.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b15.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b16.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b17.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b18.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b19.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b20.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b21.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b22.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b23.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b24.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b25.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b26.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b27.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b28.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b29.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b30.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b31.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b32.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b33.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b34.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b35.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b36.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b37.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b38.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b39.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b40.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b41.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b42.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b43.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b44.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b45.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b46.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b47.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b48.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b49.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b50.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b51.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b52.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b53.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b54.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b55.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b56.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b57.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b58.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b59.ts' for writing
+[hls @ 0x55675485a780] Opening '/config/data/transcodes/a7bcb76a7aae76b1515c8d59e04cf68b60.ts' for writing
+frame= 9123 fps=2627 q=-1.0 Lsize=N/A time=00:06:04.88 bitrate=N/A speed= 105x    
+video:16492kB audio:2811kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown

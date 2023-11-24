@@ -1,0 +1,377 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_3189_10_Episode_13__The_,Verdana,10,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_12834_120_Emptiness,Trebuchet MS,24,&H00483D2F,&H000000FF,&H00DAC19C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.33,0:00:03.61,italics,Duke,0,0,0,,How...
+Dialogue: 0,0:00:05.48,0:00:06.78,italics,Duke,0,0,0,,How...
+Dialogue: 0,0:00:09.65,0:00:11.65,italics,Duke,0,0,0,,did this happen?
+Dialogue: 0,0:00:14.14,0:00:17.65,italics,Narrator,0,0,0,,Death Incarnate dwells in the forest.
+Dialogue: 0,0:00:18.62,0:00:22.08,italics,Narrator,0,0,0,,He takes the life of whatever he touches.
+Dialogue: 0,0:00:22.08,0:00:26.04,italics,Narrator,0,0,0,,That was the curse the witch put on him.
+Dialogue: 0,0:00:26.75,0:00:31.51,italics,Narrator,0,0,0,,Why did the witch curse him? \NHow can the curse be broken?
+Dialogue: 0,0:00:31.78,0:00:34.98,italics,Narrator,0,0,0,,The answer remains hidden.
+Dialogue: 0,0:00:36.13,0:00:41.58,italics,Narrator,0,0,0,,And yet, he doesn't feel \Nthe least bit lonely.
+Dialogue: 0,0:02:12.98,0:02:16.63,sign_3189_10_Episode_13__The_,text,0,0,0,,{\pos(475,295)\blur2\fad(1,411)}Episode 13\N{\fs18} The Duke, Alice, and the Magic Pool
+Dialogue: 0,0:02:21.88,0:02:22.90,main,Alice,0,0,0,,Your Grace.
+Dialogue: 0,0:02:23.63,0:02:25.18,main,Duke,0,0,0,,Alice, you scared me!
+Dialogue: 0,0:02:25.18,0:02:27.55,main,Duke,0,0,0,,You're too close! But I guess \Nyou're always too close.
+Dialogue: 0,0:02:27.55,0:02:30.91,main,Alice,0,0,0,,I knocked, but there was no answer.
+Dialogue: 0,0:02:30.91,0:02:32.12,main,Duke,0,0,0,,Oh, yeah?
+Dialogue: 0,0:02:32.12,0:02:33.75,main,Duke,0,0,0,,I guess I was focusing.
+Dialogue: 0,0:02:34.44,0:02:36.20,main,Alice,0,0,0,,A card tower?
+Dialogue: 0,0:02:36.20,0:02:38.01,main,Alice,0,0,0,,You're quite good with your hands.
+Dialogue: 0,0:02:38.94,0:02:41.74,main,Alice,0,0,0,,The way you were panicking a moment ago,
+Dialogue: 0,0:02:41.74,0:02:45.29,main,Alice,0,0,0,,I assumed you were by yourself because you \Ndidn't want me to see what you were doing.
+Dialogue: 0,0:02:45.65,0:02:46.60,main,Duke,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:02:46.99,0:02:49.04,main,Alice,0,0,0,,You have no idea at all?
+Dialogue: 0,0:02:49.04,0:02:52.17,main,Duke,0,0,0,,No! So stay away from me!
+Dialogue: 0,0:02:52.17,0:02:54.23,main,Duke,0,0,0,,You'll die if you touch me!
+Dialogue: 0,0:02:55.20,0:02:57.82,main,Alice,0,0,0,,I couldn't help myself. \NThe way you reacted was so cute.
+Dialogue: 0,0:02:58.11,0:02:59.69,main,Duke,0,0,0,,Be careful!
+Dialogue: 0,0:02:59.69,0:03:02.54,main,Duke,0,0,0,,If you died, I'd die too.
+Dialogue: 0,0:03:02.54,0:03:03.42,main,Alice,0,0,0,,Why?
+Dialogue: 0,0:03:03.42,0:03:07.06,main,Duke,0,0,0,,Why? Because I love you.
+Dialogue: 0,0:03:07.06,0:03:11.08,main,Alice,0,0,0,,Oh my. That's even cuter, Your Grace.
+Dialogue: 0,0:03:17.21,0:03:21.57,italics,Duke,0,0,0,,I want Alice to think I'm cool, not cute!
+Dialogue: 0,0:03:22.07,0:03:24.72,italics,Duke,0,0,0,,Just watch! I'll do something \Nawesome to impress her!
+Dialogue: 0,0:03:26.25,0:03:28.49,italics,Duke,0,0,0,,Well, she's certainly watching.
+Dialogue: 0,0:03:29.01,0:03:30.62,main,Duke,0,0,0,,I want to concentrate on placing the cards.
+Dialogue: 0,0:03:30.62,0:03:33.03,main,Duke,0,0,0,,Can you hand them to me?
+Dialogue: 0,0:03:33.03,0:03:33.60,main,Alice,0,0,0,,Of course,
+Dialogue: 0,0:03:33.73,0:03:34.71,main,Alice,0,0,0,,Your Grace.
+Dialogue: 0,0:03:34.71,0:03:36.19,main,Duke,0,0,0,,Don't put them there!
+Dialogue: 0,0:03:36.53,0:03:38.65,main,Alice,0,0,0,,I'll put some here, too.
+Dialogue: 0,0:03:39.09,0:03:41.86,italics,Duke,0,0,0,,I can't concentrate at all!
+Dialogue: 0,0:03:42.09,0:03:45.59,main,Alice,0,0,0,,I love seeing you so serious.
+Dialogue: 0,0:03:45.59,0:03:48.87,main,Duke,0,0,0,,Please, just let me focus!
+Dialogue: 0,0:03:52.16,0:03:55.13,main,Duke,0,0,0,,I know I've got more important \Nthings I should be doing.
+Dialogue: 0,0:03:57.23,0:04:00.76,main,Duke,0,0,0,,My mother gave me that time limit.
+Dialogue: 0,0:04:01.56,0:04:02.47,main,Alice,0,0,0,,Yes.
+Dialogue: 0,0:04:03.90,0:04:06.03,flashback,Mom,0,0,0,,You must break your curse \Nby spring at the latest.
+Dialogue: 0,0:04:08.41,0:04:11.13,main,Duke,0,0,0,,I don't like it, but...
+Dialogue: 0,0:04:12.29,0:04:15.77,main,Duke,0,0,0,,In her own way, she'd been \Nwaiting for me this whole time.
+Dialogue: 0,0:04:16.19,0:04:17.96,main,Duke,0,0,0,,I want to make her happy.
+Dialogue: 0,0:04:18.27,0:04:21.43,main,Duke,0,0,0,,Honestly, I'd be fine with \NWalter becoming the next heir.
+Dialogue: 0,0:04:22.97,0:04:26.08,flashback,Mom,0,0,0,,If you cannot, then I shall \Nmake Walter the heir.
+Dialogue: 0,0:04:27.06,0:04:31.61,main,Duke,0,0,0,,Of course, I want to break the curse, \Nand not because I want to be heir.
+Dialogue: 0,0:04:31.61,0:04:33.90,main,Duke,0,0,0,,Cuff and Zain are helping me.
+Dialogue: 0,0:04:33.90,0:04:37.29,main,Duke,0,0,0,,More than anything, I want to do it for you.
+Dialogue: 0,0:04:37.73,0:04:39.04,main,Alice,0,0,0,,Your Grace...
+Dialogue: 0,0:04:50.79,0:04:54.89,main,Duke,0,0,0,,Alice!
+Dialogue: 0,0:05:17.08,0:05:21.71,main,Ringmaster,0,0,0,,Have you enjoyed this night \Nfilled with mystery and wonder?
+Dialogue: 0,0:05:21.71,0:05:27.09,main,Ringmaster,0,0,0,,This concludes tonight's \NCircus Gemini performance.
+Dialogue: 0,0:05:33.56,0:05:35.18,main,Hugo,0,0,0,,The crowd loved you, Cuff!
+Dialogue: 0,0:05:35.56,0:05:37.82,main,Hugo,0,0,0,,Tonight's show was so cool!
+Dialogue: 0,0:05:37.82,0:05:41.94,main,Hugo,0,0,0,,I never would've had this much \Nfun if I'd stayed a pickpocket!
+Dialogue: 0,0:05:42.28,0:05:45.59,main,Hugo,0,0,0,,Thanks for inviting me here, Cuff!
+Dialogue: 0,0:05:45.59,0:05:47.70,main,Cuff,0,0,0,,You should thank the Ringmaster \Nfor inviting you here.
+Dialogue: 0,0:05:50.09,0:05:51.31,main,Hugo,0,0,0,,Just you wait.
+Dialogue: 0,0:05:51.31,0:05:53.08,main,Hugo,0,0,0,,I'll get even better at my tricks
+Dialogue: 0,0:05:53.08,0:05:55.88,main,Hugo,0,0,0,,and become a big-time man who's worthy of you!
+Dialogue: 0,0:06:00.13,0:06:04.46,main,Zain,0,0,0,,Hugo, you are far too young \Nto be trying to seduce girls.
+Dialogue: 0,0:06:04.46,0:06:06.08,main,Hugo,0,0,0,,Let me go, Zain!
+Dialogue: 0,0:06:06.08,0:06:07.91,main,Hugo,0,0,0,,Or I'll rip that weird \Nmask right off your face!
+Dialogue: 0,0:06:07.91,0:06:09.60,main,Zain,0,0,0,,I'd like to see you try—
+Dialogue: 0,0:06:09.60,0:06:10.60,main,Zain,0,0,0,,Ow! Ow!
+Dialogue: 0,0:06:10.60,0:06:11.89,main,Zain,0,0,0,,Ringmaster!
+Dialogue: 0,0:06:11.89,0:06:14.95,main,Zain,0,0,0,,He's bothering me! Make him go away!
+Dialogue: 0,0:06:14.95,0:06:15.47,main,Ringmaster,0,0,0,,Sure.
+Dialogue: 0,0:06:16.38,0:06:18.64,main,Ringmaster,0,0,0,,It's past your bedtime, kid.
+Dialogue: 0,0:06:18.64,0:06:21.01,main,Hugo,0,0,0,,Do you all pick me up the same way?
+Dialogue: 0,0:06:21.01,0:06:22.61,main,Hugo,0,0,0,,{\i1}Why{\i0} do you all pick me up the same way?
+Dialogue: 0,0:06:23.48,0:06:28.22,main,Ringmaster,0,0,0,,I'm glad you guys came. \NThe audience loves you.
+Dialogue: 0,0:06:28.22,0:06:29.38,main,Ringmaster,0,0,0,,Night.
+Dialogue: 0,0:06:29.38,0:06:30.41,main,Hugo,0,0,0,,Damn it!
+Dialogue: 0,0:06:30.41,0:06:31.63,main,Hugo,0,0,0,,Cuff, good night!
+Dialogue: 0,0:06:31.63,0:06:33.24,main,Hugo,0,0,0,,Zain, go screw yourself!
+Dialogue: 0,0:06:33.24,0:06:34.24,main,Hugo,0,0,0,,See you tomorrow!
+Dialogue: 0,0:06:34.24,0:06:36.21,main,Zain,0,0,0,,Right, good night!
+Dialogue: 0,0:06:36.81,0:06:41.27,main,Zain,0,0,0,,That kid might not like me, \Nbut he's a hard worker.
+Dialogue: 0,0:06:41.27,0:06:44.18,main,Zain,0,0,0,,He said he wants to work \Nhere and support his family.
+Dialogue: 0,0:06:44.18,0:06:48.18,main,Cuff,0,0,0,,Yup. He was only stealing because \Nhe didn't have a choice.
+Dialogue: 0,0:06:48.18,0:06:52.18,main,Cuff,0,0,0,,This is the first time I've ever been \Ngiven a flower. I think I like it!
+Dialogue: 0,0:06:52.46,0:06:53.55,main,Zain,0,0,0,,Well...
+Dialogue: 0,0:06:54.10,0:06:55.90,main,Zain,0,0,0,,I'll get you a flower too, then!
+Dialogue: 0,0:06:55.90,0:06:58.12,main,Zain,0,0,0,,One this big!
+Dialogue: 0,0:06:58.12,0:06:59.64,main,Cuff,0,0,0,,Oh, uh, thanks.
+Dialogue: 0,0:07:03.13,0:07:04.52,main,Zain,0,0,0,,Hey, Cuff.
+Dialogue: 0,0:07:05.02,0:07:07.08,main,Zain,0,0,0,,How long are we going to stay here?
+Dialogue: 0,0:07:07.54,0:07:13.98,main,Zain,0,0,0,,It's close to Alice and the Duke, and nobody \Nasks questions about how I look, but...
+Dialogue: 0,0:07:13.98,0:07:18.83,main,Cuff,0,0,0,,We need to get out of here before \Nthey find out we're witches.
+Dialogue: 0,0:07:18.83,0:07:20.87,main,Cuff,0,0,0,,I don't want to cause \Nproblems for the circus.
+Dialogue: 0,0:07:21.35,0:07:24.84,main,Cuff,0,0,0,,But... I don't want to leave this place.
+Dialogue: 0,0:07:27.80,0:07:31.29,main,Zain,0,0,0,,Oh, right! I just remembered something!
+Dialogue: 0,0:07:34.27,0:07:36.31,main,Zain,0,0,0,,Last time I went to the Witches' World,
+Dialogue: 0,0:07:36.31,0:07:40.77,main,Zain,0,0,0,,I swiped some magic items \Nwhile Daleth wasn't looking.
+Dialogue: 0,0:07:40.77,0:07:42.93,main,Cuff,0,0,0,,You're no better than Hugo.
+Dialogue: 0,0:07:42.93,0:07:46.73,main,Zain,0,0,0,,They were just sitting in an \Nold storeroom. Nobody will notice.
+Dialogue: 0,0:07:47.12,0:07:48.23,main,Zain,0,0,0,,And...
+Dialogue: 0,0:07:48.57,0:07:50.68,italics,Zain,0,0,0,,Daleth owes me.
+Dialogue: 0,0:07:51.62,0:07:54.20,italics,Zain,0,0,0,,She hasn't let me fondle \Neven one of her boobs!
+Dialogue: 0,0:07:54.20,0:07:55.55,main,Cuff,0,0,0,,And what?
+Dialogue: 0,0:07:55.55,0:07:57.08,main,Zain,0,0,0,,No, nothing!
+Dialogue: 0,0:08:00.34,0:08:01.08,main,Zain,0,0,0,,Here.
+Dialogue: 0,0:08:06.59,0:08:08.98,main,Cuff,0,0,0,,Look at all this stuff!
+Dialogue: 0,0:08:08.98,0:08:11.43,main,Cuff,0,0,0,,Let's take them with us next time \Nwe go see Alice and the Duke!
+Dialogue: 0,0:08:11.43,0:08:14.50,main,Cuff,0,0,0,,One of them might help break his curse!
+Dialogue: 0,0:08:15.88,0:08:19.52,main,Zain,0,0,0,,What do you want to live as?\NA witch or a human?
+Dialogue: 0,0:08:20.27,0:08:24.21,main,Zain,0,0,0,,If you don't use your magic, \Nyou can pass as a human.
+Dialogue: 0,0:08:25.64,0:08:29.12,main,Zain,0,0,0,,You've got friends here. \NYou wouldn't be alone.
+Dialogue: 0,0:08:30.80,0:08:34.18,italics,Zain,0,0,0,,And it would be less dangerous \Nthan staying with me.
+Dialogue: 0,0:08:35.48,0:08:38.08,main,Cuff,0,0,0,,I'm cold. Let me inside your jacket.
+Dialogue: 0,0:08:44.99,0:08:50.28,main,Cuff,0,0,0,,I don't care if I'm a human or \Na witch... as long as I'm with you.
+Dialogue: 0,0:08:50.28,0:08:52.30,main,Zain,0,0,0,,Oh. I see.
+Dialogue: 0,0:08:54.19,0:08:55.26,italics,Zain,0,0,0,,Boobs!
+Dialogue: 0,0:08:55.26,0:08:58.97,sign_12834_120_Emptiness,Zain,0,0,0,,Emptiness
+Dialogue: 0,0:08:56.49,0:08:58.03,italics,Zain,0,0,0,,Her boobs are touching me!
+Dialogue: 0,0:09:00.28,0:09:01.65,italics,Zain,0,0,0,,G Cup!
+Dialogue: 0,0:09:08.50,0:09:10.77,main,Daleth,0,0,0,,Every time I see it, I want it more.
+Dialogue: 0,0:09:12.00,0:09:15.85,main,Daleth,0,0,0,,The magic to control time...
+Dialogue: 0,0:09:19.20,0:09:22.42,main,Daleth,0,0,0,,You agree, don't you, Sharon?
+Dialogue: 0,0:09:47.01,0:09:49.17,main,Walter,0,0,0,,There you are, Viola.
+Dialogue: 0,0:09:50.65,0:09:54.22,main,Walter,0,0,0,,I'm glad you're still here. I thought \Nyou might've gone to see the eldest son.
+Dialogue: 0,0:09:54.22,0:09:57.27,main,Viola,0,0,0,,If I want to go, that's my choice, right?
+Dialogue: 0,0:09:57.27,0:10:01.04,main,Viola,0,0,0,,Mother never told me I couldn't.
+Dialogue: 0,0:10:01.37,0:10:03.53,main,Walter,0,0,0,,That's our grandfather and grandmother.
+Dialogue: 0,0:10:03.53,0:10:04.59,main,Viola,0,0,0,,Yes.
+Dialogue: 0,0:10:04.59,0:10:06.62,main,Viola,0,0,0,,I know it's a painting, but still,
+Dialogue: 0,0:10:06.62,0:10:09.08,main,Viola,0,0,0,,every time I see her, I can't \Nhelp but think how cute she is.
+Dialogue: 0,0:10:09.66,0:10:12.62,main,Viola,0,0,0,,I can see why Grandfather \Nwas so in love with her.
+Dialogue: 0,0:10:12.62,0:10:13.71,main,Walter,0,0,0,,Yes.
+Dialogue: 0,0:10:13.71,0:10:17.67,main,Walter,0,0,0,,She died in a carriage accident \Nshortly after Father was born.
+Dialogue: 0,0:10:18.49,0:10:22.01,main,Viola,0,0,0,,And he never remarried.
+Dialogue: 0,0:10:22.93,0:10:24.82,main,Viola,0,0,0,,He was probably so lonely.
+Dialogue: 0,0:10:29.80,0:10:31.94,main,Rob,0,0,0,,Perhaps I'm starting to see things...
+Dialogue: 0,0:10:31.94,0:10:33.28,main,Cuff,0,0,0,,Sorry to interrupt!
+Dialogue: 0,0:10:33.28,0:10:34.15,main,Duke,0,0,0,,Cuff?
+Dialogue: 0,0:10:35.78,0:10:37.44,main,Cuff,0,0,0,,Was I really interrupting?
+Dialogue: 0,0:10:37.44,0:10:38.92,main,Duke,0,0,0,,No, not at all!
+Dialogue: 0,0:10:38.92,0:10:40.28,main,Alice,0,0,0,,It's been a while.
+Dialogue: 0,0:10:40.60,0:10:45.74,main,Cuff,0,0,0,,The circus has been so busy lately\Nthat I haven't been able to drop by.
+Dialogue: 0,0:10:45.74,0:10:48.21,main,Duke,0,0,0,,We're just glad you came.
+Dialogue: 0,0:10:48.61,0:10:51.58,main,Duke,0,0,0,,We can't really go into town.
+Dialogue: 0,0:10:52.46,0:10:55.25,main,Cuff,0,0,0,,I love it here 'cause I can \Nuse all the magic I want!
+Dialogue: 0,0:10:55.25,0:10:57.21,main,Duke,0,0,0,,You'll burn the mansion down!
+Dialogue: 0,0:10:57.21,0:11:00.77,main,Cuff,0,0,0,,Don't worry! These flames are magic,\N and do whatever I want!
+Dialogue: 0,0:11:00.77,0:11:02.69,main,Cuff,0,0,0,,When they disappear, they leave\N nothing behind at all!
+Dialogue: 0,0:11:02.69,0:11:04.41,main,Duke,0,0,0,,Well, that's okay, then.
+Dialogue: 0,0:11:04.41,0:11:07.21,main,Duke,0,0,0,,But it's really hot in here now...
+Dialogue: 0,0:11:07.60,0:11:08.69,main,Cuff,0,0,0,,Right?
+Dialogue: 0,0:11:08.69,0:11:10.81,main,Cuff,0,0,0,,It's like the middle of summer, right?
+Dialogue: 0,0:11:12.17,0:11:14.36,main,Cuff,0,0,0,,So let's take a dip in the pool!
+Dialogue: 0,0:11:16.80,0:11:17.75,main,Duke,0,0,0,,Pool?
+Dialogue: 0,0:11:18.17,0:11:20.56,main,Alice,0,0,0,,I recognize this design.
+Dialogue: 0,0:11:20.56,0:11:22.79,main,Cuff,0,0,0,,Zain brought it from the Witches' World.
+Dialogue: 0,0:11:22.79,0:11:24.62,main,Cuff,0,0,0,,Now that I've heated up the room,
+Dialogue: 0,0:11:24.62,0:11:26.56,main,Cuff,0,0,0,,we can enjoy the pool even though \Nit's the middle of winter!
+Dialogue: 0,0:11:26.56,0:11:28.63,main,Cuff,0,0,0,,He even chose our swimsuits!
+Dialogue: 0,0:11:28.63,0:11:30.73,main,Duke,0,0,0,,You sure can tell what he likes...
+Dialogue: 0,0:11:30.73,0:11:32.66,main,Duke,0,0,0,,So, where is he?
+Dialogue: 0,0:11:33.30,0:11:34.84,main,Cuff,0,0,0,,Oh, he's...
+Dialogue: 0,0:11:34.84,0:11:36.50,flashback,Zain,0,0,0,,Listen carefully, Cuff.
+Dialogue: 0,0:11:36.50,0:11:38.58,flashback,Zain,0,0,0,,When you go swimming with \NAlice in your swimsuits,
+Dialogue: 0,0:11:38.58,0:11:40.85,flashback,Zain,0,0,0,,make sure you invite me!
+Dialogue: 0,0:11:40.85,0:11:43.34,flashback,Zain,0,0,0,,It's dangerous for two girls \Nto be in the water alone!
+Dialogue: 0,0:11:43.34,0:11:45.89,flashback,Zain,0,0,0,,You need me to keep watch!
+Dialogue: 0,0:11:45.89,0:11:47.14,flashback,Zain,0,0,0,,You need me, okay?!
+Dialogue: 0,0:11:47.49,0:11:48.85,main,Cuff,0,0,0,,I left him at home.
+Dialogue: 0,0:11:49.57,0:11:52.13,main,Cuff,0,0,0,,Anyway, Alice, let's get in the pool.
+Dialogue: 0,0:11:52.13,0:11:53.46,main,Cuff,0,0,0,,It's so hot!
+Dialogue: 0,0:11:53.46,0:11:55.00,main,Alice,0,0,0,,All right, just a moment.
+Dialogue: 0,0:11:55.00,0:11:56.49,main,Duke,0,0,0,,What are you doing?
+Dialogue: 0,0:11:56.49,0:12:00.28,main,Alice,0,0,0,,It's so hot in here, I thought I'd take \Noff my clothes before getting my swimsuit.
+Dialogue: 0,0:12:00.28,0:12:01.83,main,Duke,0,0,0,,Get the swimsuit first!
+Dialogue: 0,0:12:01.83,0:12:05.13,main,Duke,0,0,0,,Both of you, please change in another room!
+Dialogue: 0,0:12:05.13,0:12:06.83,main,Cuff,0,0,0,,I already changed, though.
+Dialogue: 0,0:12:06.83,0:12:07.87,main,Duke,0,0,0,,That was fast!
+Dialogue: 0,0:12:11.06,0:12:13.83,italics,Duke,0,0,0,,I can't look...
+Dialogue: 0,0:12:14.87,0:12:17.37,italics,Duke,0,0,0,,And Alice is right here.
+Dialogue: 0,0:12:17.37,0:12:20.23,main,Alice,0,0,0,,I'll go change in my room, then.
+Dialogue: 0,0:12:27.09,0:12:28.78,main,Alice,0,0,0,,I have returned.
+Dialogue: 0,0:12:30.05,0:12:32.27,italics,Duke,0,0,0,,She's so cute...
+Dialogue: 0,0:12:32.97,0:12:35.02,main,Duke,0,0,0,,You had your own swimsuit, then.
+Dialogue: 0,0:12:35.02,0:12:35.78,main,Alice,0,0,0,,Yes.
+Dialogue: 0,0:12:35.78,0:12:39.05,main,Alice,0,0,0,,I assumed I'd get a chance \Nto show it to you someday.
+Dialogue: 0,0:12:39.05,0:12:42.26,main,Cuff,0,0,0,,Hooray! Hooray! Hooray!
+Dialogue: 0,0:12:39.70,0:12:42.22,main,Alice,0,0,0,,You're not getting in the pool?
+Dialogue: 0,0:12:42.22,0:12:43.46,main,Duke,0,0,0,,I'll pass.
+Dialogue: 0,0:12:43.46,0:12:44.99,main,Duke,0,0,0,,You two have fun.
+Dialogue: 0,0:12:45.32,0:12:48.27,main,Alice,0,0,0,,You can sit there and watch us...
+Dialogue: 0,0:12:48.27,0:12:49.35,main,Alice,0,0,0,,all you like.
+Dialogue: 0,0:12:49.35,0:12:50.45,main,Duke,0,0,0,,Okay...
+Dialogue: 0,0:12:56.09,0:12:57.92,main,Cuff,0,0,0,,The water feels so good.
+Dialogue: 0,0:12:58.15,0:12:59.88,main,Cuff,0,0,0,,Whee! Splash!
+Dialogue: 0,0:13:00.19,0:13:03.31,italics,Duke,0,0,0,,Alice is so pretty.
+Dialogue: 0,0:13:04.04,0:13:07.04,italics,Duke,0,0,0,,Zain is gonna be so mad later.
+Dialogue: 0,0:13:07.04,0:13:08.01,main,Zain,0,0,0,,It's not fair!
+Dialogue: 0,0:13:09.44,0:13:10.97,main,Duke,0,0,0,,Hey, Cuff.
+Dialogue: 0,0:13:12.14,0:13:14.63,main,Duke,0,0,0,,You said you've been busy with the circus.
+Dialogue: 0,0:13:14.63,0:13:17.98,main,Duke,0,0,0,,Do the people there know you're a witch?
+Dialogue: 0,0:13:17.98,0:13:20.44,main,Cuff,0,0,0,,No, I don't think they do.
+Dialogue: 0,0:13:20.66,0:13:23.15,main,Duke,0,0,0,,Why did you join the circus, anyway?
+Dialogue: 0,0:13:23.15,0:13:25.13,main,Cuff,0,0,0,,Well...
+Dialogue: 0,0:13:25.45,0:13:28.07,main,Ringmaster,0,0,0,,You guys ever thought \Nabout joining the circus?
+Dialogue: 0,0:13:28.07,0:13:30.95,main,Ringmaster,0,0,0,,We don't get a lot of customers, \Nbut every day is fun!
+Dialogue: 0,0:13:31.33,0:13:35.39,main,Cuff,0,0,0,,The place is always on the verge \Nof bankruptcy, but it's a nice place.
+Dialogue: 0,0:13:35.39,0:13:39.49,main,Cuff,0,0,0,,Lately we've had more customers, so it's busy.
+Dialogue: 0,0:13:39.49,0:13:41.69,main,Duke,0,0,0,,I'd love to go see you some day.
+Dialogue: 0,0:13:41.69,0:13:43.04,main,Duke,0,0,0,,Right, Alice?
+Dialogue: 0,0:13:43.04,0:13:43.75,main,Alice,0,0,0,,Yes.
+Dialogue: 0,0:13:43.75,0:13:46.00,main,Cuff,0,0,0,,Any time! We'd always be happy to see you!
+Dialogue: 0,0:13:46.00,0:13:46.72,main,Alice,0,0,0,,Kyah!
+Dialogue: 0,0:13:46.72,0:13:50.56,italics,Alice,0,0,0,,Kyah! {\fs20}Kyah! {\fs16}Kyah!
+Dialogue: 0,0:13:49.47,0:13:52.45,italicstop,Duke,0,0,0,,She's so cute...
+Dialogue: 0,0:13:52.45,0:13:55.13,main,Cuff,0,0,0,,Now it's your turn to splash \Nme as hard as you can!
+Dialogue: 0,0:13:55.13,0:13:56.45,main,Cuff,0,0,0,,We can have a splash fight!
+Dialogue: 0,0:13:56.45,0:13:57.14,main,Alice,0,0,0,,Of course.
+Dialogue: 0,0:13:59.36,0:14:01.99,main,Cuff,0,0,0,,You're so nice...
+Dialogue: 0,0:14:02.99,0:14:04.28,main,Cuff,0,0,0,,What are you doing?
+Dialogue: 0,0:14:05.73,0:14:10.24,main,Duke,0,0,0,,I thought I could help you feel \Nlike you're on a tropical island.
+Dialogue: 0,0:14:10.24,0:14:12.88,main,Cuff,0,0,0,,It's not just the piano. You can paint, too.
+Dialogue: 0,0:14:13.51,0:14:14.24,main,Duke,0,0,0,,Thanks.
+Dialogue: 0,0:14:15.59,0:14:18.21,italics,Duke,0,0,0,,Oh no... It's a little too hot.
+Dialogue: 0,0:14:18.55,0:14:21.05,italics,Duke,0,0,0,,I'm getting dizzy.
+Dialogue: 0,0:14:22.09,0:14:23.42,main,Alice,0,0,0,,Your Grace.
+Dialogue: 0,0:14:23.69,0:14:27.65,main,Alice,0,0,0,,You seem hot. Why don't you join us?
+Dialogue: 0,0:14:28.08,0:14:30.59,main,Alice,0,0,0,,The water is cold and feels so good.
+Dialogue: 0,0:14:31.37,0:14:36.84,main,Duke,0,0,0,,No, I... I don't like baring my skin.
+Dialogue: 0,0:14:37.39,0:14:39.23,italics,Duke,0,0,0,,Oh no!
+Dialogue: 0,0:14:59.56,0:15:01.26,main,Duke,0,0,0,,Alice, are you okay?
+Dialogue: 0,0:15:01.26,0:15:02.92,main,Alice,0,0,0,,Yes, I'm fine.
+Dialogue: 0,0:15:05.18,0:15:07.55,main,Duke,0,0,0,,I need to make sure I'm staying hydrated.
+Dialogue: 0,0:15:07.55,0:15:09.63,main,Alice,0,0,0,,It's hot. We need to be careful.
+Dialogue: 0,0:15:10.12,0:15:13.14,main,Alice,0,0,0,,I've started to turn red myself.
+Dialogue: 0,0:15:18.40,0:15:21.06,main,Cuff,0,0,0,,That was so much fun!
+Dialogue: 0,0:15:21.46,0:15:24.02,main,Cuff,0,0,0,,I'm heading home, but you guys can have that.
+Dialogue: 0,0:15:24.35,0:15:25.86,main,Duke,0,0,0,,Th-Thanks.
+Dialogue: 0,0:15:26.09,0:15:28.50,main,Cuff,0,0,0,,And this is from Zain.
+Dialogue: 0,0:15:28.50,0:15:30.73,main,Duke,0,0,0,,A box? What's inside?
+Dialogue: 0,0:15:30.73,0:15:32.03,main,Cuff,0,0,0,,He didn't say.
+Dialogue: 0,0:15:32.28,0:15:34.25,flashback,Z,0,0,0,,I randomly grabbed a bunch of stuff!
+Dialogue: 0,0:15:34.25,0:15:36.83,flashback,Z,0,0,0,,So I'll have him try them out for me!
+Dialogue: 0,0:15:37.24,0:15:38.82,main,Cuff,0,0,0,,That's what he said.
+Dialogue: 0,0:15:38.82,0:15:40.96,main,Duke,0,0,0,,Am I his guinea pig?
+Dialogue: 0,0:15:46.44,0:15:49.21,main,Rob,0,0,0,,Perhaps it's part of a series?
+Dialogue: 0,0:15:49.21,0:15:51.34,main,Duke,0,0,0,,Yeah, probably.
+Dialogue: 0,0:15:58.89,0:16:00.98,main,Duke,0,0,0,,"Sweet dreams."
+Dialogue: 0,0:16:01.46,0:16:03.29,main,Duke,0,0,0,,What does it do, I wonder?
+Dialogue: 0,0:16:03.29,0:16:05.70,main,Alice,0,0,0,,Something they use in the Witches' \NWorld to help them sleep, perhaps?
+Dialogue: 0,0:16:05.70,0:16:08.73,main,Duke,0,0,0,,That would definitely be a nightmare.
+Dialogue: 0,0:16:08.73,0:16:12.70,main,Duke,0,0,0,,Well, Zain gave it to me. \NIt can't be that dangerous.
+Dialogue: 0,0:16:13.05,0:16:15.45,main,Duke,0,0,0,,Rustle, rustle, rustle...
+Dialogue: 0,0:16:16.98,0:16:18.26,main,Duke,0,0,0,,Pop!
+Dialogue: 0,0:16:19.16,0:16:21.12,main,Duke,0,0,0,,Oh?
+Dialogue: 0,0:16:24.97,0:16:25.92,main,Duke,0,0,0,,It's empty?
+Dialogue: 0,0:16:27.93,0:16:29.12,main,Alice,0,0,0,,Your Grace?
+Dialogue: 0,0:16:35.72,0:16:36.97,main,Duke,0,0,0,,What is this place?
+Dialogue: 0,0:16:36.97,0:16:38.68,main,Alice,0,0,0,,Welcome, Your Grace.
+Dialogue: 0,0:16:39.56,0:16:41.64,main,Duke,0,0,0,,Alice? Why are you dressed like that?
+Dialogue: 0,0:16:41.64,0:16:42.56,main,Alice,0,0,0,,I'm a bunny girl.
+Dialogue: 0,0:16:42.56,0:16:44.32,main,Duke,0,0,0,,No, I get that, but...
+Dialogue: 0,0:16:44.32,0:16:48.73,main,Alice,0,0,0,,In this place, your wishes become real.
+Dialogue: 0,0:16:48.73,0:16:50.78,main,Duke,0,0,0,,M-My wishes?
+Dialogue: 0,0:16:50.78,0:16:52.07,main,Alice,0,0,0,,I see.
+Dialogue: 0,0:16:52.07,0:16:55.71,main,Alice,0,0,0,,So this will allow me to see \Ninto your fantasies, then.
+Dialogue: 0,0:16:55.71,0:16:56.41,main,Duke,0,0,0,,Alice?
+Dialogue: 0,0:16:56.41,0:16:57.95,main,Duke,0,0,0,,No, this is...
+Dialogue: 0,0:16:58.24,0:17:00.41,main,Alice,0,0,0,,You like bunny girls, then?
+Dialogue: 0,0:17:00.41,0:17:02.66,main,Duke,0,0,0,,I'll get you for this, Zain!
+Dialogue: 0,0:17:02.66,0:17:07.23,main,Alice,0,0,0,,Since this world is a fantasy, \Nis it safe to touch His Grace?
+Dialogue: 0,0:17:07.23,0:17:08.25,main,Alice,0,0,0,,Of course.
+Dialogue: 0,0:17:08.50,0:17:10.71,main,Alice,0,0,0,,Would you like to touch me, Young Master?
+Dialogue: 0,0:17:10.71,0:17:12.52,main,Alice,0,0,0,,I'll just watch.
+Dialogue: 0,0:17:14.50,0:17:16.75,main,Duke,0,0,0,,Please, no!
+Dialogue: 0,0:17:16.75,0:17:19.11,main,Duke,0,0,0,,O-Oh, what's behind that door?
+Dialogue: 0,0:17:19.11,0:17:20.39,main,Alice,0,0,0,,Oh, this?
+Dialogue: 0,0:17:21.21,0:17:24.91,main,Alice,0,0,0,,It contains more of your fantasies.
+Dialogue: 0,0:17:24.91,0:17:26.10,main,Alice,0,0,0,,I'll show you around.
+Dialogue: 0,0:17:26.36,0:17:28.69,main,Duke,0,0,0,,D-Do I have to go?
+Dialogue: 0,0:17:28.69,0:17:32.75,main,Duke,0,0,0,,I've got the feeling Alice might see \Nsomething even more embarrassing...
+Dialogue: 0,0:17:32.75,0:17:34.68,main,Alice,0,0,0,,I'm very curious.
+Dialogue: 0,0:17:35.30,0:17:36.93,main,Alice,0,0,0,,I want to see, too.
+Dialogue: 0,0:17:36.93,0:17:38.23,main,Alice,0,0,0,,We agree, then.
+Dialogue: 0,0:17:38.23,0:17:39.82,main,Duke,0,0,0,,You're the same person!
+Dialogue: 0,0:17:40.11,0:17:42.29,main,Alice,0,0,0,,Let's just go.
+Dialogue: 0,0:17:48.09,0:17:50.33,main,Alice,0,0,0,,Oh, look at all of me!
+Dialogue: 0,0:17:50.33,0:17:52.19,main,Duke,0,0,0,,I'm so s-sorry.
+Dialogue: 0,0:17:52.19,0:17:54.20,main,Alice,0,0,0,,There's nothing to apologize for.
+Dialogue: 0,0:17:54.20,0:17:56.51,main,Alice,0,0,0,,Something like this is healthy, actually.
+Dialogue: 0,0:17:57.36,0:18:00.47,main,Duke,0,0,0,,I'm feeling nothing but \Nshame and embarrassment.
+Dialogue: 0,0:18:00.47,0:18:02.02,main,Duke,0,0,0,,Why am I being forced to suffer like this?
+Dialogue: 0,0:18:02.02,0:18:04.29,main,Alice,0,0,0,,I'm quite enjoying it.
+Dialogue: 0,0:18:04.29,0:18:07.45,main,Alice,0,0,0,,I need to write down what \Nyou like before I forget.
+Dialogue: 0,0:18:07.45,0:18:08.23,main,Duke,0,0,0,,Please no!
+Dialogue: 0,0:18:08.48,0:18:10.73,main,Alice,0,0,0,,Okay, next.
+Dialogue: 0,0:18:12.63,0:18:14.05,main,Viola,0,0,0,,Dear Brother!
+Dialogue: 0,0:18:14.05,0:18:14.98,main,Duke,0,0,0,,Viola?
+Dialogue: 0,0:18:14.98,0:18:18.49,main,Viola,0,0,0,,Um, there's something on this \Nmusic sheet I can't read.
+Dialogue: 0,0:18:18.49,0:18:20.82,main,Viola,0,0,0,,Tell me what this means again!
+Dialogue: 0,0:18:20.82,0:18:24.66,main,Duke,0,0,0,,"Allegretto. Moderately fast,\N slower than allegro."
+Dialogue: 0,0:18:24.66,0:18:25.68,main,Viola,0,0,0,,Thank you!
+Dialogue: 0,0:18:25.68,0:18:27.67,main,Viola,0,0,0,,You're so amazing, Dearest Brother!
+Dialogue: 0,0:18:27.67,0:18:30.37,main,Viola,0,0,0,,I'm so proud to be your little sister!
+Dialogue: 0,0:18:30.37,0:18:32.19,main,Alice,0,0,0,,Is this a fantasy, too?
+Dialogue: 0,0:18:32.19,0:18:35.10,main,Duke,0,0,0,,Yeah, and it's making me sad.
+Dialogue: 0,0:18:35.10,0:18:36.88,main,Alice,0,0,0,,Let's keep going.
+Dialogue: 0,0:18:51.23,0:18:52.23,main,Duke,0,0,0,,Wow...
+Dialogue: 0,0:18:54.37,0:18:56.88,main,Duke,0,0,0,,If I could play the piano \Nin a place like this...
+Dialogue: 0,0:18:57.32,0:18:58.87,main,Duke,0,0,0,,It would be so much fun, I'm sure.
+Dialogue: 0,0:19:00.48,0:19:02.53,main,Alice,0,0,0,,Will you play, then?
+Dialogue: 0,0:19:03.55,0:19:04.28,main,Duke,0,0,0,,I can?
+Dialogue: 0,0:19:04.28,0:19:06.66,main,Alice,0,0,0,,Yes. This is your fantasy, after all.
+Dialogue: 0,0:20:02.44,0:20:04.30,main,Alice,0,0,0,,That was wonderful, Your Grace.
+Dialogue: 0,0:20:05.40,0:20:07.01,main,Duke,0,0,0,,Thank you.
+Dialogue: 0,0:20:07.28,0:20:09.47,main,Alice,0,0,0,,Did you enjoy that?
+Dialogue: 0,0:20:09.47,0:20:10.12,main,Duke,0,0,0,,Yeah.
+Dialogue: 0,0:20:10.12,0:20:11.85,main,Duke,0,0,0,,I know it's just my own fantasy, though.
+Dialogue: 0,0:20:12.67,0:20:14.85,main,Alice,0,0,0,,This is a wonderful world.
+Dialogue: 0,0:20:15.17,0:20:16.64,main,Alice,0,0,0,,Let's look around a little more.
+Dialogue: 0,0:20:16.64,0:20:21.36,main,Duke,0,0,0,,Um, Alice, I'd rather call it a night...
+Dialogue: 0,0:20:21.93,0:20:24.75,main,Alice,0,0,0,,I want to see the depths of your desire.
+Dialogue: 0,0:20:24.75,0:20:26.32,main,Duke,0,0,0,,That's a really scary thing to say!
+Dialogue: 0,0:20:48.57,0:20:52.10,main,Duke,0,0,0,,A-Alice, what did you see?
+Dialogue: 0,0:20:52.10,0:20:57.03,main,Alice,0,0,0,,Your Grace, I didn't know you \Nimagined me looking like that.
+Dialogue: 0,0:20:57.03,0:20:58.27,main,Duke,0,0,0,,Wait, what?
+Dialogue: 0,0:20:58.27,0:20:59.15,main,Duke,0,0,0,,There's more?
+Dialogue: 0,0:20:59.45,0:21:01.78,main,Alice,0,0,0,,Now, let's get going.
+Dialogue: 0,0:21:01.78,0:21:06.56,top,Duke,0,0,0,,H-Hold it! What did you see? Alice? Alice!
+Dialogue: 0,0:21:02.52,0:21:04.79,main,Alice,0,0,0,,I'll show you to the exit.
+Dialogue: 0,0:21:11.16,0:21:14.84,main,Duke,0,0,0,,I loved playing the piano, \Nbut this box is scary.
+Dialogue: 0,0:21:14.84,0:21:17.44,main,Duke,0,0,0,,Zain, why did you give me this?
+Dialogue: 0,0:21:17.44,0:21:19.58,main,Alice,0,0,0,,I'll put this away.
+Dialogue: 0,0:21:19.58,0:21:21.71,main,Duke,0,0,0,,Yeah. Make sure you lock it up tight.
+Dialogue: 0,0:21:23.00,0:21:26.30,main,Alice,0,0,0,,It did make me happy, though.
+Dialogue: 0,0:23:35.01,0:23:40.25,sign_3189_10_Episode_13__The_,Rob,0,0,0,,{\fs15\an8\pos(165,30)}The Duke of Death and His Maid\N{\fs11}The Duke, Golf, and the Mysterious Beauty
+Dialogue: 0,0:23:35.59,0:23:39.42,main,Rob,0,0,0,,"The Duke, Golf, and the Mysterious Beauty."
+

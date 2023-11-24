@@ -1,0 +1,15 @@
+{
+  "category": "Metadata",
+  "changelog": "Remove from Jellyfin core.\n",
+  "description": "Get metadata from TheMovieDb\n",
+  "guid": "963fd785-53e7-440c-80bd-71661be1b7df",
+  "name": "TheMovieDb",
+  "overview": "Get metadata from TheMovieDb",
+  "owner": "jellyfin",
+  "targetAbi": "10.7.0.0",
+  "timestamp": "2021-03-29T02:40:36.0000000Z",
+  "version": "1.2103.2821.743",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": ""
+}

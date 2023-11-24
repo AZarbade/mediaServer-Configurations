@@ -1,0 +1,22 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/en/configs/bookmarks
+
+- Developement & Guides:
+    - Personal Github:
+        - icon: github.svg
+          href: https://github.com/AZarbade
+
+    # - Homepage:
+    #     icon: homer.svg
+    #     # href: https://github.com/benphelps/homepage
+
+    # - Hotio.dev:
+    #     icon:
+    #     href: https://hotio.dev/
+
+- Entertainment:
+    - YouTube:
+        - icon: youtube.svg
+          href: https://youtube.com/
+

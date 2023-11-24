@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseHash>{"Actors.json":"ff9bfad04cd8622b4951716838ab9574c14b45b4","Genres.json":"c38a4693b51fba824f168fdda728d0e340118319","SiteList.json":"29798f112598293da5bd9acd4f9f5ce050004c4c"}</DatabaseHash>
+  <TokenStorage>{}</TokenStorage>
+  <UID>dd89028e-6e66-41bd-a7fd-f17c18aa2894</UID>
+  <DisableAnalytics>false</DisableAnalytics>
+  <EnableDebug>false</EnableDebug>
+  <DisableCaching>false</DisableCaching>
+  <DisableSSLCheck>false</DisableSSLCheck>
+  <ProxyEnable>false</ProxyEnable>
+  <ProxyHost />
+  <ProxyPort>0</ProxyPort>
+  <ProxyLogin />
+  <ProxyPassword />
+  <FlareSolverrURL>http://localhost:8191/</FlareSolverrURL>
+  <DefaultSiteName />
+  <UseFilePath>false</UseFilePath>
+  <UseMetadataAPI>true</UseMetadataAPI>
+  <MetadataAPIToken />
+  <DisableActors>false</DisableActors>
+  <DisableGenres>false</DisableGenres>
+  <DisableImageValidation>false</DisableImageValidation>
+  <DisableImageSize>false</DisableImageSize>
+  <DisableAutoIdentify>false</DisableAutoIdentify>
+  <JAVActorNamingStyle>WesternStyle</JAVActorNamingStyle>
+  <GenresSortingStyle>Alphabetical</GenresSortingStyle>
+  <PreferedActorNameSource>LocalDatabase</PreferedActorNameSource>
+</PluginConfiguration>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="17670" restricted="false">
+<type>TV Series</type>
+<episodecount>8</episodecount>
+<startdate>2023-07-02</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Uchi no Kaisha no Chiisai Senpai no Hanashi</title>
+<title xml:lang="en" type="synonym">Story of a Small Senior in My Company</title>
+<title xml:lang="x-jat" type="short">chiisaisenpai</title>
+<title xml:lang="ja" type="official">うちの会社の小さい先輩の話</title>
+<title xml:lang="en" type="official">My Tiny Senpai</title>
+<title xml:lang="ru" type="official">МОЯ НЕВЫСОКАЯ КОЛЛЕГА</title>
+<title xml:lang="pt-BR" type="official">A Veterana Pitica da Firma</title>
+</titles>
+<url>https://chiisaisenpai.com/</url>
+<creators>
+<name id="28035" type="Series Composition">Satou Mitsutoshi</name>
+<name id="11709" type="Chief Animation Direction">Hashiguchi Hayato</name>
+<name id="72365" type="Chief Animation Direction">Heo Hye-Jung</name>
+<name id="15806" type="Chief Animation Direction">Yamada Masaru</name>
+<name id="35813" type="Animation Work">Project No.9</name>
+<name id="11709" type="Character Design">Hashiguchi Hayato</name>
+<name id="9372" type="Character Design">Ogata Hiromi</name>
+<name id="62953" type="Original Work">Saisou</name>
+<name id="28035" type="Direction">Satou Mitsutoshi</name>
+<name id="72364" type="Music">Horiguchi Sumika</name>
+</creators>
+<description>* Based on a romantic manga by http://anidb.net/cr62953 [Saisou].
+http://anidb.net/ch131099 [Shinozaki] is an office worker who is taken care of and coddled by his senior team member http://anidb.net/ch131098 [Katase Shiori]: a gorgeous, profoundly kind, loving, and diminutive woman. Shinozaki certainly hopes that she`s not doing it out of duty... but her joy of doing so increasingly exposes her feelings!
+Source: M-U</description>
+<ratings>
+<permanent count="53">3.90</permanent>
+<temporary count="53">5.46</temporary>
+</ratings>
+<picture>289894.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>26466</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>53379</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://chiisaisenpai.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Uchi_no_Kaisha_no_Chiisai_Senpai_no_Hanashi</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>うちの会社の小さい先輩の話</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>6733</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>388557</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>24953</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>smallsenpai_pr</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>G79H23Z45</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="7885" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2021-11-07">
+<name>Japanese production</name>
+</tag>
+</tags>
+<characters>
+<character id="131098" type="main character in" update="2023-03-19">
+<rating votes="5">8.07</rating>
+<name>Katase Shiori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>286651.jpg</picture>
+<seiyuu id="58277" picture="242923.jpg">Tachibana Hina</seiyuu>
+</character>
+<character id="131099" type="main character in" update="2023-03-19">
+<rating votes="1">3.07</rating>
+<name>Shinozaki Takuma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>286653.jpg</picture>
+<seiyuu id="46968" picture="223812.jpg">Shin Yuuki</seiyuu>
+</character>
+<character id="132666" type="secondary cast in" update="2023-08-06">
+<rating votes="4">9.70</rating>
+<name>Hayakawa Chinatsu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>290059.jpg</picture>
+<seiyuu id="38634" picture="274817.jpg">Hanamori Yumiri</seiyuu>
+</character>
+<character id="132667" type="secondary cast in" update="2023-06-05">
+<rating votes="2">5.34</rating>
+<name>Akina Chihiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>290060.jpg</picture>
+<seiyuu id="10776" picture="254687.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="132668" type="secondary cast in" update="2023-06-05">
+<rating votes="2">9.88</rating>
+<name>Shinozaki Yutaka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>290061.jpg</picture>
+<seiyuu id="16085" picture="178446.jpg">Komatsu Mikako</seiyuu>
+</character>
+<character id="133485" type="appears in" update="2023-07-02">
+<rating votes="2">5.33</rating>
+<name>Yamagishi Aiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>291368.jpg</picture>
+<seiyuu id="55692" picture="224737.jpg">Suzushiro Sayumi</seiyuu>
+</character>
+<character id="133984" type="appears in" update="2023-07-16">
+<name>Yamagishi Yuusuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>292171.jpg</picture>
+<seiyuu id="33512" picture="11412.jpeg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="134332" type="appears in" update="2023-08-05">
+<rating votes="1">5.52</rating>
+<name>Ayukawa Hoshi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>292823.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="134333" type="appears in" update="2023-08-05">
+<name>Ebitsuka Makoto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>292824.jpg</picture>
+<seiyuu id="56160" picture="254954.jpg">Nozuyama Yukihiro</seiyuu>
+</character>
+<character id="134698" type="appears in" update="2023-08-19">
+<rating votes="1">5.52</rating>
+<name>Haruna Hiromi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>293516.jpg</picture>
+<seiyuu id="34626" picture="252299.jpg">Amamiya Sora</seiyuu>
+</character>
+<character id="134715" type="appears in" update="2023-08-20">
+<name>Shinozaki Megumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>293559.jpg</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+<character id="134876" type="appears in" update="2023-08-26">
+<name>Ishiyama Satoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>293865.jpg</picture>
+<seiyuu id="175" picture="11109.jpeg">Shimono Hiro</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="268521" update="2023-07-04">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2023-07-02</airdate>
+<rating votes="2">2.08</rating>
+<title xml:lang="ja">うちの会社の先輩は小さくて可愛い</title>
+<title xml:lang="en">My Senpai Is Small and Cute</title>
+<title xml:lang="fr">Ma supérieure au boulot est petite et adorable</title>
+<title xml:lang="x-jat">Uchi no Kaisha no Senpai wa Chiisakute Kawaii</title>
+<summary>Shinozaki Takuma is in his first year of employment at his new job, and is encountering a lot of the same struggles most new workers run into. But the presence of a cute, doting senpai named Katase Shiori might make the job worth it, no matter how tough it gets.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>G7PU4J1MJ</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="268522" update="2023-07-11">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2023-07-09</airdate>
+<rating votes="1">3.07</rating>
+<title xml:lang="ja">こう見えて意外とお姉さんでしょ?</title>
+<title xml:lang="en">Despite Appearances, I`m More the Big Sister Type.</title>
+<title xml:lang="fr">On ne dirait pas, mais je ferais une bonne épouse, non ?</title>
+<title xml:lang="x-jat">Kou Miete Igai to Onee-san Desho?</title>
+<summary>After their manager`s attempt to arrange a romantic dinner for the two of them, a rainy day leaves Shinozaki feeling under the weather, and Shiori decides to check in on him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>G9DUEGM55</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="268523" update="2023-08-13">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2023-07-16</airdate>
+<rating votes="1">3.07</rating>
+<title xml:lang="ja">私って, こんな風に見えてるんですか?</title>
+<title xml:lang="en">Is This How I Look to You?</title>
+<title xml:lang="fr">C’est comme ça que vous me voyez ?</title>
+<title xml:lang="x-jat">Watashitte, Konna Fuu ni Mieterundesuka?</title>
+<summary>Shinozaki and Shiori reminisce over past experiences at work during lunch with Akina. On their way back to the office they happen upon a crane game with plushies that remind them of one another.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>GX9UQZWJW</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="268524" update="2023-08-13">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2023-07-30</airdate>
+<title xml:lang="ja">篠崎さんの事は, まだ...</title>
+<title xml:lang="en">When It Comes to Him, I`m Not Sure Yet...</title>
+<title xml:lang="fr">À propos de Shinozaki, je ne sais pas trop…</title>
+<title xml:lang="x-jat">Shinozaki-san no Koto wa, Mada...</title>
+<summary>Chinatsu has plans to attend a cosplay event on a day off from work and doesn`t want her coworkers to know. While on her way she happens to bump into her manager. Later on, Katase has a piece of chocolate for Halloween that contains alcohol.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>G4VUQ8V15</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="268683" update="2023-07-01">
+<epno type="2">S1</epno>
+<length>55</length>
+<airdate>2023-06-24</airdate>
+<title xml:lang="ja">放送直前! 会社説明会</title>
+<title xml:lang="en">Pre-Broadcast Special</title>
+<title xml:lang="x-jat">Housou Chokuzen! Kaisha Setsumei Kai</title>
+</episode>
+<episode id="269293" update="2023-07-16">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2023-07-02</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="269294" update="2023-07-16">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2023-07-02</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="269571" update="2023-08-13">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2023-08-06</airdate>
+<title xml:lang="ja">寄り道して帰りませんか?</title>
+<title xml:lang="en">Shall We Go Somewhere Before Heading Home?</title>
+<title xml:lang="fr">Ça vous dirait, de faire un petit détour avant de rentrer ?</title>
+<title xml:lang="x-jat">Yorimichi Shite Kaerimasenka?</title>
+<summary>On their way back to the office from a client meeting, Shinozaki and Shiori are approached by a reporter looking to do a story on a couple and, after some discussion, the pair decide to pretend to be a couple for her video.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>G14U4G11Q</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="269572" update="2023-08-22">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2023-08-20</airdate>
+<title xml:lang="ja">本能に抗えない!</title>
+<title xml:lang="en">I Can`t Resist My Instincts!</title>
+<title xml:lang="fr">Je ne peux pas résister à mes instincts !</title>
+<title xml:lang="x-jat">Honnou ni Aragaenai!</title>
+<summary>It`s the end of the year, and as Shinozaki and Shiori are filled with anticipation for a new year, Chinatsu is staring down a deadline for her new dojinshi, with her only help coming from an unexpected individual.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>GJWU2E007</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="269573" update="2023-08-29">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2023-08-27</airdate>
+<title xml:lang="ja">本当にいらないんですか?</title>
+<title xml:lang="en">You Sure You Don`t Want One?</title>
+<title xml:lang="fr">Vous êtes sûr de ne pas en vouloir ?</title>
+<title xml:lang="x-jat">Hontou ni Iranaindesuka?</title>
+<summary>Returning to work after New Year`s Shiori thinks she`s gotten taller and she asks Shinozaki if he notices anything different about her. Later, Yutaka swipes her brother`s phone and sends a message to Shiori asking for a picture.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>GN7UDV11J</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="269574" update="2023-08-05">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2023-09-03</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+</episodes>
+</anime>

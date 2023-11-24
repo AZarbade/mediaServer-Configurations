@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MetadataAPIToken>qmSWbPUcVytiIE3RBetnxT07TiASSLox11A1m92z</MetadataAPIToken>
+  <UseFilePath>true</UseFilePath>
+  <UseOSHash>true</UseOSHash>
+  <AddCollectionToCollections>true</AddCollectionToCollections>
+  <StudioStyle>Both</StudioStyle>
+  <UseCustomTitle>false</UseCustomTitle>
+  <CustomTitle>{studio}: {title} ({actors})</CustomTitle>
+  <UseUnmatchedTag>false</UseUnmatchedTag>
+  <UnmatchedTag>Missing From ThePornDB</UnmatchedTag>
+</PluginConfiguration>

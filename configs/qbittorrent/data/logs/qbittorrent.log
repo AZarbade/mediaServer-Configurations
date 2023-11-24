@@ -1,0 +1,483 @@
+(N) 2023-09-03T15:19:21 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-03T15:19:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-03T15:19:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-03T15:19:21 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/29567"
+(I) 2023-09-03T15:19:21 - Successfully listening on IP. IP: "172.19.0.4". Port: "UDP/29567"
+(I) 2023-09-03T15:19:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(I) 2023-09-03T15:19:21 - Successfully updated IP geolocation database.
+(I) 2023-09-03T15:19:21 - Detected external IP. IP: "58.84.60.183"
+(N) 2023-09-03T15:19:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T15:19:31 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T15:19:39 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-03T15:21:57 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-03T15:21:57 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-03T15:23:15 - Added new torrent. Torrent: "Violet.Evergarden.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.LPCM.x265-iAHD"
+(N) 2023-09-03T15:25:03 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T15:30:41 - Added new torrent. Torrent: "No.Hard.Feelings.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2023-09-03T15:45:43 - Torrent download finished. Torrent: "No.Hard.Feelings.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2023-09-03T15:46:51 - Torrent paused. Torrent: "No.Hard.Feelings.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2023-09-03T15:46:51 - Torrent reached the seeding time limit. Torrent paused. Torrent: "No.Hard.Feelings.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG".
+(N) 2023-09-03T15:47:08 - Removed torrent and deleted its content. Torrent: "No.Hard.Feelings.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG"
+(N) 2023-09-03T17:11:23 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T17:12:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T17:37:07 - Torrent download finished. Torrent: "Violet.Evergarden.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.LPCM.x265-iAHD"
+(N) 2023-09-03T17:38:11 - Torrent paused. Torrent: "Violet.Evergarden.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.LPCM.x265-iAHD"
+(N) 2023-09-03T17:38:11 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Violet.Evergarden.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.LPCM.x265-iAHD".
+(N) 2023-09-03T17:38:19 - Removed torrent and deleted its content. Torrent: "Violet.Evergarden.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.LPCM.x265-iAHD"
+(N) 2023-09-03T20:28:04 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T21:18:24 - Added new torrent. Torrent: "Gemini.Man.2019.1080p.BluRay.x264"
+(N) 2023-09-03T21:39:13 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T21:39:19 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-03T22:40:49 - Torrent download finished. Torrent: "Gemini.Man.2019.1080p.BluRay.x264"
+(N) 2023-09-03T22:41:51 - Torrent paused. Torrent: "Gemini.Man.2019.1080p.BluRay.x264"
+(N) 2023-09-03T22:41:51 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Gemini.Man.2019.1080p.BluRay.x264".
+(N) 2023-09-03T22:43:16 - Removed torrent and deleted its content. Torrent: "Gemini.Man.2019.1080p.BluRay.x264"
+(N) 2023-09-04T10:26:05 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-04T10:26:05 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-04T13:35:06 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-04T15:18:31 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-04T15:18:31 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-04T20:06:22 - qBittorrent v4.5.4 started
+(N) 2023-09-04T20:06:22 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-04T20:06:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-04T20:06:22 - Peer ID: "-qB4540-"
+(I) 2023-09-04T20:06:22 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-04T20:06:22 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-04T20:06:22 - Local Peer Discovery support: ON
+(I) 2023-09-04T20:06:22 - Peer Exchange (PeX) support: ON
+(I) 2023-09-04T20:06:22 - Anonymous mode: OFF
+(I) 2023-09-04T20:06:22 - Encryption support: ON
+(I) 2023-09-04T20:06:22 - UPnP/NAT-PMP support: ON
+(I) 2023-09-04T20:06:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-04T20:06:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-04T20:06:22 - Successfully listening on IP. IP: "172.19.0.10". Port: "TCP/29567"
+(I) 2023-09-04T20:06:22 - Successfully listening on IP. IP: "172.19.0.10". Port: "UDP/29567"
+(I) 2023-09-04T20:06:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-04T20:06:22 - Using built-in Web UI.
+(N) 2023-09-04T20:06:22 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-04T20:06:22 - Web UI: Now listening on IP: *, port: 8080
+(W) 2023-09-04T20:08:58 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-04T20:08:58 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-04T21:38:00 - qBittorrent v4.5.4 started
+(N) 2023-09-04T21:38:00 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-04T21:38:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-04T21:38:00 - Peer ID: "-qB4540-"
+(I) 2023-09-04T21:38:00 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-04T21:38:00 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-04T21:38:00 - Local Peer Discovery support: ON
+(I) 2023-09-04T21:38:00 - Peer Exchange (PeX) support: ON
+(I) 2023-09-04T21:38:00 - Anonymous mode: OFF
+(I) 2023-09-04T21:38:00 - Encryption support: ON
+(I) 2023-09-04T21:38:00 - UPnP/NAT-PMP support: ON
+(I) 2023-09-04T21:38:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-04T21:38:00 - Using built-in Web UI.
+(N) 2023-09-04T21:38:00 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-04T21:38:00 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-04T21:38:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-04T21:38:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-04T21:38:00 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/29567"
+(I) 2023-09-04T21:38:00 - Successfully listening on IP. IP: "172.19.0.4". Port: "UDP/29567"
+(W) 2023-09-04T21:40:37 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-04T21:40:37 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-05T04:24:21 - qBittorrent v4.5.4 started
+(N) 2023-09-05T04:24:21 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-05T04:24:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-05T04:24:21 - Peer ID: "-qB4540-"
+(I) 2023-09-05T04:24:21 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-05T04:24:21 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-05T04:24:21 - Local Peer Discovery support: ON
+(I) 2023-09-05T04:24:21 - Peer Exchange (PeX) support: ON
+(I) 2023-09-05T04:24:21 - Anonymous mode: OFF
+(I) 2023-09-05T04:24:21 - Encryption support: ON
+(I) 2023-09-05T04:24:21 - UPnP/NAT-PMP support: ON
+(I) 2023-09-05T04:24:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-05T04:24:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-05T04:24:21 - Successfully listening on IP. IP: "172.19.0.9". Port: "TCP/29567"
+(I) 2023-09-05T04:24:21 - Successfully listening on IP. IP: "172.19.0.9". Port: "UDP/29567"
+(I) 2023-09-05T04:24:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-05T04:24:22 - Using built-in Web UI.
+(N) 2023-09-05T04:24:22 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-05T04:24:22 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-05T04:24:22 - Detected external IP. IP: "58.84.61.236"
+(W) 2023-09-05T04:26:57 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-05T04:26:57 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-05T09:42:20 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-05T10:41:36 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-05T12:43:45 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-05T14:24:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-05T21:14:42 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T08:43:39 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T09:16:35 - qBittorrent termination initiated
+(N) 2023-09-06T09:16:37 - qBittorrent v4.5.4 started
+(N) 2023-09-06T09:16:37 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T09:16:38 - qBittorrent v4.5.4 started
+(N) 2023-09-06T09:16:38 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T09:16:39 - qBittorrent v4.5.4 started
+(N) 2023-09-06T09:16:39 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T09:16:40 - qBittorrent v4.5.4 started
+(N) 2023-09-06T09:16:40 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T11:58:50 - qBittorrent v4.5.4 started
+(N) 2023-09-06T11:58:50 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T11:58:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-06T11:58:50 - Peer ID: "-qB4540-"
+(I) 2023-09-06T11:58:50 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-06T11:58:50 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-06T11:58:50 - Local Peer Discovery support: ON
+(I) 2023-09-06T11:58:50 - Peer Exchange (PeX) support: ON
+(I) 2023-09-06T11:58:50 - Anonymous mode: OFF
+(I) 2023-09-06T11:58:50 - Encryption support: ON
+(I) 2023-09-06T11:58:50 - UPnP/NAT-PMP support: ON
+(I) 2023-09-06T11:58:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-06T11:58:50 - Using built-in Web UI.
+(N) 2023-09-06T11:58:50 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-06T11:58:50 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-06T11:58:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-06T11:58:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-06T11:58:50 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/29567"
+(I) 2023-09-06T11:58:50 - Successfully listening on IP. IP: "172.19.0.5". Port: "UDP/29567"
+(I) 2023-09-06T11:58:51 - Detected external IP. IP: "58.84.60.109"
+(N) 2023-09-06T11:58:55 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T11:58:56 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T11:59:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-06T12:01:27 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-06T12:01:27 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-06T18:53:23 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T20:18:00 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T20:18:50 - qBittorrent termination initiated
+(I) 2023-09-06T20:18:50 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-06T20:18:50 - qBittorrent is now ready to exit
+(N) 2023-09-06T20:18:51 - qBittorrent v4.5.4 started
+(N) 2023-09-06T20:18:51 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T20:18:52 - qBittorrent v4.5.4 started
+(N) 2023-09-06T20:18:52 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T20:18:53 - qBittorrent v4.5.4 started
+(N) 2023-09-06T20:18:53 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T20:18:54 - qBittorrent v4.5.4 started
+(N) 2023-09-06T20:18:54 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T20:19:13 - qBittorrent v4.5.4 started
+(N) 2023-09-06T20:19:13 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-06T20:19:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-06T20:19:13 - Peer ID: "-qB4540-"
+(I) 2023-09-06T20:19:13 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-06T20:19:13 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-06T20:19:13 - Local Peer Discovery support: ON
+(I) 2023-09-06T20:19:13 - Peer Exchange (PeX) support: ON
+(I) 2023-09-06T20:19:13 - Anonymous mode: OFF
+(I) 2023-09-06T20:19:13 - Encryption support: ON
+(I) 2023-09-06T20:19:13 - UPnP/NAT-PMP support: ON
+(I) 2023-09-06T20:19:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-06T20:19:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-06T20:19:13 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/29567"
+(I) 2023-09-06T20:19:13 - Successfully listening on IP. IP: "172.19.0.7". Port: "UDP/29567"
+(I) 2023-09-06T20:19:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-06T20:19:13 - Using built-in Web UI.
+(N) 2023-09-06T20:19:13 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-06T20:19:13 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-06T20:19:13 - Detected external IP. IP: "58.84.62.49"
+(N) 2023-09-06T20:19:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-06T20:19:20 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-06T20:21:49 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-06T20:21:49 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-06T22:36:06 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T10:16:08 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T12:54:47 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T13:33:33 - qBittorrent termination initiated
+(I) 2023-09-07T13:33:34 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-07T13:34:09 - qBittorrent v4.5.4 started
+(N) 2023-09-07T13:34:09 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-07T13:34:09 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-07T13:34:09 - Peer ID: "-qB4540-"
+(I) 2023-09-07T13:34:09 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-07T13:34:09 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-07T13:34:09 - Local Peer Discovery support: ON
+(I) 2023-09-07T13:34:09 - Peer Exchange (PeX) support: ON
+(I) 2023-09-07T13:34:09 - Anonymous mode: OFF
+(I) 2023-09-07T13:34:09 - Encryption support: ON
+(I) 2023-09-07T13:34:09 - UPnP/NAT-PMP support: ON
+(I) 2023-09-07T13:34:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-07T13:34:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-07T13:34:09 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/29567"
+(I) 2023-09-07T13:34:09 - Successfully listening on IP. IP: "172.19.0.2". Port: "UDP/29567"
+(I) 2023-09-07T13:34:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-07T13:34:10 - Using built-in Web UI.
+(N) 2023-09-07T13:34:10 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-07T13:34:10 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-07T13:34:10 - Detected external IP. IP: "58.84.62.49"
+(N) 2023-09-07T13:34:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T13:34:18 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-07T13:36:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-07T13:36:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-07T14:14:39 - qBittorrent termination initiated
+(N) 2023-09-07T17:34:44 - qBittorrent v4.5.4 started
+(N) 2023-09-07T17:34:44 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-07T17:34:44 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-07T17:34:44 - Peer ID: "-qB4540-"
+(I) 2023-09-07T17:34:44 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-07T17:34:44 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-07T17:34:44 - Local Peer Discovery support: ON
+(I) 2023-09-07T17:34:44 - Peer Exchange (PeX) support: ON
+(I) 2023-09-07T17:34:44 - Anonymous mode: OFF
+(I) 2023-09-07T17:34:44 - Encryption support: ON
+(I) 2023-09-07T17:34:44 - UPnP/NAT-PMP support: ON
+(I) 2023-09-07T17:34:44 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-07T17:34:44 - Using built-in Web UI.
+(N) 2023-09-07T17:34:44 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-07T17:34:45 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-07T17:34:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-07T17:34:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-07T17:34:45 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/29567"
+(I) 2023-09-07T17:34:45 - Successfully listening on IP. IP: "172.19.0.2". Port: "UDP/29567"
+(I) 2023-09-07T17:34:45 - Detected external IP. IP: "58.84.62.49"
+(N) 2023-09-07T17:34:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T17:34:52 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-07T17:37:20 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-07T17:37:20 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-07T19:48:45 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-07T23:17:43 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:36:46 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:36:46 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:36:52 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:36:58 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:38:10 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T06:39:04 - Bad Http request, closing socket. IP: ::ffff:172.19.0.1
+(N) 2023-09-08T08:15:11 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-08T11:30:52 - qBittorrent termination initiated
+(I) 2023-09-08T11:30:52 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-08T11:30:52 - qBittorrent is now ready to exit
+(N) 2023-09-08T11:30:53 - qBittorrent v4.5.4 started
+(N) 2023-09-08T11:30:53 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T11:30:54 - qBittorrent v4.5.4 started
+(N) 2023-09-08T11:30:54 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T11:30:55 - qBittorrent v4.5.4 started
+(N) 2023-09-08T11:30:55 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T11:30:56 - qBittorrent v4.5.4 started
+(N) 2023-09-08T11:30:56 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T13:48:53 - qBittorrent v4.5.4 started
+(N) 2023-09-08T13:48:53 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T13:48:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-08T13:48:53 - Peer ID: "-qB4540-"
+(I) 2023-09-08T13:48:53 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-08T13:48:53 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-08T13:48:53 - Local Peer Discovery support: ON
+(I) 2023-09-08T13:48:53 - Peer Exchange (PeX) support: ON
+(I) 2023-09-08T13:48:53 - Anonymous mode: OFF
+(I) 2023-09-08T13:48:53 - Encryption support: ON
+(I) 2023-09-08T13:48:53 - UPnP/NAT-PMP support: ON
+(I) 2023-09-08T13:48:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-08T13:48:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-08T13:48:53 - Successfully listening on IP. IP: "172.19.0.9". Port: "TCP/29567"
+(I) 2023-09-08T13:48:53 - Successfully listening on IP. IP: "172.19.0.9". Port: "UDP/29567"
+(I) 2023-09-08T13:48:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-08T13:48:53 - Using built-in Web UI.
+(N) 2023-09-08T13:48:53 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-08T13:48:53 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-08T13:48:53 - Detected external IP. IP: "58.84.62.49"
+(N) 2023-09-08T13:48:57 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-08T13:48:57 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-08T13:51:29 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-08T13:51:29 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-08T14:58:02 - qBittorrent termination initiated
+(I) 2023-09-08T14:58:02 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-08T14:58:03 - qBittorrent is now ready to exit
+(N) 2023-09-08T14:58:04 - qBittorrent v4.5.4 started
+(N) 2023-09-08T14:58:04 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T14:58:05 - qBittorrent v4.5.4 started
+(N) 2023-09-08T14:58:05 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T14:58:06 - qBittorrent v4.5.4 started
+(N) 2023-09-08T14:58:06 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T14:58:07 - qBittorrent v4.5.4 started
+(N) 2023-09-08T14:58:07 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T17:17:57 - qBittorrent v4.5.4 started
+(N) 2023-09-08T17:17:57 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-08T17:17:57 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-08T17:17:57 - Peer ID: "-qB4540-"
+(I) 2023-09-08T17:17:57 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-08T17:17:57 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-08T17:17:57 - Local Peer Discovery support: ON
+(I) 2023-09-08T17:17:57 - Peer Exchange (PeX) support: ON
+(I) 2023-09-08T17:17:57 - Anonymous mode: OFF
+(I) 2023-09-08T17:17:57 - Encryption support: ON
+(I) 2023-09-08T17:17:57 - UPnP/NAT-PMP support: ON
+(I) 2023-09-08T17:17:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-08T17:17:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-08T17:17:57 - Successfully listening on IP. IP: "172.19.0.8". Port: "TCP/29567"
+(I) 2023-09-08T17:17:57 - Successfully listening on IP. IP: "172.19.0.8". Port: "UDP/29567"
+(I) 2023-09-08T17:17:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-08T17:17:57 - Using built-in Web UI.
+(N) 2023-09-08T17:17:57 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-08T17:17:57 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-08T17:17:57 - Detected external IP. IP: "58.84.62.49"
+(N) 2023-09-08T17:18:03 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-08T17:18:03 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-08T17:19:27 - qBittorrent termination initiated
+(I) 2023-09-08T17:19:27 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-08T17:19:27 - qBittorrent is now ready to exit
+(N) 2023-09-15T18:32:31 - qBittorrent v4.5.4 started
+(N) 2023-09-15T18:32:31 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-15T18:32:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-15T18:32:31 - Peer ID: "-qB4540-"
+(I) 2023-09-15T18:32:31 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-15T18:32:31 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-15T18:32:31 - Local Peer Discovery support: ON
+(I) 2023-09-15T18:32:31 - Peer Exchange (PeX) support: ON
+(I) 2023-09-15T18:32:31 - Anonymous mode: OFF
+(I) 2023-09-15T18:32:31 - Encryption support: ON
+(I) 2023-09-15T18:32:31 - UPnP/NAT-PMP support: ON
+(I) 2023-09-15T18:32:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-15T18:32:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-15T18:32:31 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/29567"
+(I) 2023-09-15T18:32:31 - Successfully listening on IP. IP: "172.19.0.6". Port: "UDP/29567"
+(I) 2023-09-15T18:32:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-15T18:32:31 - Using built-in Web UI.
+(N) 2023-09-15T18:32:31 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-15T18:32:31 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-15T18:32:31 - Detected external IP. IP: "58.84.62.193"
+(N) 2023-09-15T18:32:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-15T18:32:39 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-15T18:35:07 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-15T18:35:07 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-15T18:44:12 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-15T18:49:59 - Added new torrent. Torrent: "Coco.2017.1080p.Remux.AVC.DTS-HD.MA 7.1-Paulista"
+(N) 2023-09-15T19:18:56 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-15T19:19:11 - Removed torrent. Torrent: "Coco.2017.1080p.Remux.AVC.DTS-HD.MA 7.1-Paulista"
+(N) 2023-09-15T19:19:56 - qBittorrent termination initiated
+(I) 2023-09-15T19:19:56 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-15T19:19:56 - qBittorrent is now ready to exit
+(N) 2023-09-16T23:34:50 - qBittorrent v4.5.4 started
+(N) 2023-09-16T23:34:50 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-16T23:34:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-16T23:34:50 - Peer ID: "-qB4540-"
+(I) 2023-09-16T23:34:50 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-16T23:34:50 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-16T23:34:50 - Local Peer Discovery support: ON
+(I) 2023-09-16T23:34:50 - Peer Exchange (PeX) support: ON
+(I) 2023-09-16T23:34:50 - Anonymous mode: OFF
+(I) 2023-09-16T23:34:50 - Encryption support: ON
+(I) 2023-09-16T23:34:50 - UPnP/NAT-PMP support: ON
+(I) 2023-09-16T23:34:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-16T23:34:50 - Using built-in Web UI.
+(N) 2023-09-16T23:34:50 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-16T23:34:50 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-16T23:34:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-16T23:34:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-16T23:34:50 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/29567"
+(I) 2023-09-16T23:34:50 - Successfully listening on IP. IP: "172.19.0.7". Port: "UDP/29567"
+(I) 2023-09-16T23:34:50 - Detected external IP. IP: "58.84.62.162"
+(N) 2023-09-16T23:34:55 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-16T23:34:57 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-16T23:35:42 - Added new torrent. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi"
+(N) 2023-09-16T23:35:45 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-16T23:37:11 - Added new torrent. Torrent: "Hannibal (2013) S01 S01 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-16T23:37:16 - Added new torrent. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-16T23:37:22 - Added new torrent. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10"
+(W) 2023-09-16T23:37:26 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-16T23:37:26 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-16T23:42:53 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-16T23:43:02 - Torrent paused. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi"
+(N) 2023-09-16T23:47:51 - Torrent paused. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-16T23:47:53 - Torrent paused. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:00:02 - Torrent download finished. Torrent: "Hannibal (2013) S01 S01 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:01:10 - Torrent paused. Torrent: "Hannibal (2013) S01 S01 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:01:10 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Hannibal (2013) S01 S01 + Extras (1080p BluRay x265 HEVC 10".
+(N) 2023-09-17T01:01:31 - Removed torrent and deleted its content. Torrent: "Hannibal (2013) S01 S01 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:09:09 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-17T01:09:21 - qBittorrent termination initiated
+(I) 2023-09-17T01:09:22 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-17T01:09:22 - qBittorrent is now ready to exit
+(N) 2023-09-17T01:09:23 - qBittorrent v4.5.4 started
+(N) 2023-09-17T01:09:23 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T01:09:24 - qBittorrent v4.5.4 started
+(N) 2023-09-17T01:09:24 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T01:09:25 - qBittorrent v4.5.4 started
+(N) 2023-09-17T01:09:25 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T01:09:26 - qBittorrent v4.5.4 started
+(N) 2023-09-17T01:09:26 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T01:23:48 - qBittorrent v4.5.4 started
+(N) 2023-09-17T01:23:48 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T01:23:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-17T01:23:48 - Peer ID: "-qB4540-"
+(I) 2023-09-17T01:23:48 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-17T01:23:48 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-17T01:23:48 - Local Peer Discovery support: ON
+(I) 2023-09-17T01:23:48 - Peer Exchange (PeX) support: ON
+(I) 2023-09-17T01:23:48 - Anonymous mode: OFF
+(I) 2023-09-17T01:23:48 - Encryption support: ON
+(I) 2023-09-17T01:23:48 - UPnP/NAT-PMP support: ON
+(I) 2023-09-17T01:23:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-17T01:23:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-17T01:23:48 - Successfully listening on IP. IP: "172.19.0.4". Port: "TCP/29567"
+(I) 2023-09-17T01:23:48 - Successfully listening on IP. IP: "172.19.0.4". Port: "UDP/29567"
+(N) 2023-09-17T01:23:48 - Restored torrent. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:23:49 - Restored torrent. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T01:23:49 - Restored torrent. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi"
+(I) 2023-09-17T01:23:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-17T01:23:49 - Using built-in Web UI.
+(N) 2023-09-17T01:23:49 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-17T01:23:49 - Web UI: Now listening on IP: *, port: 8080
+(W) 2023-09-17T01:23:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi". Reason: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi fast resume rejected. file_stat(/data/downloads/My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi/My.Dress-Up.Darling.S01E04.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi.mkv): mismatching file size"
+(W) 2023-09-17T01:23:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10". Reason: "Hannibal (2013) Season 2 S02 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR) fast resume rejected. file_stat(/data/downloads/Hannibal (2013) Season 2 S02 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR)/Featurettes/Gag Reel.mkv): mismatching file size"
+(W) 2023-09-17T01:23:49 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10". Reason: "Hannibal (2013) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR) fast resume rejected. file_stat(/data/downloads/Hannibal (2013) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR)/Featurettes/Avid Fannibals.mkv): mismatching file size"
+(I) 2023-09-17T01:23:49 - Detected external IP. IP: "58.84.62.162"
+(N) 2023-09-17T01:23:54 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-17T01:23:56 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-17T01:26:24 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-17T01:26:24 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-17T02:36:35 - qBittorrent termination initiated
+(N) 2023-09-17T02:42:05 - qBittorrent v4.5.4 started
+(N) 2023-09-17T02:42:05 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T02:42:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-17T02:42:05 - Peer ID: "-qB4540-"
+(I) 2023-09-17T02:42:05 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-17T02:42:05 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-17T02:42:05 - Local Peer Discovery support: ON
+(I) 2023-09-17T02:42:05 - Peer Exchange (PeX) support: ON
+(I) 2023-09-17T02:42:05 - Anonymous mode: OFF
+(I) 2023-09-17T02:42:05 - Encryption support: ON
+(I) 2023-09-17T02:42:05 - UPnP/NAT-PMP support: ON
+(I) 2023-09-17T02:42:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-17T02:42:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-17T02:42:05 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/29567"
+(I) 2023-09-17T02:42:05 - Successfully listening on IP. IP: "172.19.0.5". Port: "UDP/29567"
+(N) 2023-09-17T02:42:05 - Restored torrent. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T02:42:05 - Restored torrent. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T02:42:05 - Restored torrent. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi"
+(I) 2023-09-17T02:42:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-17T02:42:05 - Using built-in Web UI.
+(N) 2023-09-17T02:42:05 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-17T02:42:06 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-17T02:42:06 - Detected external IP. IP: "58.84.62.162"
+(N) 2023-09-17T02:42:11 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-17T02:42:13 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-17T02:44:41 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-17T02:44:41 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-17T11:33:12 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-17T13:46:41 - qBittorrent v4.5.4 started
+(N) 2023-09-17T13:46:41 - Using config directory: /app/qBittorrent/config
+(N) 2023-09-17T13:46:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-09-17T13:46:42 - Peer ID: "-qB4540-"
+(I) 2023-09-17T13:46:42 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-09-17T13:46:42 - Distributed Hash Table (DHT) support: ON
+(I) 2023-09-17T13:46:42 - Local Peer Discovery support: ON
+(I) 2023-09-17T13:46:42 - Peer Exchange (PeX) support: ON
+(I) 2023-09-17T13:46:42 - Anonymous mode: OFF
+(I) 2023-09-17T13:46:42 - Encryption support: ON
+(I) 2023-09-17T13:46:42 - UPnP/NAT-PMP support: ON
+(I) 2023-09-17T13:46:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-09-17T13:46:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-09-17T13:46:42 - Successfully listening on IP. IP: "172.19.0.9". Port: "TCP/29567"
+(I) 2023-09-17T13:46:42 - Successfully listening on IP. IP: "172.19.0.9". Port: "UDP/29567"
+(N) 2023-09-17T13:46:42 - Restored torrent. Torrent: "Hannibal (2013) S03 S03 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T13:46:42 - Restored torrent. Torrent: "Hannibal (2013) S02 S02 + Extras (1080p BluRay x265 HEVC 10"
+(N) 2023-09-17T13:46:42 - Restored torrent. Torrent: "My.Dress-Up.Darling.S01.CUSTOM.MULTi.1080p.BluRay.x264-T3KASHi"
+(I) 2023-09-17T13:46:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Sep 1 05:43:34 2023.
+(N) 2023-09-17T13:46:42 - Using built-in Web UI.
+(N) 2023-09-17T13:46:42 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-09-17T13:46:42 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-09-17T13:46:42 - Detected external IP. IP: "58.84.62.162"
+(N) 2023-09-17T13:46:47 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-09-17T13:46:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-09-17T13:49:18 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-09-17T13:49:18 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-09-17T14:34:30 - qBittorrent termination initiated
+(I) 2023-09-17T14:34:30 - UPnP/NAT-PMP support: OFF
+(N) 2023-09-17T14:34:31 - qBittorrent is now ready to exit

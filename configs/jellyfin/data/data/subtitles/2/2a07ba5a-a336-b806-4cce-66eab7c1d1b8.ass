@@ -1,0 +1,41 @@
+[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Title,Arial,20,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0020,0030,0050,0
+Style: Next Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0040,0120,0
+Style: RightSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0300,0020,0080,0
+Style: LeftSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0120,0400,0040,0
+Style: EpNum,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0430,0020,0260,0
+Style: LowerLeft,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0020,0400,0020,0
+Style: LowerRight,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0400,0020,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:20.24,0:02:22.62,Default,On-screen Text,0000,0000,0000,,{\an8}LIFE?
+Dialogue: 0,0:02:56.40,0:02:59.15,Default,On-screen Text,0000,0000,0000,,{\an4}ADLER DORM
+Dialogue: 0,0:02:56.40,0:02:59.15,Default,On-screen Text,0000,0000,0000,,{\an6}LANG DORM
+Dialogue: 0,0:05:09.91,0:05:12.45,Default,On-screen Text,0000,0000,0000,,{\an8}WSHCK WSHCK WSHCK
+Dialogue: 0,0:06:04.00,0:06:06.01,Default,On-screen Text,0000,0000,0000,,{\an8}BWING
+Dialogue: 0,0:06:42.04,0:06:45.05,Default,On-screen Text,0000,0000,0000,,{\an8}WUB CATCH WUB CATCH WUB CATCH
+Dialogue: 0,0:07:32.34,0:07:42.23,Default,On-screen Text,0000,0000,0000,,{\an4}BWAAAAAAAH
+Dialogue: 0,0:09:10.61,0:09:12.44,Default,On-screen Text,0000,0000,0000,,{\an9}LANCE CROWN
+Dialogue: 0,0:15:03.42,0:15:08.76,Default,On-screen Text,0000,0000,0000,,{\an8}PANIC PANIC
+Dialogue: 0,0:23:35.31,0:23:40.02,Default,On-screen Text,0000,0000,0000,,NEXT EPISODE\NMASH BURNEDEAD AND THE UNPOPULAR CLASSMATE
+

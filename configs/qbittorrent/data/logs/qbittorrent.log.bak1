@@ -1,0 +1,688 @@
+(I) 2023-08-13T18:50:44 - Peer ID: "-qB4540-"
+(I) 2023-08-13T18:50:44 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-13T18:50:44 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-13T18:50:44 - Local Peer Discovery support: ON
+(I) 2023-08-13T18:50:44 - Peer Exchange (PeX) support: ON
+(I) 2023-08-13T18:50:44 - Anonymous mode: OFF
+(I) 2023-08-13T18:50:44 - Encryption support: ON
+(I) 2023-08-13T18:50:44 - UPnP/NAT-PMP support: ON
+(I) 2023-08-13T18:50:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-13T18:50:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-13T18:50:44 - Successfully listening on IP. IP: "172.19.0.8". Port: "TCP/29567"
+(I) 2023-08-13T18:50:44 - Successfully listening on IP. IP: "172.19.0.8". Port: "UDP/29567"
+(N) 2023-08-13T18:50:44 - Restored torrent. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(N) 2023-08-13T18:50:44 - Restored torrent. Torrent: "Spider-Man.Across.The.Spider-Verse.2023.iTA-ENG.WEBDL.1080p.x264-CYBER.mkv"
+(N) 2023-08-13T18:50:44 - Restored torrent. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(I) 2023-08-13T18:50:44 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-13T18:50:44 - Using built-in Web UI.
+(N) 2023-08-13T18:50:44 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-13T18:50:44 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-13T18:50:44 - Detected external IP. IP: "58.84.60.105"
+(N) 2023-08-13T18:50:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T18:50:55 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T18:50:56 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-13T18:53:20 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-13T18:53:20 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-13T19:00:16 - Torrent download finished. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:01:23 - Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:01:23 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]".
+(N) 2023-08-13T19:01:50 - Removed torrent and deleted its content. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:11:08 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T19:15:50 - Added new torrent. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:31:45 - Torrent download finished. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:32:53 - Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:32:53 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]".
+(N) 2023-08-13T19:33:58 - Removed torrent and deleted its content. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T19:57:07 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T20:27:00 - Torrent download finished. Torrent: "Spider-Man.Across.The.Spider-Verse.2023.iTA-ENG.WEBDL.1080p.x264-CYBER.mkv"
+(N) 2023-08-13T20:28:03 - Torrent paused. Torrent: "Spider-Man.Across.The.Spider-Verse.2023.iTA-ENG.WEBDL.1080p.x264-CYBER.mkv"
+(N) 2023-08-13T20:28:03 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Spider-Man.Across.The.Spider-Verse.2023.iTA-ENG.WEBDL.1080p.x264-CYBER.mkv".
+(N) 2023-08-13T20:29:21 - Removed torrent and deleted its content. Torrent: "Spider-Man.Across.The.Spider-Verse.2023.iTA-ENG.WEBDL.1080p.x264-CYBER.mkv"
+(N) 2023-08-13T22:23:43 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T22:24:00 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-13T22:27:27 - Added new torrent. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T22:28:25 - Removed torrent and deleted its content. Torrent: "Heart.of.Stone.2023.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]"
+(N) 2023-08-13T22:29:00 - Added new torrent. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-13T22:30:13 - Added new torrent. Torrent: "The.LEGO.Batman.Movie.2017.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-13T22:57:52 - Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-13T22:57:52 - Torrent paused. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(N) 2023-08-13T22:57:52 - Torrent paused. Torrent: "The.LEGO.Batman.Movie.2017.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(I) 2023-08-14T00:52:28 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-14T01:33:16 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-14T01:33:27 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: adwait
+(N) 2023-08-14T01:33:29 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T01:33:32 - Torrent resumed. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(N) 2023-08-14T01:33:32 - Torrent resumed. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-14T01:33:32 - Torrent resumed. Torrent: "The.LEGO.Batman.Movie.2017.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-14T09:09:01 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T09:09:01 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T09:09:04 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T09:09:11 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T09:19:28 - Torrent download finished. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-14T09:20:36 - Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-14T09:20:36 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]".
+(N) 2023-08-14T09:20:55 - Removed torrent and deleted its content. Torrent: "Heart.of.Stone.2023.1080p.WEB.H264-HUZZAH[TGx]"
+(N) 2023-08-14T11:13:34 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T11:13:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T11:14:57 - Removed torrent and deleted its content. Torrent: "The.LEGO.Batman.Movie.2017.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-14T11:15:32 - Added new torrent. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T11:29:52 - qBittorrent v4.5.4 started
+(N) 2023-08-14T11:29:52 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-14T11:29:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-14T11:29:52 - Peer ID: "-qB4540-"
+(I) 2023-08-14T11:29:52 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-14T11:29:52 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-14T11:29:52 - Local Peer Discovery support: ON
+(I) 2023-08-14T11:29:52 - Peer Exchange (PeX) support: ON
+(I) 2023-08-14T11:29:52 - Anonymous mode: OFF
+(I) 2023-08-14T11:29:52 - Encryption support: ON
+(I) 2023-08-14T11:29:52 - UPnP/NAT-PMP support: ON
+(I) 2023-08-14T11:29:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-14T11:29:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-14T11:29:52 - Successfully listening on IP. IP: "172.19.0.10". Port: "TCP/29567"
+(I) 2023-08-14T11:29:52 - Successfully listening on IP. IP: "172.19.0.10". Port: "UDP/29567"
+(N) 2023-08-14T11:29:52 - Restored torrent. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T11:29:52 - Restored torrent. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(I) 2023-08-14T11:29:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-14T11:29:53 - Using built-in Web UI.
+(N) 2023-08-14T11:29:53 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-14T11:29:53 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-14T11:29:53 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-14T11:29:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T11:30:02 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-14T11:32:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-14T11:32:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-14T11:37:20 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T11:54:14 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T12:38:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T13:45:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T15:04:04 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T16:57:22 - qBittorrent v4.5.4 started
+(N) 2023-08-14T16:57:22 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-14T16:57:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-14T16:57:22 - Peer ID: "-qB4540-"
+(I) 2023-08-14T16:57:22 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-14T16:57:22 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-14T16:57:22 - Local Peer Discovery support: ON
+(I) 2023-08-14T16:57:22 - Peer Exchange (PeX) support: ON
+(I) 2023-08-14T16:57:22 - Anonymous mode: OFF
+(I) 2023-08-14T16:57:22 - Encryption support: ON
+(I) 2023-08-14T16:57:22 - UPnP/NAT-PMP support: ON
+(I) 2023-08-14T16:57:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-14T16:57:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-14T16:57:22 - Successfully listening on IP. IP: "172.19.0.8". Port: "TCP/29567"
+(I) 2023-08-14T16:57:22 - Successfully listening on IP. IP: "172.19.0.8". Port: "UDP/29567"
+(N) 2023-08-14T16:57:22 - Restored torrent. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T16:57:22 - Restored torrent. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(I) 2023-08-14T16:57:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-14T16:57:22 - Using built-in Web UI.
+(N) 2023-08-14T16:57:22 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-14T16:57:22 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-14T16:57:22 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-14T16:57:27 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T16:57:29 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T17:10:59 - qBittorrent v4.5.4 started
+(N) 2023-08-14T17:10:59 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-14T17:10:59 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-14T17:10:59 - Peer ID: "-qB4540-"
+(I) 2023-08-14T17:10:59 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-14T17:10:59 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-14T17:10:59 - Local Peer Discovery support: ON
+(I) 2023-08-14T17:10:59 - Peer Exchange (PeX) support: ON
+(I) 2023-08-14T17:10:59 - Anonymous mode: OFF
+(I) 2023-08-14T17:10:59 - Encryption support: ON
+(I) 2023-08-14T17:10:59 - UPnP/NAT-PMP support: ON
+(I) 2023-08-14T17:10:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-14T17:10:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-14T17:10:59 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/29567"
+(I) 2023-08-14T17:10:59 - Successfully listening on IP. IP: "172.19.0.7". Port: "UDP/29567"
+(N) 2023-08-14T17:11:00 - Restored torrent. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T17:11:00 - Restored torrent. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(I) 2023-08-14T17:11:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-14T17:11:00 - Using built-in Web UI.
+(N) 2023-08-14T17:11:00 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-14T17:11:00 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-14T17:11:00 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-14T17:11:08 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T17:11:10 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-14T17:13:35 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-14T17:13:35 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-14T17:34:23 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T17:35:51 - Torrent download finished. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T17:36:50 - Torrent paused. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T17:36:50 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)".
+(N) 2023-08-14T17:37:08 - Removed torrent and deleted its content. Torrent: "The Lego Batman Movie (2017) (2160p BluRay x265 HEVC 10bit HDR MLPFBA 7.1 SAMPA)"
+(N) 2023-08-14T18:35:14 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T18:35:23 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T19:12:16 - Added new torrent. Torrent: "[SweetSub&VCB-Studio] Josee to Tora to Sakana-tachi / ジョゼと虎と魚たち 10-bit 1080p HEVC BDRip [MOVIE]"
+(N) 2023-08-14T19:12:35 - Removed torrent and deleted its content. Torrent: "[Aergia] Josee, the Tiger and the Fish [BDRemux 1920x1080 AVC DTS-HD MA]"
+(N) 2023-08-14T19:33:13 - Torrent download finished. Torrent: "[SweetSub&VCB-Studio] Josee to Tora to Sakana-tachi / ジョゼと虎と魚たち 10-bit 1080p HEVC BDRip [MOVIE]"
+(N) 2023-08-14T19:34:20 - Torrent paused. Torrent: "[SweetSub&VCB-Studio] Josee to Tora to Sakana-tachi / ジョゼと虎と魚たち 10-bit 1080p HEVC BDRip [MOVIE]"
+(N) 2023-08-14T19:34:20 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[SweetSub&VCB-Studio] Josee to Tora to Sakana-tachi / ジョゼと虎と魚たち 10-bit 1080p HEVC BDRip [MOVIE]".
+(N) 2023-08-14T20:35:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T21:12:36 - Removed torrent. Torrent: "[SweetSub&VCB-Studio] Josee to Tora to Sakana-tachi / ジョゼと虎と魚たち 10-bit 1080p HEVC BDRip [MOVIE]"
+(N) 2023-08-14T21:14:00 - Added new torrent. Torrent: "Spider.Man.Into.The.Spider.Verse.2018.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-14T21:14:11 - Added new torrent. Torrent: "The.Batman.2022.BluRay.1080p.TrueHD.Atmos.7.1.AVC.REMUX-FraMeSToR.mkv"
+(N) 2023-08-14T21:14:21 - Added new torrent. Torrent: "Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x265-RARBG"
+(N) 2023-08-14T21:43:31 - Torrent download finished. Torrent: "Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x265-RARBG"
+(N) 2023-08-14T21:44:40 - Torrent paused. Torrent: "Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x265-RARBG"
+(N) 2023-08-14T21:44:40 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x265-RARBG".
+(N) 2023-08-14T21:45:44 - Removed torrent and deleted its content. Torrent: "Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.BluRay.x265-RARBG"
+(N) 2023-08-14T22:43:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T22:43:46 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-14T22:45:22 - qBittorrent termination initiated
+(I) 2023-08-14T22:45:22 - UPnP/NAT-PMP support: OFF
+(N) 2023-08-14T22:45:27 - qBittorrent is now ready to exit
+(N) 2023-08-15T00:15:05 - qBittorrent v4.5.4 started
+(N) 2023-08-15T00:15:05 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T00:15:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T00:15:05 - Peer ID: "-qB4540-"
+(I) 2023-08-15T00:15:05 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T00:15:05 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T00:15:05 - Local Peer Discovery support: ON
+(I) 2023-08-15T00:15:05 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T00:15:05 - Anonymous mode: OFF
+(I) 2023-08-15T00:15:05 - Encryption support: ON
+(I) 2023-08-15T00:15:05 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T00:15:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T00:15:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T00:15:05 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/29567"
+(I) 2023-08-15T00:15:05 - Successfully listening on IP. IP: "172.19.0.6". Port: "UDP/29567"
+(N) 2023-08-15T00:15:05 - Restored torrent. Torrent: "Spider.Man.Into.The.Spider.Verse.2018.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-15T00:15:05 - Restored torrent. Torrent: "The.Batman.2022.BluRay.1080p.TrueHD.Atmos.7.1.AVC.REMUX-FraMeSToR.mkv"
+(I) 2023-08-15T00:15:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T00:15:06 - Using built-in Web UI.
+(N) 2023-08-15T00:15:06 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T00:15:06 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-15T00:15:06 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T00:15:12 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T00:15:14 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T00:16:27 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T00:16:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-15T00:17:41 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T00:17:41 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T02:21:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T02:21:31 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T09:15:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T09:15:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T09:15:48 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T09:16:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T09:35:23 - Removed torrent and deleted its content. Torrent: "Spider.Man.Into.The.Spider.Verse.2018.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2023-08-15T09:35:23 - Removed torrent and deleted its content. Torrent: "The.Batman.2022.BluRay.1080p.TrueHD.Atmos.7.1.AVC.REMUX-FraMeSToR.mkv"
+(N) 2023-08-15T09:36:58 - Added new torrent. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(N) 2023-08-15T10:10:04 - qBittorrent v4.5.4 started
+(N) 2023-08-15T10:10:04 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T10:10:04 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T10:10:04 - Peer ID: "-qB4540-"
+(I) 2023-08-15T10:10:04 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T10:10:04 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T10:10:04 - Local Peer Discovery support: ON
+(I) 2023-08-15T10:10:04 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T10:10:04 - Anonymous mode: OFF
+(I) 2023-08-15T10:10:04 - Encryption support: ON
+(I) 2023-08-15T10:10:04 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T10:10:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T10:10:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T10:10:04 - Successfully listening on IP. IP: "172.19.0.8". Port: "TCP/29567"
+(I) 2023-08-15T10:10:04 - Successfully listening on IP. IP: "172.19.0.8". Port: "UDP/29567"
+(N) 2023-08-15T10:10:04 - Restored torrent. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(I) 2023-08-15T10:10:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T10:10:04 - Using built-in Web UI.
+(N) 2023-08-15T10:10:04 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T10:10:04 - Web UI: Now listening on IP: *, port: 8080
+(W) 2023-08-15T10:12:40 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T10:12:40 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T10:16:39 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T10:16:41 - WebAPI login success. IP: ::ffff:172.19.0.1
+(I) 2023-08-15T10:17:49 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T10:24:49 - qBittorrent termination initiated
+(N) 2023-08-15T10:26:11 - qBittorrent v4.5.4 started
+(N) 2023-08-15T10:26:11 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T10:26:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T10:26:11 - Peer ID: "-qB4540-"
+(I) 2023-08-15T10:26:11 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T10:26:11 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T10:26:11 - Local Peer Discovery support: ON
+(I) 2023-08-15T10:26:11 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T10:26:11 - Anonymous mode: OFF
+(I) 2023-08-15T10:26:11 - Encryption support: ON
+(I) 2023-08-15T10:26:11 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T10:26:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T10:26:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T10:26:11 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/29567"
+(I) 2023-08-15T10:26:11 - Successfully listening on IP. IP: "172.19.0.5". Port: "UDP/29567"
+(N) 2023-08-15T10:26:11 - Restored torrent. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(I) 2023-08-15T10:26:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T10:26:11 - Using built-in Web UI.
+(N) 2023-08-15T10:26:11 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T10:26:11 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-15T10:26:12 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T10:26:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T10:26:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-15T10:28:47 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T10:28:47 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T10:33:57 - qBittorrent v4.5.4 started
+(N) 2023-08-15T10:33:57 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T10:33:57 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T10:33:57 - Peer ID: "-qB4540-"
+(I) 2023-08-15T10:33:57 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T10:33:57 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T10:33:57 - Local Peer Discovery support: ON
+(I) 2023-08-15T10:33:57 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T10:33:57 - Anonymous mode: OFF
+(I) 2023-08-15T10:33:57 - Encryption support: ON
+(I) 2023-08-15T10:33:57 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T10:33:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T10:33:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T10:33:57 - Successfully listening on IP. IP: "172.19.0.3". Port: "TCP/29567"
+(I) 2023-08-15T10:33:57 - Successfully listening on IP. IP: "172.19.0.3". Port: "UDP/29567"
+(N) 2023-08-15T10:33:58 - Restored torrent. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(I) 2023-08-15T10:33:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T10:33:58 - Using built-in Web UI.
+(N) 2023-08-15T10:33:58 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T10:33:58 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-15T10:33:58 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T10:34:04 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T10:34:06 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T10:34:32 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-15T10:36:34 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T10:36:34 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T11:08:38 - Torrent download finished. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(N) 2023-08-15T11:09:47 - Torrent paused. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(N) 2023-08-15T11:09:47 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv".
+(N) 2023-08-15T11:10:37 - Removed torrent and deleted its content. Torrent: "Spider-Man - Into the Spider-Verse (2018).mkv"
+(W) 2023-08-15T11:32:57 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: adwait
+(N) 2023-08-15T11:32:59 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T11:57:47 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T12:42:51 - qBittorrent v4.5.4 started
+(N) 2023-08-15T12:42:51 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T12:42:51 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T12:42:51 - Peer ID: "-qB4540-"
+(I) 2023-08-15T12:42:51 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T12:42:51 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T12:42:51 - Local Peer Discovery support: ON
+(I) 2023-08-15T12:42:51 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T12:42:51 - Anonymous mode: OFF
+(I) 2023-08-15T12:42:51 - Encryption support: ON
+(I) 2023-08-15T12:42:51 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T12:42:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T12:42:51 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T12:42:51 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/29567"
+(I) 2023-08-15T12:42:51 - Successfully listening on IP. IP: "172.19.0.7". Port: "UDP/29567"
+(I) 2023-08-15T12:42:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T12:42:51 - Using built-in Web UI.
+(N) 2023-08-15T12:42:51 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T12:42:51 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-15T12:42:51 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T12:42:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T12:42:59 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T12:43:22 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-15T12:45:27 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T12:45:27 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T14:50:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T14:50:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T18:08:41 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T18:08:42 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T18:08:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T18:49:59 - qBittorrent termination initiated
+(I) 2023-08-15T18:49:59 - UPnP/NAT-PMP support: OFF
+(N) 2023-08-15T18:50:00 - qBittorrent is now ready to exit
+(N) 2023-08-15T19:34:35 - qBittorrent v4.5.4 started
+(N) 2023-08-15T19:34:35 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-15T19:34:35 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-15T19:34:35 - Peer ID: "-qB4540-"
+(I) 2023-08-15T19:34:35 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-15T19:34:35 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-15T19:34:35 - Local Peer Discovery support: ON
+(I) 2023-08-15T19:34:35 - Peer Exchange (PeX) support: ON
+(I) 2023-08-15T19:34:35 - Anonymous mode: OFF
+(I) 2023-08-15T19:34:35 - Encryption support: ON
+(I) 2023-08-15T19:34:35 - UPnP/NAT-PMP support: ON
+(I) 2023-08-15T19:34:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-15T19:34:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-15T19:34:35 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/29567"
+(I) 2023-08-15T19:34:35 - Successfully listening on IP. IP: "172.19.0.6". Port: "UDP/29567"
+(I) 2023-08-15T19:34:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-15T19:34:35 - Using built-in Web UI.
+(N) 2023-08-15T19:34:36 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-15T19:34:36 - Web UI: Now listening on IP: *, port: 8080
+(N) 2023-08-15T19:34:45 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T19:34:46 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T19:34:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-15T19:37:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-15T19:37:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-15T19:37:19 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T19:38:36 - Added new torrent. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(I) 2023-08-15T19:38:38 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-15T20:38:51 - Added new torrent. Torrent: "[SubsPlease] Suki na Ko ga Megane wo Wasureta - 07 (1080p) [78AFB91B].mkv"
+(N) 2023-08-15T20:45:44 - Torrent download finished. Torrent: "[SubsPlease] Suki na Ko ga Megane wo Wasureta - 07 (1080p) [78AFB91B].mkv"
+(N) 2023-08-15T20:46:46 - Torrent paused. Torrent: "[SubsPlease] Suki na Ko ga Megane wo Wasureta - 07 (1080p) [78AFB91B].mkv"
+(N) 2023-08-15T20:46:46 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[SubsPlease] Suki na Ko ga Megane wo Wasureta - 07 (1080p) [78AFB91B].mkv".
+(N) 2023-08-15T21:49:16 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T21:49:52 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-15T21:52:00 - Removed torrent and deleted its content. Torrent: "[SubsPlease] Suki na Ko ga Megane wo Wasureta - 07 (1080p) [78AFB91B].mkv"
+(N) 2023-08-15T22:39:00 - Added new torrent. Torrent: "[Datte13] Barakamon [BD 1080p] [Dual-Audio]"
+(N) 2023-08-16T00:27:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T01:24:52 - qBittorrent v4.5.4 started
+(N) 2023-08-16T01:24:52 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-16T01:24:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-16T01:24:52 - Peer ID: "-qB4540-"
+(I) 2023-08-16T01:24:52 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-16T01:24:52 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-16T01:24:52 - Local Peer Discovery support: ON
+(I) 2023-08-16T01:24:52 - Peer Exchange (PeX) support: ON
+(I) 2023-08-16T01:24:52 - Anonymous mode: OFF
+(I) 2023-08-16T01:24:52 - Encryption support: ON
+(I) 2023-08-16T01:24:52 - UPnP/NAT-PMP support: ON
+(I) 2023-08-16T01:24:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-16T01:24:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-16T01:24:52 - Successfully listening on IP. IP: "172.19.0.8". Port: "TCP/29567"
+(I) 2023-08-16T01:24:52 - Successfully listening on IP. IP: "172.19.0.8". Port: "UDP/29567"
+(N) 2023-08-16T01:24:52 - Restored torrent. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-16T01:24:52 - Restored torrent. Torrent: "[Datte13] Barakamon [BD 1080p] [Dual-Audio]"
+(I) 2023-08-16T01:24:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-16T01:24:53 - Using built-in Web UI.
+(N) 2023-08-16T01:24:53 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-16T01:24:53 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-16T01:24:53 - Detected external IP. IP: "58.84.60.23"
+(N) 2023-08-16T01:24:55 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T01:24:59 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T01:25:59 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-16T01:27:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-16T01:27:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-16T08:50:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T08:50:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T11:00:10 - WebAPI login success. IP: ::ffff:172.19.0.1
+(I) 2023-08-16T12:11:29 - Detected external IP. IP: "58.84.61.237"
+(N) 2023-08-16T13:30:19 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T15:22:54 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T15:23:01 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T20:31:47 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T20:33:54 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E02 [English Dub] [CR WEB-DL 1080p] [AB2B0D23].mkv"
+(N) 2023-08-16T20:33:54 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E03 [English Dub] [CR WEB-DL 1080p] [4B284E69].mkv"
+(N) 2023-08-16T20:33:58 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E04 [English Dub] [CR WEB-DL 1080p] [2EAEE117].mkv"
+(N) 2023-08-16T20:34:02 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E05 [English Dub] [CR WEB-DL 1080p] [D0841461].mkv"
+(N) 2023-08-16T20:34:13 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E06 [English Dub] [CR WEB-DL 1080p] [7FA8C2A0].mkv"
+(N) 2023-08-16T20:34:27 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E07 [English Dub] [CR WEB-DL 1080p] [92F86758].mkv"
+(N) 2023-08-16T20:34:39 - Added new torrent. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E08 [English Dub] [CR WEB-DL 1080p] [B6D58B1D].mkv"
+(N) 2023-08-16T20:34:54 - Added new torrent. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E10.Mashle.Burnedead.and.the.Divine.Visionary.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-16T20:35:14 - Added new torrent. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E11.Mashle.Burnedead.and.the.Survival.of.the.Fittest.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-16T20:35:34 - Added new torrent. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E12.Mash.Burnedead.and.the.Magic.Mirror.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-16T21:10:58 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E04 [English Dub] [CR WEB-DL 1080p] [2EAEE117].mkv"
+(N) 2023-08-16T21:12:19 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E04 [English Dub] [CR WEB-DL 1080p] [2EAEE117].mkv"
+(N) 2023-08-16T21:12:19 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E04 [English Dub] [CR WEB-DL 1080p] [2EAEE117].mkv".
+(N) 2023-08-16T21:13:14 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E04 [English Dub] [CR WEB-DL 1080p] [2EAEE117].mkv"
+(N) 2023-08-16T22:54:08 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E07 [English Dub] [CR WEB-DL 1080p] [92F86758].mkv"
+(N) 2023-08-16T22:55:09 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E07 [English Dub] [CR WEB-DL 1080p] [92F86758].mkv"
+(N) 2023-08-16T22:55:09 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E07 [English Dub] [CR WEB-DL 1080p] [92F86758].mkv".
+(N) 2023-08-16T22:55:21 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E07 [English Dub] [CR WEB-DL 1080p] [92F86758].mkv"
+(N) 2023-08-16T23:15:41 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E05 [English Dub] [CR WEB-DL 1080p] [D0841461].mkv"
+(N) 2023-08-16T23:17:09 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E05 [English Dub] [CR WEB-DL 1080p] [D0841461].mkv"
+(N) 2023-08-16T23:17:09 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E05 [English Dub] [CR WEB-DL 1080p] [D0841461].mkv".
+(N) 2023-08-16T23:17:47 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E05 [English Dub] [CR WEB-DL 1080p] [D0841461].mkv"
+(N) 2023-08-16T23:42:14 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E03 [English Dub] [CR WEB-DL 1080p] [4B284E69].mkv"
+(N) 2023-08-16T23:43:19 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E03 [English Dub] [CR WEB-DL 1080p] [4B284E69].mkv"
+(N) 2023-08-16T23:43:19 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E03 [English Dub] [CR WEB-DL 1080p] [4B284E69].mkv".
+(N) 2023-08-16T23:43:29 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E03 [English Dub] [CR WEB-DL 1080p] [4B284E69].mkv"
+(N) 2023-08-16T23:46:18 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T23:46:20 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-16T23:46:42 - Removed torrent. Torrent: "[Datte13] Barakamon [BD 1080p] [Dual-Audio]"
+(N) 2023-08-16T23:50:08 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E08 [English Dub] [CR WEB-DL 1080p] [B6D58B1D].mkv"
+(N) 2023-08-16T23:51:09 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E08 [English Dub] [CR WEB-DL 1080p] [B6D58B1D].mkv"
+(N) 2023-08-16T23:51:09 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E08 [English Dub] [CR WEB-DL 1080p] [B6D58B1D].mkv".
+(N) 2023-08-16T23:52:15 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E08 [English Dub] [CR WEB-DL 1080p] [B6D58B1D].mkv"
+(N) 2023-08-16T23:55:28 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E06 [English Dub] [CR WEB-DL 1080p] [7FA8C2A0].mkv"
+(N) 2023-08-16T23:56:52 - Torrent download finished. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E02 [English Dub] [CR WEB-DL 1080p] [AB2B0D23].mkv"
+(N) 2023-08-16T23:59:09 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E06 [English Dub] [CR WEB-DL 1080p] [7FA8C2A0].mkv"
+(N) 2023-08-16T23:59:09 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E06 [English Dub] [CR WEB-DL 1080p] [7FA8C2A0].mkv".
+(N) 2023-08-16T23:59:59 - Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E02 [English Dub] [CR WEB-DL 1080p] [AB2B0D23].mkv"
+(N) 2023-08-16T23:59:59 - Torrent reached the seeding time limit. Torrent paused. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E02 [English Dub] [CR WEB-DL 1080p] [AB2B0D23].mkv".
+(N) 2023-08-17T00:00:14 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E06 [English Dub] [CR WEB-DL 1080p] [7FA8C2A0].mkv"
+(N) 2023-08-17T00:00:17 - Removed torrent and deleted its content. Torrent: "[Yameii] Mashle - Magic and Muscles - S01E02 [English Dub] [CR WEB-DL 1080p] [AB2B0D23].mkv"
+(N) 2023-08-17T00:04:38 - Torrent download finished. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E12.Mash.Burnedead.and.the.Magic.Mirror.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:05:39 - Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E12.Mash.Burnedead.and.the.Magic.Mirror.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:05:39 - Torrent reached the seeding time limit. Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E12.Mash.Burnedead.and.the.Magic.Mirror.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv".
+(N) 2023-08-17T00:06:05 - Removed torrent and deleted its content. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E12.Mash.Burnedead.and.the.Magic.Mirror.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:11:25 - Torrent download finished. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E11.Mashle.Burnedead.and.the.Survival.of.the.Fittest.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:12:29 - Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E11.Mashle.Burnedead.and.the.Survival.of.the.Fittest.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:12:29 - Torrent reached the seeding time limit. Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E11.Mashle.Burnedead.and.the.Survival.of.the.Fittest.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv".
+(N) 2023-08-17T00:13:42 - Removed torrent and deleted its content. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E11.Mashle.Burnedead.and.the.Survival.of.the.Fittest.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:19:07 - Torrent download finished. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E10.Mashle.Burnedead.and.the.Divine.Visionary.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:24:59 - Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E10.Mashle.Burnedead.and.the.Divine.Visionary.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T00:24:59 - Torrent reached the seeding time limit. Torrent paused. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E10.Mashle.Burnedead.and.the.Divine.Visionary.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv".
+(N) 2023-08-17T00:25:36 - Removed torrent and deleted its content. Torrent: "MASHLE.MAGIC.AND.MUSCLES.S01E10.Mashle.Burnedead.and.the.Divine.Visionary.1080p.AMZN.WEB-DL.DDP2.0.H.264-KQRM.mkv"
+(N) 2023-08-17T08:57:40 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-17T08:58:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-17T12:24:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-17T13:00:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-17T15:15:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-17T23:32:59 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-18T00:11:52 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-18T11:50:22 - qBittorrent termination initiated
+(I) 2023-08-18T11:50:22 - UPnP/NAT-PMP support: OFF
+(N) 2023-08-18T11:50:27 - qBittorrent is now ready to exit
+(N) 2023-08-19T12:06:56 - qBittorrent v4.5.4 started
+(N) 2023-08-19T12:06:56 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-19T12:06:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-19T12:06:56 - Peer ID: "-qB4540-"
+(I) 2023-08-19T12:06:56 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-19T12:06:56 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-19T12:06:56 - Local Peer Discovery support: ON
+(I) 2023-08-19T12:06:56 - Peer Exchange (PeX) support: ON
+(I) 2023-08-19T12:06:56 - Anonymous mode: OFF
+(I) 2023-08-19T12:06:56 - Encryption support: ON
+(I) 2023-08-19T12:06:56 - UPnP/NAT-PMP support: ON
+(I) 2023-08-19T12:06:56 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-19T12:06:56 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-19T12:06:56 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/29567"
+(I) 2023-08-19T12:06:56 - Successfully listening on IP. IP: "172.19.0.6". Port: "UDP/29567"
+(N) 2023-08-19T12:06:56 - Restored torrent. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(I) 2023-08-19T12:06:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-19T12:06:57 - Using built-in Web UI.
+(N) 2023-08-19T12:06:57 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-19T12:06:57 - Web UI: Now listening on IP: *, port: 8080
+(W) 2023-08-19T12:06:57 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)". Reason: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) fast resume rejected. file_stat(/data/downloads/The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Batman (2022) (2160p BluRay x265 10bit HDR Tigole).mkv): mismatching file size"
+(I) 2023-08-19T12:06:57 - Detected external IP. IP: "58.84.61.59"
+(N) 2023-08-19T12:07:10 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T12:07:15 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T12:07:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-19T12:09:32 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-19T12:09:32 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-19T13:21:30 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T13:26:12 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T13:26:20 - Torrent paused. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T13:26:54 - Torrent resumed. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T13:26:55 - Torrent paused. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T13:27:21 - Torrent resumed. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(W) 2023-08-19T13:27:25 - File error alert. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)". File: "/data/downloads/The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Batman (2022) (2160p BluRay x265 10bit HDR Tigole).mkv". Reason: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) mkdir (/data/downloads/The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Batman (2022) (2160p BluRay x265 10bit HDR Tigole).mkv) error: Permission denied"
+(W) 2023-08-19T13:37:29 - File error alert. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)". File: "/data/downloads/The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Batman (2022) (2160p BluRay x265 10bit HDR Tigole).mkv". Reason: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) mkdir (/data/downloads/The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Batman (2022) (2160p BluRay x265 10bit HDR Tigole).mkv) error: Permission denied"
+(N) 2023-08-19T13:39:09 - qBittorrent v4.5.4 started
+(N) 2023-08-19T13:39:09 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-19T13:39:09 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-19T13:39:09 - Peer ID: "-qB4540-"
+(I) 2023-08-19T13:39:09 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-19T13:39:09 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-19T13:39:09 - Local Peer Discovery support: ON
+(I) 2023-08-19T13:39:09 - Peer Exchange (PeX) support: ON
+(I) 2023-08-19T13:39:09 - Anonymous mode: OFF
+(I) 2023-08-19T13:39:09 - Encryption support: ON
+(I) 2023-08-19T13:39:09 - UPnP/NAT-PMP support: ON
+(I) 2023-08-19T13:39:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-19T13:39:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-19T13:39:09 - Successfully listening on IP. IP: "172.19.0.10". Port: "TCP/29567"
+(I) 2023-08-19T13:39:09 - Successfully listening on IP. IP: "172.19.0.10". Port: "UDP/29567"
+(N) 2023-08-19T13:39:09 - Restored torrent. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(I) 2023-08-19T13:39:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-19T13:39:10 - Using built-in Web UI.
+(N) 2023-08-19T13:39:10 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-19T13:39:10 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-19T13:39:10 - Detected external IP. IP: "58.84.61.59"
+(N) 2023-08-19T13:39:16 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T13:39:21 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-19T13:41:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-19T13:41:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-19T17:15:09 - WebAPI login success. IP: ::ffff:172.19.0.1
+(W) 2023-08-19T17:15:30 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.19.0.1, username: adwait
+(W) 2023-08-19T17:15:33 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.19.0.1, username: adwait
+(N) 2023-08-19T17:15:35 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T17:50:14 - Torrent download finished. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T17:51:19 - Torrent paused. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T17:51:19 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)".
+(N) 2023-08-19T17:51:25 - Removed torrent and deleted its content. Torrent: "The Batman (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)"
+(N) 2023-08-19T19:05:06 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-19T22:04:38 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-20T06:25:43 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-20T06:25:44 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-20T11:01:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-20T11:01:52 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-20T12:06:21 - qBittorrent v4.5.4 started
+(N) 2023-08-20T12:06:21 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T12:06:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-20T12:06:21 - Peer ID: "-qB4540-"
+(I) 2023-08-20T12:06:21 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-20T12:06:21 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-20T12:06:21 - Local Peer Discovery support: ON
+(I) 2023-08-20T12:06:21 - Peer Exchange (PeX) support: ON
+(I) 2023-08-20T12:06:21 - Anonymous mode: OFF
+(I) 2023-08-20T12:06:21 - Encryption support: ON
+(I) 2023-08-20T12:06:21 - UPnP/NAT-PMP support: ON
+(I) 2023-08-20T12:06:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-20T12:06:21 - Using built-in Web UI.
+(N) 2023-08-20T12:06:21 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-20T12:06:21 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-20T12:06:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-20T12:06:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-20T12:06:21 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/29567"
+(I) 2023-08-20T12:06:21 - Successfully listening on IP. IP: "172.19.0.2". Port: "UDP/29567"
+(I) 2023-08-20T12:06:22 - Detected external IP. IP: "58.84.60.197"
+(N) 2023-08-20T15:03:21 - qBittorrent termination initiated
+(I) 2023-08-20T15:03:21 - UPnP/NAT-PMP support: OFF
+(N) 2023-08-20T15:03:21 - qBittorrent is now ready to exit
+(N) 2023-08-20T15:03:22 - qBittorrent v4.5.4 started
+(N) 2023-08-20T15:03:22 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T15:03:23 - qBittorrent v4.5.4 started
+(N) 2023-08-20T15:03:23 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T15:03:25 - qBittorrent v4.5.4 started
+(N) 2023-08-20T15:03:25 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T15:03:26 - qBittorrent v4.5.4 started
+(N) 2023-08-20T15:03:26 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T15:04:07 - qBittorrent v4.5.4 started
+(N) 2023-08-20T15:04:07 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-20T15:04:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-20T15:04:08 - Peer ID: "-qB4540-"
+(I) 2023-08-20T15:04:08 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-20T15:04:08 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-20T15:04:08 - Local Peer Discovery support: ON
+(I) 2023-08-20T15:04:08 - Peer Exchange (PeX) support: ON
+(I) 2023-08-20T15:04:08 - Anonymous mode: OFF
+(I) 2023-08-20T15:04:08 - Encryption support: ON
+(I) 2023-08-20T15:04:08 - UPnP/NAT-PMP support: ON
+(I) 2023-08-20T15:04:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-20T15:04:08 - Using built-in Web UI.
+(N) 2023-08-20T15:04:08 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-20T15:04:08 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-20T15:04:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-20T15:04:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-20T15:04:08 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/29567"
+(I) 2023-08-20T15:04:08 - Successfully listening on IP. IP: "172.19.0.2". Port: "UDP/29567"
+(I) 2023-08-20T15:04:08 - Detected external IP. IP: "58.84.60.144"
+(W) 2023-08-20T15:06:44 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-20T15:06:44 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-20T15:40:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-21T21:36:26 - qBittorrent v4.5.4 started
+(N) 2023-08-21T21:36:26 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-21T21:36:27 - qBittorrent v4.5.4 started
+(N) 2023-08-21T21:36:27 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-21T21:36:29 - qBittorrent v4.5.4 started
+(N) 2023-08-21T21:36:29 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-21T21:36:30 - qBittorrent v4.5.4 started
+(N) 2023-08-21T21:36:30 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-21T21:38:28 - qBittorrent v4.5.4 started
+(N) 2023-08-21T21:38:28 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-21T21:38:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-21T21:38:28 - Peer ID: "-qB4540-"
+(I) 2023-08-21T21:38:28 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-21T21:38:28 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-21T21:38:28 - Local Peer Discovery support: ON
+(I) 2023-08-21T21:38:28 - Peer Exchange (PeX) support: ON
+(I) 2023-08-21T21:38:28 - Anonymous mode: OFF
+(I) 2023-08-21T21:38:28 - Encryption support: ON
+(I) 2023-08-21T21:38:28 - UPnP/NAT-PMP support: ON
+(I) 2023-08-21T21:38:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-21T21:38:28 - Using built-in Web UI.
+(N) 2023-08-21T21:38:28 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-21T21:38:28 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-21T21:38:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-21T21:38:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-21T21:38:32 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/29567"
+(I) 2023-08-21T21:38:32 - Successfully listening on IP. IP: "172.19.0.7". Port: "UDP/29567"
+(I) 2023-08-21T21:38:39 - Detected external IP. IP: "58.84.61.9"
+(W) 2023-08-21T21:41:16 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-21T21:41:16 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-22T23:30:22 - qBittorrent v4.5.4 started
+(N) 2023-08-22T23:30:22 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-22T23:30:24 - qBittorrent v4.5.4 started
+(N) 2023-08-22T23:30:24 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-23T00:33:32 - qBittorrent v4.5.4 started
+(N) 2023-08-23T00:33:32 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-23T00:33:32 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-23T00:33:32 - Peer ID: "-qB4540-"
+(I) 2023-08-23T00:33:32 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-23T00:33:32 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-23T00:33:32 - Local Peer Discovery support: ON
+(I) 2023-08-23T00:33:32 - Peer Exchange (PeX) support: ON
+(I) 2023-08-23T00:33:32 - Anonymous mode: OFF
+(I) 2023-08-23T00:33:32 - Encryption support: ON
+(I) 2023-08-23T00:33:32 - UPnP/NAT-PMP support: ON
+(I) 2023-08-23T00:33:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-23T00:33:32 - Using built-in Web UI.
+(N) 2023-08-23T00:33:32 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-23T00:33:32 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-23T00:33:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-23T00:33:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-23T00:33:32 - Successfully listening on IP. IP: "172.19.0.6". Port: "TCP/29567"
+(I) 2023-08-23T00:33:32 - Successfully listening on IP. IP: "172.19.0.6". Port: "UDP/29567"
+(I) 2023-08-23T00:33:33 - Detected external IP. IP: "58.84.62.220"
+(W) 2023-08-23T00:36:08 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-23T00:36:08 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-08-23T10:11:20 - qBittorrent v4.5.4 started
+(N) 2023-08-23T10:11:20 - Using config directory: /app/qBittorrent/config
+(N) 2023-08-23T10:11:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:29567,[::]:29567"
+(I) 2023-08-23T10:11:20 - Peer ID: "-qB4540-"
+(I) 2023-08-23T10:11:20 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-08-23T10:11:20 - Distributed Hash Table (DHT) support: ON
+(I) 2023-08-23T10:11:20 - Local Peer Discovery support: ON
+(I) 2023-08-23T10:11:20 - Peer Exchange (PeX) support: ON
+(I) 2023-08-23T10:11:20 - Anonymous mode: OFF
+(I) 2023-08-23T10:11:20 - Encryption support: ON
+(I) 2023-08-23T10:11:20 - UPnP/NAT-PMP support: ON
+(I) 2023-08-23T10:11:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Aug 1 05:45:41 2023.
+(N) 2023-08-23T10:11:20 - Using built-in Web UI.
+(N) 2023-08-23T10:11:20 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-08-23T10:11:20 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-08-23T10:11:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/29567"
+(I) 2023-08-23T10:11:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/29567"
+(I) 2023-08-23T10:11:20 - Successfully listening on IP. IP: "172.19.0.5". Port: "TCP/29567"
+(I) 2023-08-23T10:11:20 - Successfully listening on IP. IP: "172.19.0.5". Port: "UDP/29567"
+(I) 2023-08-23T10:11:21 - Detected external IP. IP: "58.84.61.95"
+(N) 2023-08-23T10:11:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-23T10:11:27 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-23T10:11:53 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2023-08-23T10:12:40 - Added new torrent. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)"
+(W) 2023-08-23T10:12:46 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T10:13:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-23T10:13:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-08-23T10:22:48 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T10:32:49 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T10:42:50 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T10:52:51 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:02:53 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:13:01 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:23:07 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:33:09 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:43:10 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T11:53:12 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T12:03:14 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T12:13:16 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T12:23:17 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"
+(W) 2023-08-23T12:33:18 - File error alert. Torrent: "[EMBER] Suki na Ko ga Megane wo Wasureta S01E08 [1080p] [HEVC WEBRip] (The Girl I Like Forgot Her Glasses)". File: "/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv". Reason: "[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv mkdir (/data/downloads/[EMBER] Suki na Ko ga Megane wo Wasureta - 08.mkv) error: Permission denied"

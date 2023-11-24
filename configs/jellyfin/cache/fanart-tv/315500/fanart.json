@@ -1,0 +1,230 @@
+{
+    "name": "Youjo Senki",
+    "thetvdb_id": "315500",
+    "characterart": [
+        {
+            "id": "142063",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c83780aa228.png",
+            "lang": "00",
+            "likes": "1"
+        },
+        {
+            "id": "142021",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c722237912f.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142022",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c7222668e04.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142023",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c7222935d40.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142128",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c9762eba374.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142129",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c97631335da.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142130",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c976346cfa7.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "142131",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/characterart/youjo-senki-61c9763932829.png",
+            "lang": "00",
+            "likes": "0"
+        }
+    ],
+    "hdclearart": [
+        {
+            "id": "142017",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-61c722022f7c1.png",
+            "lang": "ja",
+            "likes": "1"
+        },
+        {
+            "id": "142014",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-61c721f89db7b.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142015",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-61c721fc76e5d.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142016",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-61c721ff6c9c1.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "72500",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-58ad0cd294c7a.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "72499",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-58ad0ca8a1102.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "72497",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdclearart/youjo-senki-58ad0c8a1fc06.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "107050",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvposter/youjo-senki-5dfebdb822884.jpg",
+            "lang": "ja",
+            "likes": "1"
+        },
+        {
+            "id": "142026",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvposter/youjo-senki-61c7223e073cc.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "70016",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvposter/youjo-senki-587023ccd5e43.jpg",
+            "lang": "00",
+            "likes": "0"
+        }
+    ],
+    "showbackground": [
+        {
+            "id": "142013",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/showbackground/youjo-senki-61c721dca8049.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "142012",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/showbackground/youjo-senki-61c721d9667c0.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "142035",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/showbackground/youjo-senki-61c727ae9466c.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "142011",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/showbackground/youjo-senki-61c721d5c86ec.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "142010",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/showbackground/youjo-senki-61c721d2d6164.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        }
+    ],
+    "tvthumb": [
+        {
+            "id": "142041",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvthumb/youjo-senki-61c72ab8d1c7f.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142009",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvthumb/youjo-senki-61c721a7f07dc.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142008",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvthumb/youjo-senki-61c721a4bcf66.jpg",
+            "lang": "ja",
+            "likes": "0"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "142007",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvbanner/youjo-senki-61c72186afd5c.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142006",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvbanner/youjo-senki-61c721842e238.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "142005",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/tvbanner/youjo-senki-61c721814400b.jpg",
+            "lang": "ja",
+            "likes": "0"
+        }
+    ],
+    "seasonposter": [
+        {
+            "id": "130024",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/seasonposter/youjo-senki-60d49f284dc47.jpg",
+            "lang": "ja",
+            "likes": "0",
+            "season": "2"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "98452",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdtvlogo/youjo-senki-5ce5cfd26aade.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "98417",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdtvlogo/youjo-senki-5ce40188e89fb.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "72495",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdtvlogo/youjo-senki-58ad0c688e2af.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "70019",
+            "url": "http://assets.fanart.tv/fanart/tv/315500/hdtvlogo/youjo-senki-58702a751e628.png",
+            "lang": "ja",
+            "likes": "0"
+        }
+    ]
+}

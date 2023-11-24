@@ -1,0 +1,328 @@
+{
+    "name": "Violet Evergarden",
+    "thetvdb_id": "330139",
+    "hdclearart": [
+        {
+            "id": "138294",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-616d8fb6c0425.png",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "120472",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-5fb8a9e6dae69.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "82755",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-5a9264619da0e.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "138293",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-616d8fb69f776.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "138295",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-616d8fce8d01f.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138296",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-616d8fceae621.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "120469",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-5fb8a9e40ef2d.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "120470",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-5fb8a9e574f7a.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "120471",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdclearart/violet-evergarden-5fb8a9e62ddbb.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "82754",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdtvlogo/violet-evergarden-5a92627bb2043.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "82753",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdtvlogo/violet-evergarden-5a9209dc58a3a.png",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "91039",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdtvlogo/violet-evergarden-5c21626e859bc.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "104004",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/hdtvlogo/violet-evergarden-5daa74ed6c337.png",
+            "lang": "ja",
+            "likes": "0"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "138285",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-616d8cc604a5a.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "138286",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-616d8cc6251a9.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "138287",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-616d8cd52eda2.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138288",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-616d8cd5505d5.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "82759",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-5a9270a4294f4.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "107333",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvbanner/violet-evergarden-5e0a7108123bd.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "103593",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5da2de3ed1f35.jpg",
+            "lang": "00",
+            "likes": "1"
+        },
+        {
+            "id": "138289",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-616d8d013ae94.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "138290",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-616d8d12b2c10.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138291",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-616d8d2f9832a.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138292",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-616d8d634a98b.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "153675",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-62ee8a17a0cae.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "103594",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5da2de6bc6cef.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "82674",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5a90a20cacfd3.jpg",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "82760",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5a9270e3b247d.jpg",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "82761",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5a92714598e7e.jpg",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "118723",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5f88ed340c780.jpg",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "82673",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvposter/violet-evergarden-5a90a1f9dfe98.jpg",
+            "lang": "00",
+            "likes": "0"
+        }
+    ],
+    "showbackground": [
+        {
+            "id": "138281",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-616d8cae0b00d.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "138283",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-616d8cae4fc2a.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "138284",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-616d8cae6e641.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "138316",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-616e6d0942c4e.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "138317",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-616e6d096baf4.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "82675",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-5a90a21fa0016.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "82676",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-5a90a25a92a25.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "82756",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-5a926bcfa1cb8.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "82757",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-5a926ca88a023.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        },
+        {
+            "id": "82758",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/showbackground/violet-evergarden-5a926cb105c69.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        }
+    ],
+    "tvthumb": [
+        {
+            "id": "138278",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvthumb/violet-evergarden-616d8c8310783.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138280",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvthumb/violet-evergarden-616d8c96a7e27.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "104205",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvthumb/violet-evergarden-5dada2865fa3f.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138277",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvthumb/violet-evergarden-616d8c82df35d.jpg",
+            "lang": "ja",
+            "likes": "0"
+        },
+        {
+            "id": "138279",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/tvthumb/violet-evergarden-616d8c9682766.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "characterart": [
+        {
+            "id": "138297",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/characterart/violet-evergarden-616d94092baa4.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "138298",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/characterart/violet-evergarden-616d94094bf77.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "138299",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/characterart/violet-evergarden-616d94096516a.png",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "138300",
+            "url": "http://assets.fanart.tv/fanart/tv/330139/characterart/violet-evergarden-616d94097e959.png",
+            "lang": "00",
+            "likes": "0"
+        }
+    ]
+}

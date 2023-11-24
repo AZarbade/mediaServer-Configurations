@@ -1,0 +1,19 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/en/configs/widgets
+
+- resources:
+    cpu: true
+    memory: true
+    disk: /
+
+- search:
+    provider: google
+    target: _blank
+
+# 1/23/22, 1:37 PM
+- datetime:
+    format:
+        dateStyle: full
+        timeStyle: short
+        hour12: true```

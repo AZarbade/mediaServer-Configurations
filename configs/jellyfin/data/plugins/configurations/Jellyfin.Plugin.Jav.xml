@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Backend>
+    <Server>https://api.javtube.internal</Server>
+    <Token />
+  </Backend>
+  <General>
+    <ImageQuality>100</ImageQuality>
+    <EnableCollectionsBySeries>false</EnableCollectionsBySeries>
+    <EnableChineseSubtitleGenre>false</EnableChineseSubtitleGenre>
+  </General>
+  <Template>
+    <TitleTemplate>{number} {title}</TitleTemplate>
+    <TaglineTemplate>配信開始日 {date}</TaglineTemplate>
+    <PlaceholderIfNull>NULL</PlaceholderIfNull>
+  </Template>
+  <Replacement>
+    <EnableGenreReplacement>false</EnableGenreReplacement>
+    <RawGenreReplacementTable />
+    <EnableActorReplacement>false</EnableActorReplacement>
+    <RawActorReplacementTable />
+  </Replacement>
+</PluginConfiguration>

@@ -1,0 +1,17 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/en/configs/settings
+
+layout:
+  Media:
+    style: row
+    columns: 4
+
+  Documents & Files:
+    style: column
+
+  Utilites:
+    style: column
+
+disableCollapse: true
+headerStyle: boxed

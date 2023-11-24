@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="17838" restricted="true">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2023-05-26</startdate>
+<enddate>2023-11-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rakuen Shinshoku: Island of the Dead</title>
+<title xml:lang="ko" type="synonym">낙원침촉 - 죽은 자의 섬</title>
+<title xml:lang="ja" type="official">楽園侵触 Island of the dead</title>
+</titles>
+<url>http://showten.info/products/anime/stap027.html</url>
+<creators>
+<name id="50854" type="Original Work">Syoku</name>
+<name id="33803" type="Animation Work">Rabbit Gate</name>
+</creators>
+<ratings>
+<permanent count="20">4.79</permanent>
+<temporary count="24">6.16</temporary>
+</ratings>
+<picture>288096.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>54622</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://showten.info/products/anime/stap027.html</url>
+</externalentity>
+<externalentity>
+<url>https://showten.info/products/anime/stap028.html</url>
+</externalentity>
+</resource>
+<resource type="14">
+<externalentity>
+<identifier>35490</identifier>
+<identifier>v</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="235" parentid="2608" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-05">
+<name>waitress</name>
+<description>A female attendant who serves customers in a restaurant, café, or similar.
+Source: Wiktionary</description>
+<picurl>163704.jpg</picurl>
+</tag>
+<tag id="301" parentid="2848" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-10">
+<name>lactation</name>
+<description>Capable of secreting breast milk, sometimes referred to as Mother`s milk.</description>
+<picurl>176139.jpg</picurl>
+</tag>
+<tag id="1773" parentid="2608" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-12">
+<name>tentacle</name>
+<description>A tentacle or bothrium (plural: bothria) is one of usually two or more elongated flexible organs present in animals, especially invertebrates. Usually, Tentacles are used for feeding, feeling and grasping.</description>
+<picurl>236087.jpg</picurl>
+</tag>
+<tag id="1774" parentid="2891" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2021-08-27">
+<name>gigantic breasts</name>
+<description>Gigantic breasts are unnaturally large breasts, even by anime standards; they are true gargantuan monstrosities, either because of sheer size or through the combination of size and exceedingly unnatural shape. Essentially, breasts that take at least as much space as the rest of the chest or the abdomen, or that are almost as big but have an absurdly unnatural shape, are gigantic; smaller breasts are the more common http://anidb.net/t7872 [huge breasts], even if they`re as big as the character`s head.</description>
+<picurl>160446.jpg</picurl>
+</tag>
+<tag id="2603" parentid="2608" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-25">
+<name>office lady</name>
+<description>An office lady, often abbreviated OL, is a female office worker in Japan who performs generally pink collar tasks such as serving tea and secretarial or clerical work. Like many unmarried Japanese, OLs often live with their parents well into early adulthood. Office ladies are usually full-time permanent staff, although the jobs they do usually have little opportunity for promotion, and there is usually the tacit expectation that they leave their jobs once they get married.
+OL stock characters are frequently found in josei manga and anime, often portrayed as attractive, clever, and wistful individuals bored with their jobs, over-pressured by their families, and facing psychological issues.</description>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2021-07-27">
+<name>fetishes</name>
+<description>For non-porn anime, the fetish must be a major element of the show; incidental appearances of the fetish is not sufficient for a fetish tag. Please do not add fetish tags to anime that do not pander to the fetish in question in any meaningful way. For example, there`s some ecchi in http://anidb.net/a22 [Shinseiki Evangelion], but the fact you get to see http://anidb.net/ch39 [Asuka]`s pantsu is not sufficient to warrant applying the http://anidb.net/t2894 [school girl] fetish tag. See also the http://wiki.anidb.net/Tags#Minimum_Relevance_Rule [minimum relevancy rule].
+For porn anime, the application of fetish tags are fairly straightforward, as porn will fully play out most fetishes.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2615" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-25">
+<name>18 restricted</name>
+<description>This isn`t really an "audience".
+While some anime might feature sexual content they still might not be considered pornography. This category is meant only for when the content is clearly *not* intended for minors. The distinction is made by whether the content is sold only to adults.</description>
+<picurl>67867.png</picurl>
+</tag>
+<tag id="2630" parentid="2613" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2631" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-02-11">
+<name>island</name>
+<description>Part of this anime takes place on an island, a small landmass that is surrounded by the sea. Generally, an island setting involves interaction with "island" elements. Such elements could include (but is not limited towards): riding on a boat, fishing, foraging/hunting, beach scene, "peaceful island life", being "shipwrecked", island fever, lamenting isolation from the mainland, etc.
+An island or isle is any piece of sub-continental land that is surrounded by water. Very small islands such as emergent land features on atolls can be called islets, cays or keys. An island in a river or lake may be called an eyot (also ait), or holm. A grouping of geographically or geologically related islands is called an archipelago.
+(Source: Wikipedia)</description>
+</tag>
+<tag id="2705" parentid="2848" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-20">
+<name>creampie</name>
+<description>The act of a man ejaculating inside a girl`s vagina, leaving the semen oozing out of her.</description>
+<picurl>160720.jpg</picurl>
+</tag>
+<tag id="2707" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-02-20">
+<name>internal shots</name>
+<description>Internal shots are pictures that display the interior of the body of a living being, either through the skin, kind of as an "x-ray" of sorts, or from the inside, as if the camera was also inside. This is generally used during sex scenes to display the inside of any area being penetrated. Those shots may happen either by making an area of the body transparent or by displaying the same area again, but from the inside; the latter method is shown in the picture.</description>
+<picurl>213307.jpg</picurl>
+</tag>
+<tag id="2713" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>oral</name>
+<description>Oral sex is sexual activity involving the stimulation of the genitalia of a sex partner by the use of the mouth, tongue, teeth or throat.</description>
+</tag>
+<tag id="2715" parentid="7220" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-11">
+<name>rape</name>
+<description>Rape means to force someone to engage in sexual interaction without their consent. If the rape is not successfully executed (both fellatio and penetration did not occur), tag with http://anidb.net/t7238 [attempted rape] instead.</description>
+<picurl>212186.jpg</picurl>
+</tag>
+<tag id="2717" parentid="2848" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>anal</name>
+<description>Sodomy, buggery, buttsex, cornholing, or the poop-chute polka. Call it whatever you like, but somebody is getting something stuck where the sun does not shine.</description>
+<picurl>173755.jpg</picurl>
+</tag>
+<tag id="2722" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-21">
+<name>doggy style</name>
+<description>Bang her from behind and use her boobies as a steering wheel!</description>
+<picurl>161394.jpg</picurl>
+</tag>
+<tag id="2727" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-17">
+<name>stomach stretch</name>
+<description>Visible abdominal distortion from objects or anatomy pressing out from within the vaginal or anal cavity. Not to be confused with http://anidb.net/t2935 [stomach bulge] or http://anidb.net/t775 [pregnancy].</description>
+<picurl>178246.jpg</picurl>
+</tag>
+<tag id="2733" parentid="2715" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2021-03-28">
+<name>enjoyable rape</name>
+<description>This anime features a rape scene during which the raped character also reaches orgasm or else somehow derives sexual pleasure from the act.</description>
+<picurl>258968.jpg</picurl>
+</tag>
+<tag id="2748" parentid="2604" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>sex</name>
+<description>Sexual intercourse, the ultimate bond of love and the "Origin of the World" (just think of Gustave Courbet`s painting: http://en.wikipedia.org/wiki/L%27Origine_du_monde).
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+<picurl>161190.jpg</picurl>
+</tag>
+<tag id="2749" parentid="2604" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2021-04-12">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators. No frontal (visible genitals) = 1.5 stars or less.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2848" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-07-15">
+<name>pornography</name>
+<description>Anime clearly marked as "Restricted 18" material centring on all variations of adult sex, some of which can be considered as quite perverted. To certain extent, some of the elements can be seen on late night TV animations.</description>
+</tag>
+<tag id="2891" parentid="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-31">
+<name>breasts</name>
+<description>The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The tag is not only used for ecchi anime, but also for hentai shows as well.</description>
+<picurl>161015.jpg</picurl>
+</tag>
+<tag id="2921" parentid="2713" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-12">
+<name>throat fucking</name>
+<description>The act of actively thrusting one`s penis into a persons mouth and throat.</description>
+<picurl>236088.jpg</picurl>
+</tag>
+<tag id="2935" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-19">
+<name>stomach bulge</name>
+<description>Visible stomach distortion caused by large quantities of fluid or air having been inserted into the vaginal or anal cavity. Not to be confused with http://anidb.net/t2727 [stomach stretch] or http://anidb.net/t775 [pregnancy].</description>
+<picurl>236454.jpg</picurl>
+</tag>
+<tag id="3663" parentid="6347" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-14">
+<name>body takeover</name>
+<description>A person`s body is taken over by some foreign intelligence. It`s not brainwashing, because they still have control of their own mind — but that`s all they have. Either they`ve been reduced to a spectator in their own body, or their soul has been booted out of their body entirely. Either way, the rest of the cast will soon find he`s not himself.</description>
+</tag>
+<tag id="3976" parentid="2848" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-18">
+<name>impregnation</name>
+<description>At least one of the character is impregnated during the anime. This is confirmed by the characters, or the character is later shown as pregnant. Merely shouting "I`ll become pregnant!" or something similar during sex is not impregnation.
+A porn anime can be tagged with impregnation only when all of the following conditions are met:
+* She must be shown having sex in such a way that she can become pregnant
+* She must be known as http://anidb.net/t775 [pregnant] after the fact, be it the pregnant stomach, pregnancy test, verbal confirmation, doctor`s report, etc
+* Having an abortion after the event, does not change the fact that an impregnation still occurred
+* http://anidb.net/t2705 [Creampies] are not a necessary criteria to have an impregnation, and impregnations do not automatically result from a creampie.
+If she is impregnated by a non-human, the http://anidb.net/t7148 [impregnation with larvae] tag may also apply.</description>
+<picurl>221652.jpg</picurl>
+</tag>
+<tag id="4257" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-08-07">
+<name>survival</name>
+<description>The theme/genre of survival typically depicts the act or process of continuing to live, generally in a hostile, possibly post-apocalyptic environment. Survival-centered media tends to be dark, set most commonly in a contemporary context, and generally leads either to small groups of people forming closely knit and functional units or to individuals turning against their fellows in a return to the survival of the fittest.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6268" parentid="2713" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-03">
+<name>fellatio</name>
+<description>Fellatio is oral sex performed upon the penis. It may be performed to induce male orgasm and ejaculation of semen, or it may be used as foreplay prior to sexual intercourse.</description>
+<picurl>165408.jpg</picurl>
+</tag>
+<tag id="6347" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-17">
+<name>body and host</name>
+<description>When a foreign entity like that of a symbiote, body snatcher, puppeteer parasite, or even a hacker (when regarding machines like robots and computers) enters/outright hijacks a body, the possessed subject becomes what is usually called: the host.
+The basic purpose of the host varies on what the point was for it to have been hijacked in the first place. Sometimes it`s used as a disguise, other times it`s used as a decoy and destraction, even simply being used as a weapon and piece of armor that the possessor uses to cause sheer chaos and destruction, but sometimes... a host can be used for fetish fuel.</description>
+</tag>
+<tag id="7148" parentid="3976" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-29">
+<name>impregnation with larvae</name>
+<description>Larvae impregnation is when the (generally human) character is http://anidb.net/t3976 [impregnated] with something other than human DNA, becoming http://anidb.net/t7151 [pregnant with larvae] (a non-human fetus). This includes but is not limited to: larvae, insects, demons, ghosts, animals, tentacle monsters, lovecraftian stuff, aliens, etc, you name it.</description>
+<picurl>221645.jpg</picurl>
+</tag>
+<tag id="7220" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-12-29">
+<name>sexual abuse</name>
+<description>Sexual abuse is the act of one person forcing sexual activities upon another. Sexual abuse includes not only physical coercion and sexual assault, especially rape, but also psychological abuse, such as verbal sexual behaviour or stalking, including emotional manipulation.</description>
+</tag>
+<tag id="7885" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2021-11-07">
+<name>Japanese production</name>
+</tag>
+<tag id="7905" parentid="2891" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2021-12-30">
+<name>large breasts</name>
+<description>Large breasts are breasts a fair notch larger than average, as found in some real life adolescent girls or fully grown women. They are bigger than http://anidb.net/t7871 [medium breasts] and smaller than http://anidb.net/t7872 [huge breasts].</description>
+<picurl>264330.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="132719" type="main character in" update="2023-06-04">
+<name>Arino Yayoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289979.jpg</picture>
+</character>
+<character id="132720" type="main character in" update="2023-06-04">
+<name>Miyakouji Reika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289980.jpg</picture>
+<seiyuu id="50852" picture="11247.jpeg">Natsuki Kanna</seiyuu>
+</character>
+<character id="132721" type="main character in" update="2023-06-04">
+<name>Hanna College</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289981.jpg</picture>
+</character>
+<character id="132722" type="main character in" update="2023-06-04">
+<name>Asari Ema</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289982.jpg</picture>
+</character>
+<character id="132723" type="main character in" update="2023-06-04">
+<rating votes="1">2.65</rating>
+<name>Kitamichi Makoto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289983.jpg</picture>
+<seiyuu id="47815" picture="159485.jpg">Hoshi Riruka</seiyuu>
+</character>
+<character id="132724" type="main character in" update="2023-06-04">
+<rating votes="1">8.67</rating>
+<name>Aria Kimura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289984.jpg</picture>
+</character>
+<character id="132725" type="main character in" update="2023-06-04">
+<rating votes="1">2.65</rating>
+<name>Minami Mion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289985.jpg</picture>
+</character>
+<character id="132726" type="main character in" update="2023-06-04">
+<name>Nonokura Ayumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289986.jpg</picture>
+</character>
+<character id="132727" type="main character in" update="2023-06-04">
+<name>Nonokura Kayako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289987.jpg</picture>
+<seiyuu id="44297">Hara Maika</seiyuu>
+</character>
+<character id="132728" type="main character in" update="2023-06-04">
+<rating votes="2">5.51</rating>
+<name>Kishida Eila</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>289988.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="263376" update="2023-03-27">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2023-05-26</airdate>
+<rating votes="1">7.37</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="263377" update="2023-03-27">
+<epno type="1">2</epno>
+<length>20</length>
+<airdate>2023-11-24</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,413 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_3189_10_Episode_13__The_,Verdana,10,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,30,30,20,1
+Style: sign_12834_120_Emptiness,Trebuchet MS,24,&H00483D2F,&H000000FF,&H00DAC19C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_13851_153_I_m_okay_,Comic Sans MS,11,&H003719A1,&H000000FF,&H00E8E6EA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.29,0:00:08.29,italics,Narrator,0,0,0,,Can you imagine a life where you \Ncan't even touch the person you love?
+Dialogue: 0,0:00:09.15,0:00:14.14,italics,Narrator,0,0,0,,The curse the witch laid upon him caused \Nhim to take the lives of any he touched.
+Dialogue: 0,0:00:14.76,0:00:19.08,italics,Narrator,0,0,0,,His own mother distanced herself from him,\N his friends called him a monster...
+Dialogue: 0,0:00:19.08,0:00:20.46,italics,Narrator,0,0,0,,Even people he'd never met spoke of him as
+Dialogue: 0,0:00:20.46,0:00:23.51,italics,Narrator,0,0,0,,"death incarnate that dwells in the forest."
+Dialogue: 0,0:00:24.15,0:00:29.18,italics,Narrator,0,0,0,,And yet, he doesn't feel \Nthe least bit lonely.
+Dialogue: 0,0:00:35.43,0:00:37.87,main,Alice,0,0,0,,Good morning. Breakfast is ready.
+Dialogue: 0,0:00:47.67,0:00:50.01,main,Duke,0,0,0,,Alice, why don't you take a break?
+Dialogue: 0,0:00:50.01,0:00:51.96,main,Duke,0,0,0,,I'll do the cleaning for once.
+Dialogue: 0,0:00:51.96,0:00:52.90,main,Alice,0,0,0,,But...
+Dialogue: 0,0:00:53.38,0:00:55.30,main,Duke,0,0,0,,Here, just leave it to me.
+Dialogue: 0,0:00:59.54,0:01:01.31,main,Duke,0,0,0,,Where did you pull that out from?
+Dialogue: 0,0:01:01.31,0:01:03.79,main,Duke,0,0,0,,No, I mean, go take a rest!
+Dialogue: 0,0:01:03.79,0:01:05.54,main,Alice,0,0,0,,There's nothing else for me to do.
+Dialogue: 0,0:01:05.54,0:01:07.86,main,Duke,0,0,0,,Then relax!
+Dialogue: 0,0:01:07.86,0:01:09.79,main,Duke,0,0,0,,I know. Don't you have any hobbies?
+Dialogue: 0,0:01:10.44,0:01:11.50,main,Alice,0,0,0,,You're my hobby.
+Dialogue: 0,0:01:11.50,0:01:13.96,main,Duke,0,0,0,,Then something you like?
+Dialogue: 0,0:01:14.28,0:01:15.72,main,Alice,0,0,0,,You're what I like.
+Dialogue: 0,0:01:16.12,0:01:17.86,main,Duke,0,0,0,,O-Oh... huh!
+Dialogue: 0,0:02:49.02,0:02:51.98,sign_3189_10_Episode_13__The_,sign,0,0,0,,{\pos(480,295)\blur2}Episode 15\N{\fs18\fscx87}The Duke, Alice, and the Spectral Bride
+Dialogue: 0,0:02:52.24,0:02:55.84,main,Ghost,0,0,0,,Listen, Alice. Listen!
+Dialogue: 0,0:02:55.84,0:03:00.32,main,Ghost,0,0,0,,The person you love is about \Nto come out of the next room.
+Dialogue: 0,0:03:00.32,0:03:01.66,main,Ghost,0,0,0,,Make sure not to run into them.
+Dialogue: 0,0:03:02.25,0:03:03.03,main,Duke,0,0,0,,Alice!
+Dialogue: 0,0:03:03.41,0:03:05.53,main,Duke,0,0,0,,I'm glad I didn't run into you.
+Dialogue: 0,0:03:05.53,0:03:08.09,main,Alice,0,0,0,,You were in the library this late?
+Dialogue: 0,0:03:08.09,0:03:09.00,main,Duke,0,0,0,,Yeah.
+Dialogue: 0,0:03:09.34,0:03:11.46,main,Duke,0,0,0,,I was really curious \Nabout this business card.
+Dialogue: 0,0:03:11.76,0:03:15.29,main,Duke,0,0,0,,So I was trying to look into what an \Noctopus could have to do with witches...
+Dialogue: 0,0:03:15.29,0:03:16.92,main,Duke,0,0,0,,But I didn't get anywhere.
+Dialogue: 0,0:03:17.20,0:03:19.08,main,Alice,0,0,0,,Oh, I see.
+Dialogue: 0,0:03:19.08,0:03:21.04,main,Alice,0,0,0,,Will you take a shower?
+Dialogue: 0,0:03:21.04,0:03:23.58,main,Alice,0,0,0,,I haven't taken one myself yet, \Nso it would be perfect timing.
+Dialogue: 0,0:03:23.58,0:03:25.81,main,Duke,0,0,0,,Why do you think we'd take one together?!
+Dialogue: 0,0:03:25.81,0:03:28.60,main,Ghost,0,0,0,,Aw, look at the two of you having fun.
+Dialogue: 0,0:03:32.06,0:03:35.63,main,Duke,0,0,0,,You, know, Alice, I've been wondering...
+Dialogue: 0,0:03:36.02,0:03:38.24,main,Duke,0,0,0,,Do you see them?
+Dialogue: 0,0:03:38.24,0:03:39.49,main,Alice,0,0,0,,See what?
+Dialogue: 0,0:03:39.49,0:03:40.74,main,Duke,0,0,0,,Ghosts!
+Dialogue: 0,0:03:41.24,0:03:44.74,main,Duke,0,0,0,,I felt like maybe you did when that \Nthing with McFarlane happened.
+Dialogue: 0,0:03:45.27,0:03:46.81,main,Alice,0,0,0,,I do not.
+Dialogue: 0,0:03:46.81,0:03:48.07,main,Duke,0,0,0,,You're lying!
+Dialogue: 0,0:03:48.07,0:03:51.71,main,Duke,0,0,0,,You're just pretending not to \Nsee them so I won't get scared!
+Dialogue: 0,0:03:52.04,0:03:54.51,main,Alice,0,0,0,,You're all I see.
+Dialogue: 0,0:03:54.51,0:03:57.12,main,Duke,0,0,0,,Really?!
+Dialogue: 0,0:03:57.12,0:03:59.55,main,Duke,0,0,0,,I mean, that makes me happy! \NBut that wasn't what I meant!
+Dialogue: 0,0:04:00.54,0:04:05.91,main,Duke,0,0,0,,I saw you talking by yourself last night...
+Dialogue: 0,0:04:07.37,0:04:10.77,flashback,Alice,0,0,0,,Do you know anyone who looks like me, then?
+Dialogue: 0,0:04:11.48,0:04:13.27,flashback,Alice,0,0,0,,Her name would be Sharon.
+Dialogue: 0,0:04:13.27,0:04:17.77,flashback,Alice,0,0,0,,"Morning! The sun's shining so \Nbright today! Mommy feels great!"
+Dialogue: 0,0:04:18.66,0:04:20.73,flashback,Alice,0,0,0,,That's how she talks.
+Dialogue: 0,0:04:21.84,0:04:23.26,flashback italics,Duke,0,0,0,,So cute...
+Dialogue: 0,0:04:24.89,0:04:27.73,main,Duke,0,0,0,,I'll be fine. So I want \Nyou to tell me the truth.
+Dialogue: 0,0:04:27.73,0:04:31.44,main,Duke,0,0,0,,Alice, you see ghosts, don't you?
+Dialogue: 0,0:04:32.88,0:04:34.26,main,Alice,0,0,0,,I do not.
+Dialogue: 0,0:04:34.26,0:04:35.75,main,Duke,0,0,0,,You're so stubborn!
+Dialogue: 0,0:04:35.75,0:04:37.52,main,Alice,0,0,0,,I don't see them,
+Dialogue: 0,0:04:38.60,0:04:40.77,main,Alice,0,0,0,,but it's possible that there's been
+Dialogue: 0,0:04:40.77,0:04:43.37,main,Alice,0,0,0,,a ghost in the mansion dressed like \Na spectral bride since yesterday.
+Dialogue: 0,0:04:43.37,0:04:44.80,main,Duke,0,0,0,,You do see them, then!
+Dialogue: 0,0:04:44.80,0:04:47.06,main,Duke,0,0,0,,Is she s-saying anything?
+Dialogue: 0,0:04:47.06,0:04:50.01,main,Duke,0,0,0,,Like that she wants revenge \Nor has unfinished business?
+Dialogue: 0,0:04:50.26,0:04:54.08,main,Ghost,0,0,0,,I married the man I loved,
+Dialogue: 0,0:04:54.08,0:04:58.36,main,Ghost,0,0,0,,but on the day of the wedding, \Nthis was the ring I got.
+Dialogue: 0,0:04:58.89,0:05:00.93,main,Ghost,0,0,0,,I got so mad I lost control of myself,
+Dialogue: 0,0:05:00.93,0:05:02.74,main,Ghost,0,0,0,,and then I fell down the stairs and died!
+Dialogue: 0,0:05:03.09,0:05:06.08,main,Alice,0,0,0,,That's a sad way to go.
+Dialogue: 0,0:05:06.08,0:05:07.70,main,Duke,0,0,0,,You're talking with it right now, aren't you?
+Dialogue: 0,0:05:08.32,0:05:10.91,main,Alice,0,0,0,,I don't see them, \Nbut they're usually like that.
+Dialogue: 0,0:05:10.91,0:05:13.33,main,Duke,0,0,0,,You're acting really silly \Ntoday, and it's very cute!
+Dialogue: 0,0:05:14.93,0:05:16.54,main,Duke,0,0,0,,How about one of these?
+Dialogue: 0,0:05:17.24,0:05:21.75,main,Duke,0,0,0,,I don't know who they belong to, but they've \Nbeen in the mansion for a long time.
+Dialogue: 0,0:05:22.40,0:05:24.15,main,Duke,0,0,0,,There are a lot of different sizes.
+Dialogue: 0,0:05:24.15,0:05:26.10,main,Duke,0,0,0,,She can take the one she likes.
+Dialogue: 0,0:05:26.51,0:05:29.97,main,Duke,0,0,0,,Maybe if she finds the perfect ring,\N she'll be able to go to heaven.
+Dialogue: 0,0:05:30.62,0:05:32.49,main,Ghost,0,0,0,,Can I really take one?
+Dialogue: 0,0:05:32.49,0:05:33.93,main,Alice,0,0,0,,Yes, if you like it.
+Dialogue: 0,0:05:34.32,0:05:36.42,main,Duke,0,0,0,,You're just talking to a ghost now.
+Dialogue: 0,0:05:36.42,0:05:37.69,main,Alice,0,0,0,,But I don't see them.
+Dialogue: 0,0:05:38.87,0:05:43.13,main,Duke,0,0,0,,He should've measured her ring size.
+Dialogue: 0,0:05:44.00,0:05:46.23,main,Alice,0,0,0,,Perhaps it was a surprise?
+Dialogue: 0,0:05:46.23,0:05:51.02,main,Duke,0,0,0,,Sure, but you can wrap a string around her \Nfinger while she's asleep or something.
+Dialogue: 0,0:05:55.59,0:05:57.41,italics,Ghost,0,0,0,,What's wrong with these two?
+Dialogue: 0,0:06:00.71,0:06:02.93,main,Ghost,0,0,0,,I'm getting jealous.
+Dialogue: 0,0:06:02.93,0:06:04.67,main,Ghost,0,0,0,,Lend me your body for a little.
+Dialogue: 0,0:06:08.89,0:06:10.51,main,Duke,0,0,0,,Alice?
+Dialogue: 0,0:06:11.69,0:06:17.21,main,Alice,0,0,0,,Your Grace, I can't control myself anymore.
+Dialogue: 0,0:06:18.10,0:06:20.88,main,Alice,0,0,0,,Maybe there's a spot where \Nit's safe to touch me.
+Dialogue: 0,0:06:21.53,0:06:24.19,main,Alice,0,0,0,,Why don't we find out together?
+Dialogue: 0,0:06:26.69,0:06:28.25,main,Duke,0,0,0,,N-No!
+Dialogue: 0,0:06:28.25,0:06:32.03,main,Duke,0,0,0,,I don't think I can control myself!
+Dialogue: 0,0:06:32.03,0:06:33.53,main,Duke,0,0,0,,I'm sorry, Alice!
+Dialogue: 0,0:06:34.54,0:06:36.50,main,Ghost,0,0,0,,Why did he run away?
+Dialogue: 0,0:06:36.93,0:06:39.80,main,Ghost,0,0,0,,My darling's the only one for me.
+Dialogue: 0,0:06:40.45,0:06:43.29,main,Ghost,0,0,0,,I'll wait until he's dead.
+Dialogue: 0,0:06:43.29,0:06:45.46,main,Alice,0,0,0,,You'll wait all that time?
+Dialogue: 0,0:06:45.90,0:06:48.52,main,Ghost,0,0,0,,Yes. I really do love him.
+Dialogue: 0,0:06:48.52,0:06:51.43,main,Ghost,0,0,0,,And looking back, I think \NI can forgive him for the ring.
+Dialogue: 0,0:06:52.62,0:06:57.44,main,Ghost,0,0,0,,And I need to apologize for dying \Nso suddenly and leaving him alone.
+Dialogue: 0,0:06:57.44,0:07:00.18,main,Ghost,0,0,0,,I guess I made too big a deal out of it.
+Dialogue: 0,0:07:00.88,0:07:04.12,main,Ghost,0,0,0,,I'm satisfied now. I'll just move on.
+Dialogue: 0,0:07:04.12,0:07:06.02,main,Ghost,0,0,0,,You can have this.
+Dialogue: 0,0:07:09.20,0:07:11.45,main,Alice,0,0,0,,Um, please find happiness.
+Dialogue: 0,0:07:12.14,0:07:13.81,main,Ghost,0,0,0,,You too.
+Dialogue: 0,0:07:21.46,0:07:23.39,main,Alice,0,0,0,,Will they come today, you think?
+Dialogue: 0,0:07:24.34,0:07:29.09,main,Alice,0,0,0,,The owner of this business card was \Nsupposed to come in a few days.
+Dialogue: 0,0:07:29.35,0:07:31.84,main,Duke,0,0,0,,That's what Daleth said.
+Dialogue: 0,0:07:31.84,0:07:34.31,main,Duke,0,0,0,,But I need to drive them away when they come!
+Dialogue: 0,0:07:34.31,0:07:35.85,main,Alice,0,0,0,,You're sure?
+Dialogue: 0,0:07:37.31,0:07:39.81,main,Duke,0,0,0,,Well, I'd love to break the curse.
+Dialogue: 0,0:07:40.20,0:07:44.77,main,Duke,0,0,0,,But if I end up owing Daleth a favor \Nover it, I'll have to do what she wants.
+Dialogue: 0,0:07:45.24,0:07:51.53,flashback,Daleth,0,0,0,,I want you to ask Zain to \Nuse his time magic again.
+Dialogue: 0,0:07:52.57,0:07:56.88,main,Duke,0,0,0,,I promised Zain, so I can't \Ntell you the details.
+Dialogue: 0,0:07:57.21,0:07:59.68,main,Duke,0,0,0,,But I don't want to cause problems for him.
+Dialogue: 0,0:07:59.68,0:08:00.50,main,Duke,0,0,0,,Don't worry.
+Dialogue: 0,0:08:00.84,0:08:04.41,main,Duke,0,0,0,,No matter what kind of witch \Nit is, I'll protect you.
+Dialogue: 0,0:08:04.41,0:08:05.88,main,Alice,0,0,0,,How brave.
+Dialogue: 0,0:08:06.27,0:08:07.25,main,Alice,0,0,0,,Let me thank you by...
+Dialogue: 0,0:08:07.25,0:08:08.82,main,Duke,0,0,0,,Keep your clothes on!
+Dialogue: 0,0:08:08.82,0:08:10.38,main,Alice,0,0,0,,Are you psychic?
+Dialogue: 0,0:08:13.60,0:08:15.39,main,Alice,0,0,0,,It seems someone's here.
+Dialogue: 0,0:08:20.23,0:08:21.81,main,Duke,0,0,0,,I-It's time...
+Dialogue: 0,0:08:22.78,0:08:24.55,main,Amelia,0,0,0,,Daleth told me to come here.
+Dialogue: 0,0:08:24.55,0:08:26.52,main,Amelia,0,0,0,,Is this the place?
+Dialogue: 0,0:08:26.52,0:08:28.49,main,Duke,0,0,0,,U-Um, it's, uh...
+Dialogue: 0,0:08:28.49,0:08:30.40,main,Alice,0,0,0,,Is this your business card?
+Dialogue: 0,0:08:30.40,0:08:34.27,main,Amelia,0,0,0,,Oh, great! I finally made it...
+Dialogue: 0,0:08:39.72,0:08:41.29,main,Amelia,0,0,0,,W-Water...
+Dialogue: 0,0:08:41.90,0:08:44.75,main,Amelia,0,0,0,,Put me in salt water, fast!
+Dialogue: 0,0:08:45.93,0:08:48.46,main,Amelia,0,0,0,,Thanks so much!
+Dialogue: 0,0:08:49.11,0:08:53.52,main,Amelia,0,0,0,,It's been so long since I've been on land,\N and I kind of forgot how it works.
+Dialogue: 0,0:08:53.52,0:08:55.93,main,Amelia,0,0,0,,I almost dried up!
+Dialogue: 0,0:08:56.49,0:08:58.45,main,Duke,0,0,0,,I wasn't really thinking \Nwhen I saved you but...
+Dialogue: 0,0:08:58.45,0:09:01.41,main,Duke,0,0,0,,You're the witch that's good \Nwith breaking curses, right?
+Dialogue: 0,0:09:01.41,0:09:03.99,main,Amelia,0,0,0,,Yes. I'm Amelia.
+Dialogue: 0,0:09:03.99,0:09:08.89,main,Amelia,0,0,0,,I'm not so much a witch... as I \Nam an octopus born with magic.
+Dialogue: 0,0:09:11.13,0:09:13.49,main,Amelia,0,0,0,,Daleth told me about you.
+Dialogue: 0,0:09:13.79,0:09:17.95,main,Amelia,0,0,0,,A curse that kills just by touching, right?
+Dialogue: 0,0:09:18.51,0:09:21.29,main,Amelia,0,0,0,,I've broken a similar curse in the past.
+Dialogue: 0,0:09:21.29,0:09:23.16,main,Amelia,0,0,0,,I won't know until I try, but...
+Dialogue: 0,0:09:25.13,0:09:27.62,main,Amelia,0,0,0,,I might be able to break it for you!
+Dialogue: 0,0:09:31.59,0:09:35.05,main,Duke,0,0,0,,Um... I hate to say this after \Nyou came all the way here.
+Dialogue: 0,0:09:35.93,0:09:37.51,main,Duke,0,0,0,,But I'm thinking of saying no.
+Dialogue: 0,0:09:38.83,0:09:41.02,main,Duke,0,0,0,,I don't want to owe Daleth anything.
+Dialogue: 0,0:09:41.02,0:09:42.97,main,Duke,0,0,0,,It'll cause problems for a friend of mine.
+Dialogue: 0,0:09:42.97,0:09:46.44,main,Amelia,0,0,0,,Humans are always so loyal.
+Dialogue: 0,0:09:46.44,0:09:48.19,main,Amelia,0,0,0,,You're such fun creatures!
+Dialogue: 0,0:09:48.65,0:09:51.45,main,Alice,0,0,0,,You've dealt with humans in the past?
+Dialogue: 0,0:09:51.45,0:09:56.12,main,Amelia,0,0,0,,Yes. I even married an \Nunusual man a decade ago.
+Dialogue: 0,0:09:56.12,0:09:56.90,main,Duke,0,0,0,,Married?!
+Dialogue: 0,0:09:57.26,0:10:00.10,main,Amelia,0,0,0,,Well, it was only a formality.
+Dialogue: 0,0:10:00.94,0:10:03.40,main,Amelia,0,0,0,,I was so bored back then
+Dialogue: 0,0:10:03.40,0:10:05.17,main,Amelia,0,0,0,,that I would take the form of a huge octopus
+Dialogue: 0,0:10:05.17,0:10:07.33,main,Amelia,0,0,0,,and attack the cargo that ships were carrying.
+Dialogue: 0,0:10:07.70,0:10:11.54,main,Amelia,0,0,0,,But one day I attacked an armed pirate ship.
+Dialogue: 0,0:10:13.45,0:10:16.05,flashback,Amelia,0,0,0,,I guess this is it for me.
+Dialogue: 0,0:10:18.77,0:10:20.57,flashback,Amelia,0,0,0,,What is this?
+Dialogue: 0,0:10:20.57,0:10:22.11,flashback,Amelia,0,0,0,,Let me out!
+Dialogue: 0,0:10:24.17,0:10:25.73,flashback,Ringmaster,0,0,0,,Stay put.
+Dialogue: 0,0:10:25.73,0:10:27.73,flashback,Ringmaster,0,0,0,,I won't hurt you.
+Dialogue: 0,0:10:28.96,0:10:31.84,main,Amelia,0,0,0,,He'd happened to be aboard that day.
+Dialogue: 0,0:10:31.84,0:10:35.57,main,Amelia,0,0,0,,He hid me among the other \Ncargo so I could escape.
+Dialogue: 0,0:10:35.57,0:10:38.20,flashback,Amelia,0,0,0,,Th-Thank you for helping me.
+Dialogue: 0,0:10:38.50,0:10:40.03,flashback,Ringmaster,0,0,0,,Don't worry about it.
+Dialogue: 0,0:10:40.03,0:10:43.70,flashback,Ringmaster,0,0,0,,What could be more entertaining \Nthan talking with an octopus witch?
+Dialogue: 0,0:10:43.70,0:10:45.16,flashback,Amelia,0,0,0,,Is that how it works?
+Dialogue: 0,0:10:50.25,0:10:51.48,flashback,Ringmaster,0,0,0,,You got a boyfriend?
+Dialogue: 0,0:10:52.88,0:10:55.88,main,Amelia,0,0,0,,It all happened so fast after that...
+Dialogue: 0,0:10:56.14,0:10:58.80,main,Amelia,0,0,0,,We exchanged rings, \Nthough they were cheap ones...
+Dialogue: 0,0:10:58.80,0:11:02.04,main,Amelia,0,0,0,,And he went back to the city, and I the sea.
+Dialogue: 0,0:11:02.41,0:11:06.35,main,Amelia,0,0,0,,I doubt he remembers, but for me,\N it's a wonderful memory.
+Dialogue: 0,0:11:06.90,0:11:10.56,main,Amelia,0,0,0,,I've never seen him again, \Nbut I still love him.
+Dialogue: 0,0:11:10.56,0:11:12.56,main,Alice,0,0,0,,That's so romantic!
+Dialogue: 0,0:11:12.81,0:11:13.68,main,Amelia,0,0,0,,Right?
+Dialogue: 0,0:11:13.68,0:11:17.29,main,Amelia,0,0,0,,I'm not like the pretty \Nmermaids in the fairy tales!
+Dialogue: 0,0:11:17.29,0:11:19.29,main,Amelia,0,0,0,,Who knows what about me he liked?!
+Dialogue: 0,0:11:19.29,0:11:20.99,main,Duke,0,0,0,,She d-disappeared?
+Dialogue: 0,0:11:20.99,0:11:22.97,main,Alice,0,0,0,,No, it's camouflage.
+Dialogue: 0,0:11:22.97,0:11:26.43,main,Alice,0,0,0,,She's changed the color of her \Nbody to match her surroundings.
+Dialogue: 0,0:11:26.43,0:11:28.12,main,Duke,0,0,0,,So we can't see how embarrassed she is?
+Dialogue: 0,0:11:31.77,0:11:35.76,main,Amelia,0,0,0,,I know you're bothered by \Nwhat Daleth said, but...
+Dialogue: 0,0:11:35.76,0:11:38.30,main,Amelia,0,0,0,,I can't promise I'll be \Nable to break the curse.
+Dialogue: 0,0:11:38.30,0:11:42.82,main,Amelia,0,0,0,,Why not let me try before \Ndeciding what you'll do?
+Dialogue: 0,0:11:42.82,0:11:43.55,main,Duke,0,0,0,,But...
+Dialogue: 0,0:11:44.03,0:11:46.27,main,Amelia,0,0,0,,Are you that scared of Daleth?
+Dialogue: 0,0:11:46.27,0:11:47.76,main,Duke,0,0,0,,I am!
+Dialogue: 0,0:11:47.76,0:11:52.27,main,Duke,0,0,0,,She's got that scary mask and I can \Nnever tell what she's thinking!
+Dialogue: 0,0:11:52.88,0:11:55.55,main,Amelia,0,0,0,,Well, she can be difficult.
+Dialogue: 0,0:11:55.55,0:11:57.15,main,Amelia,0,0,0,,She doesn't know how to express herself,
+Dialogue: 0,0:11:57.15,0:11:58.40,main,Amelia,0,0,0,,and makes her own life harder.
+Dialogue: 0,0:11:58.98,0:12:04.45,main,Amelia,0,0,0,,But she's not a bad girl. \NDon't hate her too much.
+Dialogue: 0,0:12:04.45,0:12:06.63,main,Duke,0,0,0,,But she rules the Witches' World!
+Dialogue: 0,0:12:06.63,0:12:11.62,main,Amelia,0,0,0,,That's a witch thing. \NI'm an octopus. I don't care.
+Dialogue: 0,0:12:11.62,0:12:15.90,main,Amelia,0,0,0,,She only ended up ruling because everybody\N wanted her to, and she couldn't say no.
+Dialogue: 0,0:12:17.03,0:12:20.70,main,Amelia,0,0,0,,First, let's see if we can break your curse.
+Dialogue: 0,0:12:20.70,0:12:24.67,main,Amelia,0,0,0,,Or else what did I risk \Nmy life coming here for?
+Dialogue: 0,0:12:24.67,0:12:25.89,main,Duke,0,0,0,,True...
+Dialogue: 0,0:12:26.36,0:12:29.26,main,Alice,0,0,0,,How likely do you think it is \Nyou'll be able to break it?
+Dialogue: 0,0:12:29.26,0:12:32.29,main,Amelia,0,0,0,,It depends on how powerful the \Nwitch who laid the curse is.
+Dialogue: 0,0:12:32.29,0:12:35.92,main,Amelia,0,0,0,,But from past experience, \NI'd say there's an 80% chance.
+Dialogue: 0,0:12:37.94,0:12:39.32,main,Duke,0,0,0,,80%...
+Dialogue: 0,0:12:43.01,0:12:49.20,main,Duke,0,0,0,,If I break the curse, will I be able \Nto put a ring on Alice's finger?
+Dialogue: 0,0:12:51.15,0:12:52.66,main,Amelia,0,0,0,,Of course.
+Dialogue: 0,0:12:53.96,0:12:55.37,main,Duke,0,0,0,,Then please, help me.
+Dialogue: 0,0:12:55.37,0:12:58.63,main,Duke,0,0,0,,If it works, I'll make it \Nup to Daleth some other way.
+Dialogue: 0,0:12:59.34,0:13:01.38,main,Amelia,0,0,0,,Great!
+Dialogue: 0,0:13:03.09,0:13:08.14,main,Amelia,0,0,0,,Let's get you turned back into \Na normal human right away, then.
+Dialogue: 0,0:13:15.39,0:13:17.35,main,Amelia,0,0,0,,Here I go, poor cursed boy.
+Dialogue: 0,0:13:20.17,0:13:21.86,main,Amelia,0,0,0,,Don't dodge!
+Dialogue: 0,0:13:21.86,0:13:23.53,main,Duke,0,0,0,,Sorry! Years of habit!
+Dialogue: 0,0:13:23.83,0:13:26.80,main,Duke,0,0,0,,But it's dangerous to touch me!
+Dialogue: 0,0:13:26.80,0:13:29.03,main,Duke,0,0,0,,Witches and octopuses are \Nboth living creatures.
+Dialogue: 0,0:13:29.03,0:13:31.10,main,Amelia,0,0,0,,I'm a pro, okay?
+Dialogue: 0,0:13:31.10,0:13:36.00,main,Amelia,0,0,0,,A curse clings to the \Nsufferer's body like a film.
+Dialogue: 0,0:13:37.83,0:13:41.37,main,Amelia,0,0,0,,If you want to break the curse,\N you just rip it off.
+Dialogue: 0,0:13:41.37,0:13:43.42,main,Amelia,0,0,0,,I don't need to touch you.
+Dialogue: 0,0:13:43.74,0:13:46.39,main,Amelia,0,0,0,,Want to see my power for yourself?
+Dialogue: 0,0:13:51.40,0:13:54.05,main,Duke,0,0,0,,What? Fish?
+Dialogue: 0,0:13:54.05,0:13:56.82,main,Amelia,0,0,0,,The sea is the source of all life.
+Dialogue: 0,0:13:57.26,0:14:01.19,main,Amelia,0,0,0,,I can call upon the great \Npower that dwells in the sea.
+Dialogue: 0,0:14:02.34,0:14:04.34,main,Alice,0,0,0,,I can breathe and talk.
+Dialogue: 0,0:14:04.34,0:14:06.70,main,Duke,0,0,0,,Wow! Is this your magic?
+Dialogue: 0,0:14:06.70,0:14:08.69,main,Duke,0,0,0,,Wow, you're a genius!
+Dialogue: 0,0:14:10.04,0:14:11.33,main,Duke,0,0,0,,Please don't disappear, though!
+Dialogue: 0,0:14:11.33,0:14:12.62,main,Duke,0,0,0,,It makes it hard to compliment you!
+Dialogue: 0,0:14:15.92,0:14:18.11,main,Alice,0,0,0,,Is it alive?
+Dialogue: 0,0:14:19.28,0:14:22.75,main,Alice,0,0,0,,The fish are all so cute!
+Dialogue: 0,0:14:24.06,0:14:26.80,main,Duke,0,0,0,,They're so cute! And so are you!
+Dialogue: 0,0:14:26.80,0:14:29.22,main,Amelia,0,0,0,,I'm impressed that you can cry underwater...
+Dialogue: 0,0:14:30.73,0:14:32.27,main,Alice,0,0,0,,Look, Your Grace.
+Dialogue: 0,0:14:32.27,0:14:33.18,main,Alice,0,0,0,,The hallway, too!
+Dialogue: 0,0:14:33.77,0:14:35.69,main,Duke,0,0,0,,And there's a whale outside, too!
+Dialogue: 0,0:14:36.39,0:14:39.71,main,Amelia,0,0,0,,My magic covers this whole mansion.
+Dialogue: 0,0:14:39.71,0:14:41.75,main,Amelia,0,0,0,,Why not take a walk?
+Dialogue: 0,0:14:41.75,0:14:42.90,main,Duke,0,0,0,,Yay!
+Dialogue: 0,0:14:44.85,0:14:46.70,main,Amelia,0,0,0,,He looks like a good kid.
+Dialogue: 0,0:14:46.70,0:14:49.40,main,Amelia,0,0,0,,Why was he cursed, I wonder?
+Dialogue: 0,0:14:52.70,0:14:56.12,main,Alice,0,0,0,,I'm looking down at the \Nmansion... It's so strange.
+Dialogue: 0,0:14:56.48,0:14:58.82,main,Duke,0,0,0,,Look, Alice! There's a \Ndolphin right next to me!
+Dialogue: 0,0:14:58.82,0:15:00.83,main,Alice,0,0,0,,How cute!
+Dialogue: 0,0:15:01.70,0:15:03.07,main,Alice,0,0,0,,This is fun.
+Dialogue: 0,0:15:03.07,0:15:06.70,main,Alice,0,0,0,,I've never seen fish swimming so close to me.
+Dialogue: 0,0:15:06.70,0:15:07.80,main,Duke,0,0,0,,Me either.
+Dialogue: 0,0:15:12.22,0:15:16.26,main,Alice,0,0,0,,It's like I'm on an undersea date with you.
+Dialogue: 0,0:15:16.26,0:15:19.05,main,Duke,0,0,0,,A-Aw, a date?
+Dialogue: 0,0:15:23.52,0:15:28.51,italics,Song,0,0,0,,Let's walk through the sea together
+Dialogue: 0,0:15:28.51,0:15:33.18,italics,Song,0,0,0,,Let's swim under the sky
+Dialogue: 0,0:15:33.18,0:15:37.64,italics,Song,0,0,0,,A fantastic world beneath shining waves
+Dialogue: 0,0:15:37.64,0:15:42.46,italics,Song,0,0,0,,The fish are dreaming shining dreams
+Dialogue: 0,0:15:42.46,0:15:46.88,italics,Song,0,0,0,,The dolphins, the jellyfish, the sunfish
+Dialogue: 0,0:15:46.88,0:15:51.79,italics,Song,0,0,0,,The angelfish are cute too, but
+Dialogue: 0,0:15:51.79,0:15:57.95,italics,Song,0,0,0,,You're my mermaid after all
+Dialogue: 0,0:15:57.95,0:16:05.73,italics,Song,0,0,0,,I'm not just a maid, I'm your {\i0}mer{\i1}maid!
+Dialogue: 0,0:16:05.73,0:16:07.31,main,Alice,0,0,0,,Let's see what's down below, too.
+Dialogue: 0,0:16:07.31,0:16:08.44,main,Duke,0,0,0,,Oh, okay.
+Dialogue: 0,0:16:10.94,0:16:12.57,main,Duke,0,0,0,,A tiger shark!
+Dialogue: 0,0:16:12.57,0:16:14.11,main,Duke,0,0,0,,The pattern is so cute!
+Dialogue: 0,0:16:14.11,0:16:16.55,main,Duke,0,0,0,,And that's an elephant shark next to you!
+Dialogue: 0,0:16:16.55,0:16:18.01,main,Duke,0,0,0,,See how its nose is like an elephant's trunk?
+Dialogue: 0,0:16:18.01,0:16:18.62,main,Alice,0,0,0,,Yes.
+Dialogue: 0,0:16:19.38,0:16:23.92,main,Duke,0,0,0,,It's so strange, seeing all these fish from \Ndifferent parts of the world in one place.
+Dialogue: 0,0:16:23.92,0:16:25.83,main,Alice,0,0,0,,You know a lot about fish, Your Grace.
+Dialogue: 0,0:16:25.83,0:16:30.05,main,Duke,0,0,0,,Ever since I came here, I've always \Nbeen alone when it was time to play.
+Dialogue: 0,0:16:30.75,0:16:34.76,main,Duke,0,0,0,,There wasn't much to do but draw \Npictures out of the encyclopedias.
+Dialogue: 0,0:16:38.42,0:16:40.65,main,Duke,0,0,0,,The deep sea fish are all so unique, too.
+Dialogue: 0,0:16:40.65,0:16:42.48,main,Alice,0,0,0,,Yes, it's kind of cute.
+Dialogue: 0,0:16:42.82,0:16:44.09,main,Amelia,0,0,0,,Did you have fun?
+Dialogue: 0,0:16:44.09,0:16:45.37,main,Duke,0,0,0,,Yes, a lot!
+Dialogue: 0,0:16:45.37,0:16:47.16,main,Alice,0,0,0,,It was a wonderful time.
+Dialogue: 0,0:16:47.16,0:16:48.63,main,Amelia,0,0,0,,I'm glad.
+Dialogue: 0,0:16:48.63,0:16:51.19,main,Amelia,0,0,0,,Now, may I get to work?
+Dialogue: 0,0:16:51.19,0:16:53.42,main,Duke,0,0,0,,Yeah. Sorry for getting too excited.
+Dialogue: 0,0:16:53.42,0:16:55.62,main,Amelia,0,0,0,,Don't move. Put your hands out.
+Dialogue: 0,0:16:55.62,0:16:56.43,main,Duke,0,0,0,,Okay.
+Dialogue: 0,0:17:04.40,0:17:05.83,main,Alice,0,0,0,,Amelia?
+Dialogue: 0,0:17:05.83,0:17:07.36,main,Amelia,0,0,0,,I'm fine.
+Dialogue: 0,0:17:07.36,0:17:10.70,main,Amelia,0,0,0,,But what happened in your past?
+Dialogue: 0,0:17:11.73,0:17:16.14,main,Amelia,0,0,0,,I can see why Daleth came to me.
+Dialogue: 0,0:17:16.14,0:17:22.38,main,Amelia,0,0,0,,I only know of one witch in all of history \Nwho could lay such an evil curse!
+Dialogue: 0,0:17:27.36,0:17:30.17,main,Daleth,0,0,0,,Will Amelia be able to break that curse?
+Dialogue: 0,0:17:30.86,0:17:33.85,main,Daleth,0,0,0,,Well, I don't expect much.
+Dialogue: 0,0:17:34.86,0:17:38.25,italics,Hugo,0,0,0,,Zain, don't make a kid \Ncarry such heavy stuff!
+Dialogue: 0,0:17:38.25,0:17:40.28,italics,Zain,0,0,0,,I'm carrying more than you!
+Dialogue: 0,0:17:40.28,0:17:44.22,italics,Zain,0,0,0,,Don't act like a kid only when it helps you!
+Dialogue: 0,0:17:44.69,0:17:45.96,main,Daleth,0,0,0,,Gemini...
+Dialogue: 0,0:17:46.99,0:17:48.43,Default,Daleth,0,0,0,,The constellation of twins.
+Dialogue: 0,0:17:49.71,0:17:51.49,main,Duke,0,0,0,,Wh-What do you mean?
+Dialogue: 0,0:17:51.49,0:17:53.89,main,Duke,0,0,0,,You know the witch who cursed me?
+Dialogue: 0,0:17:53.89,0:17:55.17,main,Amelia,0,0,0,,Just watch.
+Dialogue: 0,0:17:56.69,0:17:58.02,main,Duke,0,0,0,,This is...
+Dialogue: 0,0:17:58.02,0:18:00.06,main,Amelia,0,0,0,,The curse placed on you.
+Dialogue: 0,0:18:00.06,0:18:01.64,main,Amelia,0,0,0,,Even if I try to rip it off,
+Dialogue: 0,0:18:03.05,0:18:05.56,main,Amelia,0,0,0,,it clings right to you.
+Dialogue: 0,0:18:05.93,0:18:07.89,main,Alice,0,0,0,,Amelia, you don't look well...
+Dialogue: 0,0:18:08.37,0:18:11.21,main,Amelia,0,0,0,,Its evil power is affecting me.
+Dialogue: 0,0:18:11.21,0:18:13.91,main,Amelia,0,0,0,,Don't bother me, Flapjack.
+Dialogue: 0,0:18:15.27,0:18:19.15,main,Amelia,0,0,0,,I heard she was dead, but I guess \NI still can't break the curse.
+Dialogue: 0,0:18:19.15,0:18:21.32,main,Duke,0,0,0,,Who is this witch?
+Dialogue: 0,0:18:21.95,0:18:26.58,main,Amelia,0,0,0,,Sade, Daleth's twin sister.
+Dialogue: 0,0:18:27.53,0:18:28.79,main,Duke,0,0,0,,Sister?
+Dialogue: 0,0:18:29.16,0:18:31.03,main,Amelia,0,0,0,,You can't think of any reason she did this?
+Dialogue: 0,0:18:31.03,0:18:31.93,main,Duke,0,0,0,,No!
+Dialogue: 0,0:18:31.93,0:18:34.75,main,Duke,0,0,0,,This is the first time I've \Nheard Daleth had a twin.
+Dialogue: 0,0:18:36.31,0:18:42.10,italics,Alice,0,0,0,,Were the two women in habits that the \Nlogbook spoke of Daleth and Sade?
+Dialogue: 0,0:18:42.97,0:18:45.72,italics,Alice,0,0,0,,But what were they doing there that day?
+Dialogue: 0,0:18:45.98,0:18:51.10,italics,Duke,0,0,0,,So the reason Daleth wants time \Nmagic has something to do Sade?
+Dialogue: 0,0:18:51.60,0:18:53.93,italics,Duke,0,0,0,,Does she want to bring her back to life?
+Dialogue: 0,0:18:54.59,0:18:56.00,italics,Alice/Duke,0,0,0,,I don't know...
+Dialogue: 0,0:18:56.00,0:18:58.09,main,Amelia,0,0,0,,Did I say a little too much?
+Dialogue: 0,0:18:58.09,0:18:59.90,main,Amelia,0,0,0,,Daleth will get mad at me.
+Dialogue: 0,0:19:01.30,0:19:04.12,main,Amelia,0,0,0,,That curse is more powerful than I am.
+Dialogue: 0,0:19:04.12,0:19:07.21,main,Amelia,0,0,0,,I'm sorry, but I don't think I can break it.
+Dialogue: 0,0:19:07.70,0:19:10.54,main,Duke,0,0,0,,How did such a powerful witch die?
+Dialogue: 0,0:19:10.82,0:19:13.50,main,Amelia,0,0,0,,I don't know...
+Dialogue: 0,0:19:14.89,0:19:16.03,main,Alice,0,0,0,,The fish...
+Dialogue: 0,0:19:16.03,0:19:16.97,main,Duke,0,0,0,,What's happening?
+Dialogue: 0,0:19:18.16,0:19:19.10,main,Duke,0,0,0,,Amelia?
+Dialogue: 0,0:19:19.10,0:19:21.07,main,Amelia,0,0,0,,I'm sorry, I can't keep this up.
+Dialogue: 0,0:19:21.07,0:19:23.43,main,Amelia,0,0,0,,Carry me to the sea!
+Dialogue: 0,0:19:23.43,0:19:24.65,main,Amelia,0,0,0,,Please!
+Dialogue: 0,0:19:24.65,0:19:26.22,main,Duke,0,0,0,,H-How...?
+Dialogue: 0,0:19:29.70,0:19:32.34,main,Amelia,0,0,0,,I'm sorry I couldn't help.
+Dialogue: 0,0:19:32.34,0:19:36.36,main,Duke,0,0,0,,It's okay. I'm sorry we couldn't \Ndo more to welcome you.
+Dialogue: 0,0:19:36.71,0:19:39.53,main,Duke,0,0,0,,I hope you can see your \Nhusband again someday.
+Dialogue: 0,0:19:39.75,0:19:42.49,main,Amelia,0,0,0,,Oh, thanks.
+Dialogue: 0,0:19:43.94,0:19:45.75,main,Amelia,0,0,0,,Be well, you two.
+Dialogue: 0,0:19:45.75,0:19:48.05,main,Amelia,0,0,0,,I'm looking forward to seeing you again.
+Dialogue: 0,0:19:48.05,0:19:49.18,main,Duke,0,0,0,,Oh, yeah.
+Dialogue: 0,0:19:49.49,0:19:52.46,main,Duke,0,0,0,,I'm not sure where to look \Nwhen I'm speaking, though.
+Dialogue: 0,0:19:56.17,0:19:57.49,main,Duke,0,0,0,,Hey, Alice.
+Dialogue: 0,0:19:57.82,0:20:00.78,main,Duke,0,0,0,,Let's go see Cuff and Zain soon.
+Dialogue: 0,0:20:01.19,0:20:03.76,main,Duke,0,0,0,,I want to talk to them about Daleth and Sade.
+Dialogue: 0,0:20:03.76,0:20:07.89,main,Alice,0,0,0,,It's rare for you to want to go into town.
+Dialogue: 0,0:20:08.52,0:20:10.48,main,Alice,0,0,0,,If you want tickets to the circus,
+Dialogue: 0,0:20:10.91,0:20:12.97,main,Alice,0,0,0,,Cuff gave me some.
+Dialogue: 0,0:20:12.97,0:20:15.10,main,Duke,0,0,0,,You're putting stuff there again?
+Dialogue: 0,0:20:16.19,0:20:17.86,main,Duke,0,0,0,,When the curse is broken...
+Dialogue: 0,0:20:18.38,0:20:20.57,main,Duke,0,0,0,,I want to go to all kinds of places with you.
+Dialogue: 0,0:20:21.12,0:20:26.03,main,Duke,0,0,0,,I only know what lies beyond \Nthat horizon from books.
+Dialogue: 0,0:20:26.79,0:20:30.00,main,Duke,0,0,0,,I want to see things with my own eyes.
+Dialogue: 0,0:20:30.67,0:20:32.46,main,Duke,0,0,0,,Where do you want to go, Alice?
+Dialogue: 0,0:20:32.83,0:20:37.42,main,Alice,0,0,0,,Hmm... the place I was born, \Nwhere I lived with my mother.
+Dialogue: 0,0:20:38.39,0:20:41.29,main,Alice,0,0,0,,I've only got scattered memories of it left,
+Dialogue: 0,0:20:41.29,0:20:43.38,main,Alice,0,0,0,,but there was a big garden,
+Dialogue: 0,0:20:43.38,0:20:47.43,main,Alice,0,0,0,,and my mother taught me \Nall about flowers there.
+Dialogue: 0,0:20:48.03,0:20:52.89,main,Alice,0,0,0,,I'd love for you to see \Nit someday, Your Grace.
+Dialogue: 0,0:20:53.24,0:20:54.44,main,Duke,0,0,0,,Let's go, then!
+Dialogue: 0,0:20:54.44,0:20:55.40,main,Duke,0,0,0,,Let's promise!
+Dialogue: 0,0:20:55.72,0:20:58.36,main,Duke,0,0,0,,We can take Rob and Viola, and Cuff and Zain.
+Dialogue: 0,0:20:59.02,0:21:02.82,main,Duke,0,0,0,,I'd love it if Mom, Dad, \Nand Walter came, too.
+Dialogue: 0,0:21:03.09,0:21:03.93,main,Duke,0,0,0,,Right?
+Dialogue: 0,0:21:03.93,0:21:07.39,main,Duke,0,0,0,,When the curse is broken, we'll all \Ngo to where you grew up together.
+Dialogue: 0,0:21:07.39,0:21:08.28,main,Duke,0,0,0,,It's a promise!
+Dialogue: 0,0:21:09.93,0:21:11.14,italics,Alice,0,0,0,,Together...
+Dialogue: 0,0:21:12.38,0:21:18.46,italics,Alice,0,0,0,,How happy would I be if I could still \Nbe with you when the curse is broken?
+Dialogue: 0,0:21:20.92,0:21:21.81,main,Alice,0,0,0,,Yes.
+Dialogue: 0,0:21:22.66,0:21:24.52,main,Alice,0,0,0,,Let's promise.
+Dialogue: 0,0:21:24.52,0:21:25.28,main,Duke,0,0,0,,Yeah.
+Dialogue: 0,0:21:28.53,0:21:30.79,main,Duke,0,0,0,,The sea's so cold at night.
+Dialogue: 0,0:21:30.79,0:21:32.77,main,Alice,0,0,0,,Want to get naked and warm each other up?
+Dialogue: 0,0:21:33.16,0:21:34.96,main,Duke,0,0,0,,I'd rather not...
+Dialogue: 0,0:23:07.12,0:23:10.26,main,Hugo,0,0,0,,Hey, you're married, right boss?
+Dialogue: 0,0:23:10.26,0:23:11.70,main,Hugo,0,0,0,,What's she like?
+Dialogue: 0,0:23:12.36,0:23:13.69,main,Ringmaster,0,0,0,,She's beautiful.
+Dialogue: 0,0:23:14.12,0:23:16.34,main,Ringmaster,0,0,0,,She's easily embarrassed and \Nlikes to hide herself...
+Dialogue: 0,0:23:16.34,0:23:19.21,main,Ringmaster,0,0,0,,And she's got hands this big, and eight legs!
+Dialogue: 0,0:23:19.21,0:23:21.70,main,Zain,0,0,0,,You made the last half of that up!
+Dialogue: 0,0:23:21.70,0:23:24.71,main,Ringmaster,0,0,0,,We've lived apart for 10 years, though.
+Dialogue: 0,0:23:25.51,0:23:27.35,main,Ringmaster,0,0,0,,I miss her...
+Dialogue: 0,0:23:27.35,0:23:29.54,main,Hugo,0,0,0,,I'm gonna go clean the toilets.
+Dialogue: 0,0:23:29.54,0:23:31.49,main,Zain,0,0,0,,Don't freak the kid out like that?
+Dialogue: 0,0:23:31.49,0:23:31.97,main,Ringmaster,0,0,0,,Huh?
+Dialogue: 0,0:23:34.97,0:23:40.25,sign_3189_10_Episode_13__The_,sign,0,0,0,,{\fs15\an8\pos(165,30)}The Duke of Death and His Maid\N{\fs11}The Duke, Alice, and Circus 101
+Dialogue: 0,0:23:35.66,0:23:39.36,main,Rob,0,0,0,,"The Duke, Alice, and Circus 101."
+

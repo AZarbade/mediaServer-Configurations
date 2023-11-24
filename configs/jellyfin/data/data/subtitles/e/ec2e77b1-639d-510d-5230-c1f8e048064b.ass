@@ -1,0 +1,56 @@
+[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Title,Arial,20,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0020,0030,0050,0
+Style: Next Title,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0040,0120,0
+Style: RightSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0300,0020,0080,0
+Style: LeftSign,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0120,0400,0040,0
+Style: EpNum,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0430,0020,0260,0
+Style: LowerLeft,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0020,0400,0020,0
+Style: LowerRight,Arial,22,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0400,0020,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:47.47,0:02:49.14,Default,On-screen Text,0000,0000,0000,,{\an8}ZOOM
+Dialogue: 0,0:03:47.41,0:03:50.96,Default,On-screen Text,0000,0000,0000,,{\an8}SMASH
+Dialogue: 0,0:04:14.40,0:04:19.36,Default,On-screen Text,0000,0000,0000,,{\an8}AIEEEEEE!
+Dialogue: 0,0:06:06.05,0:06:07.47,Default,On-screen Text,0000,0000,0000,,{\an8}SLAP
+Dialogue: 0,0:06:16.60,0:06:20.10,Default,On-screen Text,0000,0000,0000,,{\an8}MANDRAGORA COOKING
+Dialogue: 0,0:06:31.16,0:06:32.62,Default,On-screen Text,0000,0000,0000,,{\an8}TAK TAK TAK TAK TAK
+Dialogue: 0,0:06:32.62,0:06:33.62,Default,On-screen Text,0000,0000,0000,,{\an8}SWISH
+Dialogue: 0,0:06:33.66,0:06:34.87,Default,On-screen Text,0000,0000,0000,,{\an8}SIZZLE
+Dialogue: 0,0:06:37.37,0:06:39.87,Default,On-screen Text,0000,0000,0000,,{\an8}BAM
+Dialogue: 0,0:06:49.88,0:06:51.14,Default,On-screen Text,0000,0000,0000,,{\an8}TAK TAK TAK TAK TAK
+Dialogue: 0,0:06:51.14,0:06:51.89,Default,On-screen Text,0000,0000,0000,,{\an8}SWISH
+Dialogue: 0,0:06:52.05,0:06:53.14,Default,On-screen Text,0000,0000,0000,,{\an8}SIZZLE
+Dialogue: 0,0:06:55.64,0:06:57.64,Default,On-screen Text,0000,0000,0000,,{\an8}BAM
+Dialogue: 0,0:10:23.06,0:10:25.18,Default,On-screen Text,0000,0000,0000,,{\an8}DOT BARRETT
+Dialogue: 0,0:11:04.72,0:11:05.35,Default,On-screen Text,0000,0000,0000,,{\an8}PFFT
+Dialogue: 0,0:11:10.81,0:11:11.98,Default,On-screen Text,0000,0000,0000,,{\an8}CLENCH
+Dialogue: 0,0:11:24.83,0:11:28.50,Default,On-screen Text,0000,0000,0000,,{\an7}MEN
+Dialogue: 0,0:11:24.83,0:11:28.50,Default,On-screen Text,0000,0000,0000,,{\an9}WOMEN
+Dialogue: 0,0:11:34.00,0:11:40.01,Default,On-screen Text,0000,0000,0000,,{\an8}OOOOOOOOOO
+Dialogue: 0,0:11:40.01,0:11:42.01,Default,On-screen Text,0000,0000,0000,,{\an8}BAM
+Dialogue: 0,0:15:03.04,0:15:04.63,Default,On-screen Text,0000,0000,0000,,{\an8}SLAP
+Dialogue: 0,0:15:53.47,0:15:58.18,Default,On-screen Text,0000,0000,0000,,{\an8}GLOW
+Dialogue: 0,0:16:21.96,0:16:23.58,Default,On-screen Text,0000,0000,0000,,{\an8}GLOW
+Dialogue: 0,0:16:40.93,0:16:44.31,Default,On-screen Text,0000,0000,0000,,{\an8}NOM NOM NOM
+Dialogue: 0,0:23:35.31,0:23:40.02,Default,On-screen Text,0000,0000,0000,,NEXT EPISODE\NMASH BURNEDEAD AND THE MAGIC OF IRON
+
